@@ -17,11 +17,11 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 ||||
 ||||
 ||||
-|Linkedin|Not Cancelled|Internship isn't cancelled. But interviews are on hold|
+|Linkedin|Not Cancelled|Interviews are on hold|
 |Stripe|Not Cancelled||
 |Wish|Not Cancelled||
 |Disney|Not Cancelled||
-|Citadel|Not Cancelled|Spring interns are working from home. Summer is TBD|
+|Citadel|Not Cancelled|WFH Possible|
 |Expedia|Not Cancelled||
 |Adobe|Not Cancelled||
 |NASA|Not Cancelled||
@@ -32,10 +32,10 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Splunk|Not Cancelled||
 |Amazon|Not Cancelled||
 |Glassdoor|Not Cancelled|Hiring Freeze|
-|MongoDB|Not Cancelled|They have stopped hiring for thier Product Design internship|
-|NVIDIA|Not Cancelled|Will do remote if necessary|
-|Samsara|Not Cancelled|Have stopped hiring for some internships|
-|Carvana|Not Cancelled|Have stopped recruiting interns|
+|MongoDB|Not Cancelled||
+|NVIDIA|Not Cancelled|Remote possible|
+|Samsara|Not Cancelled||
+|Carvana|Not Cancelled|Hiring Freeze|
 |Western Digital|Not Cancelled||
 |Capital One|Not Cancelled||
 |Apple|Not Cancelled||
