@@ -47,3 +47,4 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Google|Not Cancelled||
 |Qualtrics|Not Cancelled||
 |Okta|Not Cancelled||
+|Pandora|Not Cancelled||
