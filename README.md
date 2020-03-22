@@ -17,10 +17,10 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 ||||
 ||||
 ||||
-|Linkedin|Not Cancelled|Internship isn't cancelled, but interviews are temporarily put on hold|
+|Linkedin|Not Cancelled|Internship isn't cancelled. But interviews are on hold|
 |Stripe|Not Cancelled||
 |Wish|Not Cancelled||
-|Disney|Not Cancelled|Park programs are cancelled, but professional programs are still on|
+|Disney|Not Cancelled||
 |Citadel|Not Cancelled|Spring interns are working from home. Summer is TBD|
 |Expedia|Not Cancelled||
 |Adobe|Not Cancelled||
@@ -31,7 +31,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Oscar Health|Not Cancelled||
 |Splunk|Not Cancelled||
 |Amazon|Not Cancelled||
-|Glassdoor|Not Cancelled|Pausing their hiring|
+|Glassdoor|Not Cancelled|Hiring Freeze|
 |MongoDB|Not Cancelled|They have stopped hiring for thier Product Design internship|
 |NVIDIA|Not Cancelled|Will do remote if necessary|
 |Samsara|Not Cancelled|Have stopped hiring for some internships|
