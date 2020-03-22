@@ -1,4 +1,4 @@
-# Internship status of companies - COVID-19
+# 2020 Summer Internship Status of Companies - COVID-19
 
 | Company | Status | Notes |
 |:--------|:------:|:------|
