@@ -4,25 +4,26 @@ You can also follow us on Twitter for updates -  [@hiring2020](https://twitter.c
 Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020)
 | Company | Status | Notes |
 |:--------|:------:|:------|
-|Yelp|Cancelled|All internships cancelled|
-|Urban Outfitters|Cancelled||
 |Softheon|Cancelled||
+|Funding Circle|Cancelled||
 |LendingClub|Cancelled||
 |GoCanvas|Cancelled||
 |Leo Burnett|Cancelled||
 |WillowTree|Cancelled||
 |IDEMIA|Cancelled||
 |Stubhub|Cancelled||
+|Yelp|Cancelled||
+|Urban Outfitters|Cancelled||
 ||||
 ||||
 ||||
-|Citadel|Not Cancelled|Spring interns are working from home. Summer is TBD|
+|Linkedin|Not Cancelled|Internship isn't cancelled, but interviews are temporarily put on hold|
 |Stripe|Not Cancelled||
 |Wish|Not Cancelled||
 |Disney|Not Cancelled|Park programs are cancelled, but professional programs are still on|
+|Citadel|Not Cancelled|Spring interns are working from home. Summer is TBD|
 |Expedia|Not Cancelled||
 |Adobe|Not Cancelled||
-|Linkedin|Not Cancelled|Internship isn't cancelled, but interviews are temporarily put on hold|
 |NASA|Not Cancelled||
 |Facebook|Not Cancelled||
 |Microsoft|Not Cancelled||
