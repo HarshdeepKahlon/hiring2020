@@ -17,6 +17,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 ||||
 ||||
 ||||
+|Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Stripe|Not Cancelled||
 |Wish|Not Cancelled||
