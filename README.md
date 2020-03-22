@@ -45,7 +45,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
 |Salesforce|Not Cancelled||
 |Samsara|Not Cancelled||
-|Splunk|Not Cancelled||
+|Splunk|Not Cancelled|Interviews still going on|
 |Stripe|Not Cancelled|Remote if needed|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled||
