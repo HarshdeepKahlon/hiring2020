@@ -50,3 +50,4 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Stripe|Not Cancelled|Remote if needed|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled||
+|Zillow|Not Cancelled|Interviews being cancelled|
