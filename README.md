@@ -40,6 +40,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |NASA|Not Cancelled||
 |NVIDIA|Not Cancelled|Remote possible|
 |Okta|Not Cancelled||
+|Oracle|Not Cancelled|Interviews being postponed to a later date|
 |Oscar Health|Not Cancelled|Final decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
 |Pandora|Not Cancelled||
