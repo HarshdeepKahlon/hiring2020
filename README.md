@@ -40,6 +40,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |NVIDIA|Not Cancelled|Remote possible|
 |Okta|Not Cancelled||
 |Oscar Health|Not Cancelled|Final decision by mid-April|
+|Pagerduty|Not Cancelled|Final decision by mid-April|
 |Pandora|Not Cancelled||
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
