@@ -48,6 +48,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Samsara|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Stripe|Not Cancelled|Remote if needed|
+|Uber|Not Cancelled|Interviews being cancelled|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled||
 |Zillow|Not Cancelled|Interviews being cancelled|
