@@ -35,6 +35,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Lyft|Not Cancelled||
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th|
+|Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
 |NASA|Not Cancelled||
 |NVIDIA|Not Cancelled|Remote possible|
