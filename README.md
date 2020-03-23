@@ -31,6 +31,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
 |Google|Not Cancelled||
+|Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |JP Morgan|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Lyft|Not Cancelled||
