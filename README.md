@@ -25,6 +25,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 ||||
 ||||
 |Adobe|Not Cancelled||
+|Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |Amazon|Not Cancelled||
 |Apple|Not Cancelled||
 |Atlassian|Not Cancelled||
@@ -61,6 +62,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship|
 |Samsara|Not Cancelled||
+|Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Stripe|Not Cancelled|Remote if needed|
