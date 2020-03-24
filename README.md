@@ -6,6 +6,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |:--------|:------:|:------|
 |23andMe|Cancelled||
 |Arista|Cancelled||
+|Boston Scientific|Cancelled||
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
 |IDEMIA|Cancelled||
