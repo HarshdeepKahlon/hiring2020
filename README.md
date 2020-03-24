@@ -7,6 +7,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
 |IDEMIA|Cancelled||
+|Kayak|Cancelled||
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
 |Softheon|Cancelled||
