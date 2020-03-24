@@ -52,6 +52,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th|
 |Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
+|Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled||
 |NVIDIA|Not Cancelled|Remote possible|
 |Okta|Not Cancelled||
