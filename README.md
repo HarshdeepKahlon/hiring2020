@@ -74,4 +74,5 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Walmart|Not Cancelled|Hiring Freeze|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled||
+|Xilinx|Not Cancelled|Remote Internship|
 |Zillow|Not Cancelled|Interviews being cancelled|
