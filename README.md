@@ -5,6 +5,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 | Company | Status | Notes |
 |:--------|:------:|:------|
 |23andMe|Cancelled||
+|Arista|Cancelled||
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
 |IDEMIA|Cancelled||
