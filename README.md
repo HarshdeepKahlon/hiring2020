@@ -42,6 +42,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Goldman Sachs|Not Cancelled||
 |Google|Not Cancelled|UX Internships cancelled|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
+|IMC Trading|Not Cancelled|Potentially remote.|
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |JP Morgan|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
