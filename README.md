@@ -45,6 +45,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
 |IMC Trading|Not Cancelled|Potentially remote.|
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
+|Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process has to wait.|
 |JP Morgan|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
