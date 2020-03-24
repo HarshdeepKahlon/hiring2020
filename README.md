@@ -52,7 +52,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Salesforce|Not Cancelled||
 |Samsara|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
-|Twilio|Not Cancelled ||
+|Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Stripe|Not Cancelled|Remote if needed|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Walmart|Not Cancelled|Hiring Freeze|
