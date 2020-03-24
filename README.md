@@ -55,6 +55,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th|
 |Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
+|Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled||
 |NVIDIA|Not Cancelled|Remote possible|
 |Okta|Not Cancelled||
