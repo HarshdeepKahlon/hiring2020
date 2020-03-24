@@ -35,7 +35,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |JP Morgan|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
-|Lyft|Not Cancelled|Remote onboarding with Remote or In-person decision by April 7th|
+|Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th|
 |Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
