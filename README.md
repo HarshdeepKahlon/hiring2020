@@ -16,6 +16,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Leo Burnett|Cancelled||
 |National Security Agency|Cancelled||
 |Rent The Runway|Cancelled||
+|Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Stubhub|Cancelled||
 |Urban Outfitters|Cancelled||
