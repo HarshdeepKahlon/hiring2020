@@ -50,6 +50,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
 |JP Morgan|Not Cancelled||
+|Liberty Mutual Insurance|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th|
