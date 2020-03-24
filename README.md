@@ -50,6 +50,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Oscar Health|Not Cancelled|Final decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
 |Pandora|Not Cancelled||
+|PayPal|Not Cancelled|Remote work for SWE interns|
 |Plaid|Not Cancelled|Interviews being cancelled|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
