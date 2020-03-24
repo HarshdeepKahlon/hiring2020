@@ -2,7 +2,7 @@
 This document will be updated regularly as new information becomes available <br/> <br/>
 You can also follow us on Twitter for updates -  [@hiring2020](https://twitter.com/hiring2020) <br/> <br/>
 Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020) <br/> <br/>
-This list is based on the initial list compiled by Alex Wallish. You can find his repo here [here](https://github.com/awallish/Internship-Status-2020)
+This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
 
 | Company | Status | Notes |
 |:--------|:------:|:------|
