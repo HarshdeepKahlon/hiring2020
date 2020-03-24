@@ -29,7 +29,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |Amazon|Not Cancelled||
 |Apple|Not Cancelled||
-|Atlassian|Not Cancelled||
+|Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
 |Capital One|Not Cancelled||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Remote Likely|
@@ -39,6 +39,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Dropbox|Not Cancelled||
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled||
+|Giphy|Not Cancelled|Hiring Freeze|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
 |Google|Not Cancelled|UX Internships cancelled|
