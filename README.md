@@ -4,6 +4,7 @@ You can also follow us on Twitter for updates -  [@hiring2020](https://twitter.c
 Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020)
 | Company | Status | Notes |
 |:--------|:------:|:------|
+|23andMe|Cancelled||
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
 |IDEMIA|Cancelled||
