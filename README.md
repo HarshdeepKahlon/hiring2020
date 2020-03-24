@@ -9,7 +9,8 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Boston Scientific|Cancelled||
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
-|IDEMIA|Cancelled||
+|IDEMIA|Cancelled|
+|IDEO|Cancelled|
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
@@ -37,7 +38,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Facebook|Not Cancelled||
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
-|Google|Not Cancelled||
+|Google|Not Cancelled|UX Internships cancelled|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |JP Morgan|Not Cancelled||
