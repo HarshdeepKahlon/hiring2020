@@ -55,7 +55,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Plaid|Not Cancelled|Interviews being cancelled|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
-|Salesforce|Not Cancelled||
+|Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship|
 |Samsara|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
