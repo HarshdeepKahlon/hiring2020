@@ -76,6 +76,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Nutanix|Not Cancelled|Worst case - Remote|
 |NVIDIA|Not Cancelled|Remote possible|
 |Okta|Not Cancelled|Toronto internships will be remote|
+|Optimizely|Not Cancelled|Hiring Freeze|
 |Oracle|Not Cancelled|Interviews being postponed to a later date|
 |Oscar Health|Not Cancelled|Final decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
