@@ -21,6 +21,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Leo Burnett|Cancelled||
 |National Security Agency|Cancelled||
 |OpenTable|Cancelled||
+|REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
@@ -80,7 +81,6 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Plaid|Not Cancelled|Interviews being cancelled|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
-|REI|Not Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time.|
 |Samsara|Not Cancelled||
 |Sigma Computing|Not Cancelled|Remote work|
