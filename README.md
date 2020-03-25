@@ -72,7 +72,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed.|
 |REI|Not Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
-|Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship|
+|Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time.|
 |Samsara|Not Cancelled||
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
