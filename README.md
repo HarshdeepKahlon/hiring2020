@@ -88,6 +88,6 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Vanguard|Not Cancelled|Decision by Mar 27|
 |Walmart|Not Cancelled|Hiring Freeze|
 |Western Digital|Not Cancelled||
-|Wish|Not Cancelled||
+|Wish|Not Cancelled|Hiring Freeze|
 |Xilinx|Not Cancelled|Remote Internship|
 |Zillow|Not Cancelled|Interviews being cancelled|
