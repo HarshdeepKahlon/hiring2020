@@ -82,6 +82,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |REI|Not Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time.|
 |Samsara|Not Cancelled||
+|Sigma Computing|Not Cancelled|Remote work|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
