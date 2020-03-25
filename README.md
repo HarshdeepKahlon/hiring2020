@@ -72,6 +72,7 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 |Stripe|Not Cancelled|Remote if needed|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Vanguard|Not Cancelled|Decision by Mar 27|
+|Visa|Not Cancelled||
 |Walmart|Not Cancelled|Hiring Freeze|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled||
