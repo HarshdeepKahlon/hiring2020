@@ -28,6 +28,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Softheon|Cancelled||
 |Stubhub|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
+|Toast|Cancelled| Internships in Boston cancelled|
 |Urban Outfitters|Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|Needs confirmation from others|
