@@ -10,6 +10,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |:--------|:------:|:------|
 |23andMe|Cancelled||
 |Arista|Cancelled||
+|Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled||
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
