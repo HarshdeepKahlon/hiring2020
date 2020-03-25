@@ -14,6 +14,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |GoCanvas|Cancelled||
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|
+|iHeartMedia|Cancelled|
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
