@@ -87,6 +87,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Stripe|Not Cancelled|Remote if needed|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Vanguard|Not Cancelled|Decision by Mar 27|
+|Visa|Not Cancelled||
 |Walmart|Not Cancelled|Hiring Freeze|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled|Hiring Freeze|
