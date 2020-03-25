@@ -51,7 +51,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
 |Disney|Not Cancelled||
 |DraftKings|Not Cancelled|Will be in touch with more details|
-|Dropbox|Not Cancelled||
+|Dropbox|Not Cancelled||Hiring Freeze
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled||
 |Giphy|Not Cancelled|Hiring Freeze|
