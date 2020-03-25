@@ -30,6 +30,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 ||||
 ||||
 ||||
+|Activision|Not Cancelled||
 |Adobe|Not Cancelled||
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |Amazon|Not Cancelled||
