@@ -35,6 +35,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Adobe|Not Cancelled||
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |Amazon|Not Cancelled||
+|Aon|Not Cancelled||Remote possible|
 |Apple|Not Cancelled||
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
 |Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
