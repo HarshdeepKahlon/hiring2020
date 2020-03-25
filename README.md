@@ -9,6 +9,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 | Company | Status | Notes |
 |:--------|:------:|:------|
 |23andMe|Cancelled||
+|Alaska Airlines|Cancelled||
 |Arista|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled||
