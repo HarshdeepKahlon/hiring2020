@@ -59,7 +59,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Giphy|Not Cancelled|Hiring Freeze|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
-|Google|Not Cancelled|UX Internships cancelled, SWE internships are remote|
+|Google|Not Cancelled|UX Internships cancelled, SWE and research internships are remote|
 |Hulu|Not Cancelled|SWE positions on-hold|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
 |IMC Trading|Not Cancelled|Potentially remote.|
