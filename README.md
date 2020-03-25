@@ -84,7 +84,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Plaid|Not Cancelled|Interviews being cancelled|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
-|Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time.|
+|Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
 |Sigma Computing|Not Cancelled|Remote work|
 |Snowflake|Not Cancelled||
