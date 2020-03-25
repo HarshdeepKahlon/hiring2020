@@ -20,6 +20,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
 |National Security Agency|Cancelled||
+|OpenTable|Cancelled||
 |Rent The Runway|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
