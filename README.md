@@ -23,7 +23,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Stubhub|Cancelled||
-|Sumo Logic|Cancelled||
+|Sumo Logic|Cancelled| Both Summer and Fall|
 |Urban Outfitters|Cancelled||
 |WillowTree|Cancelled||
 |Yelp|Cancelled||
