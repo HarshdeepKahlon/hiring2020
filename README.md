@@ -99,4 +99,5 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled|Hiring Freeze|
 |Xilinx|Not Cancelled|Remote Internship|
+|Zebra Technology| Not Cancelled||
 |Zillow|Not Cancelled|Interviews being cancelled|
