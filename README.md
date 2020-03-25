@@ -36,6 +36,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Amazon|Not Cancelled||
 |Apple|Not Cancelled||
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
+|Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
 |Capital One|Not Cancelled||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Remote Likely|
