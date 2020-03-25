@@ -77,6 +77,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
+|Twitch|Not Cancelled|Remote Internship|
 |Stripe|Not Cancelled|Remote if needed|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Vanguard|Not Cancelled|Decision by Mar 27|
