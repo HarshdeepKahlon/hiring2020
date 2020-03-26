@@ -67,6 +67,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Google|Not Cancelled|UX Internships cancelled, SWE and research internships are remote|
 |Hulu|Not Cancelled|SWE positions on-hold|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
+|IBM Research|Not Cancelled|Hiring Freeze|
 |IMC Trading|Not Cancelled|Potentially remote.|
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
