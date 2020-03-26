@@ -67,6 +67,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled||
+|Garmin|Not Cancelled||
 |Giphy|Not Cancelled|Hiring Freeze|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
