@@ -95,6 +95,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Sigma Computing|Not Cancelled|Remote work|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
+|Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship|
 |Stripe|Not Cancelled|Remote if needed|
