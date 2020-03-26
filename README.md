@@ -78,7 +78,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled| Internship cancellation decision by April 15|
 |Nutanix|Not Cancelled|Worst case - Remote|
-|NVIDIA|Not Cancelled|Remote possible|
+|NVIDIA|Not Cancelled|Remote - fully or partially|
 |Okta|Not Cancelled|Toronto internships will be remote|
 |Optimizely|Not Cancelled|Hiring Freeze|
 |Oracle|Not Cancelled|Interviews being postponed to a later date|
