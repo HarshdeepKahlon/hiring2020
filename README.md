@@ -16,6 +16,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Datto|Cancelled||
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
+|Gartner|Cancelled||
 |GoCanvas|Cancelled||
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|
