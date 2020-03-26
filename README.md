@@ -13,7 +13,6 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Arista|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled||
-|Datto|Cancelled||
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
 |Gartner|Cancelled||
