@@ -17,6 +17,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Funding Circle|Cancelled||
 |Gartner|Cancelled||
 |GoCanvas|Cancelled||
+|Groupon|Cancelled||
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|
 |iHeartMedia|Cancelled|
