@@ -113,7 +113,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
 |Walmart|Not Cancelled|Hiring Freeze|
-|Wayfair|Not Cancelled|Still on for now. Final decision TBD
+|Wayfair|Not Cancelled|Still on for now. Final decision TBD|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled|Hiring Freeze|
 |Xilinx|Not Cancelled|Remote Internship|
