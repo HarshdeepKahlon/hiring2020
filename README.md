@@ -106,6 +106,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Samsara|Not Cancelled||
 |SAP|Not Cancelled||
 |Sigma Computing|Not Cancelled|Remote work|
+|Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
