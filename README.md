@@ -30,6 +30,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Rent The Runway|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
+|Southwest Airlines|Cancelled|Gauging interest for fall internship. Gift card being provided as compensation.|
 |Stubhub|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
 |Toast|Cancelled| Internships in Boston cancelled|
