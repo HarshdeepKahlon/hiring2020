@@ -84,6 +84,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Oracle|Not Cancelled|Interviews being postponed to a later date|
 |Oscar Health|Not Cancelled|Final decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
+|Palantir|Not Cancelled||
 |Pandora|Not Cancelled||
 |PayPal|Not Cancelled|Remote work for SWE interns|
 |Plaid|Not Cancelled|Interviews being cancelled|
