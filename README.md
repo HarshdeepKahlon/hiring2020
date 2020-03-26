@@ -56,6 +56,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Disney|Not Cancelled||
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
+|Ebay|Not Cancelled|Remote or in-person decision will by April 15|
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled||
 |Giphy|Not Cancelled|Hiring Freeze|
