@@ -22,6 +22,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
 |National Security Agency|Cancelled||
+|NCC Group|Cancelled||
 |OpenTable|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
