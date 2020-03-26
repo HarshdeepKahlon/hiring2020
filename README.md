@@ -32,6 +32,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Softheon|Cancelled||
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
 |Stubhub|Cancelled||
+|Stuller|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
 |Toast|Cancelled| Internships in Boston cancelled|
 |Uplift|Cancelled||
