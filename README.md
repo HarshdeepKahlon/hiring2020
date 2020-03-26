@@ -13,6 +13,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Arista|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled||
+|Datto|Cancelled||
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
 |GoCanvas|Cancelled||
@@ -56,6 +57,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Cisco|Not Cancelled|Remote Likely|
 |Citadel|Not Cancelled|WFH Possible|
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
+|Constant Contact|Not Cancelled||
 |Disney|Not Cancelled||
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
