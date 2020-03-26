@@ -76,7 +76,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
 |Mozilla|Not Cancelled|Remote Internship|
-|NASA|Not Cancelled||
+|NASA|Not Cancelled| Internship cancellation decision by April 15|
 |Nutanix|Not Cancelled|Worst case - Remote|
 |NVIDIA|Not Cancelled|Remote possible|
 |Okta|Not Cancelled|Toronto internships will be remote|
