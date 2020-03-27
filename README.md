@@ -62,7 +62,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Citadel|Not Cancelled|WFH Possible|
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
 |Constant Contact|Not Cancelled||
-|Dell|Not Cancelled|Remote|
+|Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Disney|Not Cancelled||
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
