@@ -1,6 +1,6 @@
 # 2020 Internship Status - COVID-19
 This document will be updated regularly as new information becomes available <br/> <br/>
-**Also, if you would like to receive notifications for a particular company you are interested in, please fill this [form](https://forms.gle/53H6yjHLDMjF1L3AA)** <br/> <br/>
+**Also, if you would like to receive notifications for a particular company you are interested in, please fill this [form](https://forms.gle/53H6yjHLDMjF1L3AA)**
 
 You can also join our group on Facebook for discussions or follow us on Twitter for updates:
 1. Facebook - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
