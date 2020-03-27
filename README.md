@@ -19,7 +19,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
 |IDEMIA|Cancelled|
-|IDEO|Cancelled|
+|IDEO|Cancelled|Ideo.org too|
 |iHeartMedia|Cancelled|
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
