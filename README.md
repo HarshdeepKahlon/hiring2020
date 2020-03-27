@@ -21,6 +21,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|Ideo.org too|
 |iHeartMedia|Cancelled|
+|InterSystems|Cancelled|
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
