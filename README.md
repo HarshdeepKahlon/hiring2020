@@ -6,8 +6,10 @@ Contribute by making a pull request or reach out to us on twitter at [@hiring202
 **Disclaimer** - Information provided here is sourced from discussions on the internet. Hence, it's possible some of the information is inaccurate or speculative. Please keep this in mind when making decisions using this information. <br/> <br/>
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
 
-| Company | Status | Notes |
-|:--------|:------:|:------|
+### COVID-19 Summer 2020 Internship Status List
+
+|               Company               |       Status       |            Notes           |
+|:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
 |Arista|Cancelled||
