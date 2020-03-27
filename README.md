@@ -19,7 +19,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
 |IDEMIA|Cancelled|
-|IDEO|Cancelled|
+|IDEO|Cancelled|Ideo.org too|
 |iHeartMedia|Cancelled|
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
@@ -29,6 +29,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |OpenTable|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
+|Roku|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
@@ -38,6 +39,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Toast|Cancelled| Internships in Boston cancelled|
 |Uplift|Cancelled||
 |Urban Outfitters|Cancelled||
+|USTA 2020 D&I|Cancelled|| 
 |WillowTree|Cancelled||
 |Workday|Cancelled|Needs confirmation from others|
 |Yelp|Cancelled||
@@ -45,7 +47,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 ||||
 ||||
 |1Password|Not Cancelled|Hiring Freeze|
-|Activision|Not Cancelled||
+|Activision/Blizzard|Not Cancelled||
 |Adobe|Not Cancelled|Hiring Freeze|
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
@@ -61,20 +63,25 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Citadel|Not Cancelled|WFH Possible|
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
 |Constant Contact|Not Cancelled||
+|Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Disney|Not Cancelled||
+|Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
+|Electronic Arts|Not Cancelled|Remote|
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled||
 |Garmin|Not Cancelled||
 |Giphy|Not Cancelled|Hiring Freeze|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
-|Google|Not Cancelled|UX Internships cancelled. SWE, research and business internships are remote|
+|Google|Not Cancelled|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
+|HP|Not Cancelled|Remote. Won't be cancelled.|
 |HPE|Not Cancelled|Remote|
 |HubSpot|Not Cancelled|Remote possible. Continuing hiring|
 |Hulu|Not Cancelled|SWE positions on-hold|
+|Humana|Not Cancelled|Cancellation unlikely. Possibly remote.|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
 |IBM Research|Not Cancelled|Hiring Freeze|
 |IMC Trading|Not Cancelled|Potentially remote.|
@@ -104,6 +111,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |PlayStation|Not Cancelled|Remote in the worst case|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
+|Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
 |SAP|Not Cancelled||
@@ -111,6 +119,8 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
+|Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
+|Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship|
@@ -123,6 +133,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |VMware|Not Cancelled|Will be remote|
 |Walmart|Not Cancelled|Hiring Freeze|
 |Wayfair|Not Cancelled|Still on for now. Final decision TBD|
+|WePay|Not Cancelled|Won't be cancelling|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled|Hiring Freeze|
 |Xilinx|Not Cancelled|Remote Internship|
