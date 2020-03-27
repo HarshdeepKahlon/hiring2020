@@ -64,6 +64,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Constant Contact|Not Cancelled||
 |Dell|Not Cancelled|Remote|
 |Disney|Not Cancelled||
+|Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
