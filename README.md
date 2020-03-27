@@ -81,6 +81,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Facebook|Not Cancelled|Decision to be given by Mid-April|
 |Garmin|Not Cancelled||
 |Gemography|Not Cancelled|Remote Internship|
+|Genentech|Not Cancelled|Evaluating the possibility of virtual internships with a final decision by April 10|
 |Giphy|Not Cancelled|Hiring Freeze|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
