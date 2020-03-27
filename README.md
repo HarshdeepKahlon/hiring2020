@@ -78,6 +78,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |HP|Not Cancelled|Remote. Won't be cancelled.|
 |HubSpot|Not Cancelled|Remote possible. Continuing hiring|
 |Hulu|Not Cancelled|SWE positions on-hold|
+|Humana|Not Cancelled|Remote possible.|
 |IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
 |IBM Research|Not Cancelled|Hiring Freeze|
 |IMC Trading|Not Cancelled|Potentially remote.|
