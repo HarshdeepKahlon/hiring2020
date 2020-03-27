@@ -66,6 +66,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Cisco|Not Cancelled|Remote Likely|
 |Citadel|Not Cancelled|WFH Possible|
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
+|CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|Not Cancelled||
 |Coveo|Not Cancelled|Remote work, if needed|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
