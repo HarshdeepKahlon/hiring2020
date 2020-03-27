@@ -55,6 +55,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Adobe|Not Cancelled|Hiring Freeze|
 |ADP|Not Cancelled|Remote if needed|
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
+|Alarm.com|Not Cancelled||
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
 |Amazon|Not Cancelled||
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
