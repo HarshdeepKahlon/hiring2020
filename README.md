@@ -102,6 +102,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Liberty Mutual Insurance|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
+|Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th|
 |Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
