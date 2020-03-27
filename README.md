@@ -46,7 +46,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 ||||
 ||||
 |1Password|Not Cancelled|Hiring Freeze|
-|Activision|Not Cancelled||
+|Activision/Blizzard|Not Cancelled||
 |Adobe|Not Cancelled|Hiring Freeze|
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
