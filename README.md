@@ -146,6 +146,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |VMware|Not Cancelled|Will be remote|
 |Volvo|Not Cancelled|Hiring freeze|
 |Walmart|Not Cancelled|Hiring Freeze|
+|WarnerMedia|Not Cancelled||
 |Wayfair|Not Cancelled|Still on for now. Final decision TBD|
 |WePay|Not Cancelled|Won't be cancelling|
 |Western Digital|Not Cancelled||
