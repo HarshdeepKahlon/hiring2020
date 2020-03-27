@@ -130,7 +130,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
-|Twitch|Not Cancelled|Remote Internship|
+|Twitch|Not Cancelled|Remote Internship. Hiring freeze.|
 |Stripe|Not Cancelled|Remote if needed|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
