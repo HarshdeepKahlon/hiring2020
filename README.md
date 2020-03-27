@@ -102,6 +102,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |MongoDB|Not Cancelled||
 |Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled| Internship cancellation decision by April 15|
+|Noblis|Not Cancelled|Currently evaluating remote internships|
 |Nutanix|Not Cancelled|Worst case - Remote|
 |NVIDIA|Not Cancelled|Remote - fully or partially|
 |Okta|Not Cancelled|Toronto internships will be remote|
