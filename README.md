@@ -135,6 +135,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Uber|Not Cancelled|Interviews being cancelled|
 |Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
 |Vanguard|Not Cancelled|Decision by Mar 27|
+|Verily|Not Cancelled|Hiring freeze|
 |Viasat|Not Cancelled|Decision by Apr 1|
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
