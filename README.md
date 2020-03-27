@@ -52,6 +52,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |1Password|Not Cancelled|Hiring Freeze|
 |Activision/Blizzard|Not Cancelled||
 |Adobe|Not Cancelled|Hiring Freeze|
+|ADP|Not Cancelled|Remote if needed|
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
 |Amazon|Not Cancelled||
@@ -135,6 +136,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Viasat|Not Cancelled|Decision by Apr 1|
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
+|Volvo|Not Cancelled|Hiring freeze|
 |Walmart|Not Cancelled|Hiring Freeze|
 |Wayfair|Not Cancelled|Still on for now. Final decision TBD|
 |WePay|Not Cancelled|Won't be cancelling|
