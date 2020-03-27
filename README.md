@@ -69,6 +69,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
+|Electronic Arts|Not Cancelled|Remote|
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled||
 |Garmin|Not Cancelled||
@@ -118,6 +119,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
+|Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship|
