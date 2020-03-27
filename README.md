@@ -108,6 +108,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |PlayStation|Not Cancelled|Remote in the worst case|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
+|Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
 |SAP|Not Cancelled||
