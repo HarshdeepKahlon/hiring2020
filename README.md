@@ -151,6 +151,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |WePay|Not Cancelled|Won't be cancelling|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled|Hiring Freeze|
+|Xandr|Not Cancelled|Considering Remote|
 |Xilinx|Not Cancelled|Remote Internship|
 |Zebra Technology| Not Cancelled||
 |Zillow|Not Cancelled|Interviews being cancelled|
