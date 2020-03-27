@@ -29,6 +29,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |OpenTable|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
+|Roku|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
