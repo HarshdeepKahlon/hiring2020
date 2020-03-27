@@ -113,6 +113,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
+|Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship|
