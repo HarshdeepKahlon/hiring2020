@@ -78,6 +78,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Goldman Sachs|Not Cancelled||
 |Google|Not Cancelled|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
 |HP|Not Cancelled|Remote. Won't be cancelled.|
+|HPE|Not Cancelled|Remote|
 |HubSpot|Not Cancelled|Remote possible. Continuing hiring|
 |Hulu|Not Cancelled|SWE positions on-hold|
 |Humana|Not Cancelled|Cancellation unlikely. Possibly remote.|
