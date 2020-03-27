@@ -40,7 +40,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Stuller|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
 |Toast|Cancelled| Internships in Boston cancelled|
-|TripAdvisor|Cancelled||
+|TripAdvisor|Cancelled|Needs confirmation|
 |Uplift|Cancelled||
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
