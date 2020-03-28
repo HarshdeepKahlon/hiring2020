@@ -115,6 +115,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |IMC Trading|Not Cancelled|Potentially remote.|
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
+|Intuit|Not Cancelled|No plans to cancel internship or new grad positions. Remote possible.|
 |JP Morgan|Not Cancelled||
 |Juniper Networks|Not Cancelled|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
@@ -152,7 +153,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Sigma Computing|Not Cancelled|Remote work|
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
-|Splunk|Not Cancelled|Interviews still going on|
+|Splunk|Not Cancelled|Internship hiring put on hold.|
 |Stripe|Not Cancelled|Fully remote|
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
 |Talend|Not Cancelled|Remote Internship|
