@@ -1,5 +1,5 @@
 # 2020 Internship Status - COVID-19
-This document will be updated regularly as new information becomes available <br/><br/>
+This document will be updated regularly as new information becomes available <br/>
 
 **Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
