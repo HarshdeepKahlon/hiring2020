@@ -73,6 +73,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Capital One|Not Cancelled||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Remote Likely|
+|Cisco Meraki|Not Cancelled|Remote confirmed| 
 |Citadel|Not Cancelled|WFH Possible|
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
 |CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
