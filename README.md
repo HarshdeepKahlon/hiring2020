@@ -137,12 +137,12 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Interviews still going on|
+|Stripe|Not Cancelled|Fully remote|
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
 |Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship. Hiring freeze.|
-|Stripe|Not Cancelled|Remote if needed|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
 |Vanguard|Not Cancelled|Decision by Mar 27|
