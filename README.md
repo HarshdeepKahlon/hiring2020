@@ -55,7 +55,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
 |WillowTree|Cancelled||
-|Workday|Cancelled||
+|Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
 ||||
 ||||
