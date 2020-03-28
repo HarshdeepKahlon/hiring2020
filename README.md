@@ -71,7 +71,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
 |American Airlines|Not Cancelled||
 |American Express|Not Cancelled|Hiring Freeze|
-|Aon|Not Cancelled||Remote possible|
+|Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
 |Blade|Not Cancelled|Currently no plans to change anything|
