@@ -94,6 +94,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Electronic Arts|Not Cancelled|Remote|
 |Expedia|Not Cancelled||
 |Facebook|Not Cancelled|Decision to be given by Mid-April|
+|FireEye|Not Cancelled|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|Not Cancelled||
 |Garmin|Not Cancelled||
 |Gemography|Not Cancelled|Remote Internship|
