@@ -122,6 +122,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |NVIDIA|Not Cancelled|Remote - fully or partially|
 |Okta|Not Cancelled|Toronto internships will be remote|
 |Optimizely|Not Cancelled|Hiring Freeze|
+|Optiver|Not Cancelled|Won't cancel. Remote if needed.|
 |Oracle|Not Cancelled|Interviews being postponed to a later date|
 |Oscar Health|Not Cancelled|Final decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
