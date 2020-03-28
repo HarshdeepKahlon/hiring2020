@@ -8,6 +8,8 @@ You can also join our group on Facebook for discussions or follow us on Twitter 
 
 Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020)
 
+If you are on mobile, click 'View all of README.md' below to see the list.
+
 ### COVID-19 Summer 2020 Internship Status List
 
 |               Company               |       Status       |            Notes           |
