@@ -63,6 +63,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
 |Amazon|Not Cancelled||
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
+|American Airlines|Not Cancelled||
 |American Express|Not Cancelled||
 |Aon|Not Cancelled||Remote possible|
 |Apple|Not Cancelled|Starting remotely for now|
