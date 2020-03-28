@@ -92,6 +92,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
 |Electronic Arts|Not Cancelled|Remote|
 |Expedia|Not Cancelled||
+|F5 Networks|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|Not Cancelled|Decision to be given by Mid-April|
 |FireEye|Not Cancelled|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|Not Cancelled||
