@@ -33,6 +33,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Kayak|Cancelled||
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
+|Mayo Clinic|Cancelled|At least IT|
 |MullenLowe|Cancelled||
 |National Institutes of Health|Cancelled||
 |National Security Agency|Cancelled||
@@ -50,6 +51,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Toast|Cancelled| Internships in Boston cancelled|
 |TripAdvisor|Cancelled||
 |Uplift|Cancelled||
+|Uponor|Cancelled||
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
 |WillowTree|Cancelled||
@@ -112,6 +114,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
 |JP Morgan|Not Cancelled||
 |Juniper Networks|Not Cancelled|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
+|Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|Not Cancelled|Not hiring any more interns|
 |Liberty Mutual Insurance|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
@@ -138,6 +141,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |PlayStation|Not Cancelled|Remote in the worst case|
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
+|Raytheon BBN|Not Cancelled|Cancellation unlikely|
 |Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
