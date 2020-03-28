@@ -6,7 +6,7 @@ You can also join our group on Facebook for discussions or follow us on Twitter 
 1. Facebook - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
 2. Twitter - [@hiring2020](https://twitter.com/hiring2020)
 
-Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020) <br/> <br/>
+Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020)
 
 ### COVID-19 Summer 2020 Internship Status List
 
