@@ -7,8 +7,6 @@ You can also join our group on Facebook for discussions or follow us on Twitter 
 2. Twitter - [@hiring2020](https://twitter.com/hiring2020)
 
 Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020) <br/> <br/>
-**Disclaimer** - Information provided here is sourced from discussions on the internet. Hence, it's possible some of the information is inaccurate or speculative. Please keep this in mind when making decisions using this information. <br/> <br/>
-This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
 
 ### COVID-19 Summer 2020 Internship Status List
 
@@ -176,3 +174,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Zebra Technology| Not Cancelled||
 |Zillow|Not Cancelled|Interviews being cancelled|
 |Yahoo (Verizon Media)|Not Cancelled||Remote possible|
+
+
+**Disclaimer** - Information provided here is sourced from discussions on the internet. Hence, it's possible some of the information is inaccurate or speculative. Please keep this in mind when making decisions using this information. <br/> <br/>
+This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
