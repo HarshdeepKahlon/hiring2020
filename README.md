@@ -22,7 +22,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |Boston Scientific|Cancelled||
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
-|Gartner|Cancelled||
+|Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
 |IDEMIA|Cancelled|
