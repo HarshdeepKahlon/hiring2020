@@ -3,8 +3,8 @@ This document will be updated regularly as new information becomes available <br
 **Also, if you would like to receive notifications for a particular company you are interested in, please fill this [form](https://forms.gle/53H6yjHLDMjF1L3AA)**
 
 You can also join our group on Facebook for discussions or follow us on Twitter for updates:
-1. Facebook - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
-2. Twitter - [@hiring2020](https://twitter.com/hiring2020)
+1. **Facebook** - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
+2. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)
 
 Contribute by making a pull request or reach out to us on twitter at [@hiring2020](https://twitter.com/hiring2020)
 
