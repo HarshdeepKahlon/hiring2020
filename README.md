@@ -151,6 +151,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
+|Samsung|Not Cancelled|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
 |SAP|Not Cancelled||
 |Sigma Computing|Not Cancelled|Remote work|
 |Snap|Not Cancelled|Remote possible|
