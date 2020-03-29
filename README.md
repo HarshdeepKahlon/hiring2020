@@ -161,6 +161,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship. Hiring freeze.|
+|Two Sigma|Not Cancelled|NYC location is currently planning for in-person. Updates to come.|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
 |Vanguard|Not Cancelled|Decision by Mar 27|
