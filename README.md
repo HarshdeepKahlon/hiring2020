@@ -54,6 +54,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Uponor|Cancelled||
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
+|Wayfair|Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
@@ -170,7 +171,6 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Volvo|Not Cancelled|Hiring freeze|
 |Walmart|Not Cancelled|Hiring Freeze|
 |WarnerMedia|Not Cancelled||
-|Wayfair|Not Cancelled|Still on for now. Final decision TBD|
 |WePay|Not Cancelled|Won't be cancelling|
 |Western Digital|Not Cancelled||
 |Wish|Not Cancelled|Hiring Freeze|
