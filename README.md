@@ -43,6 +43,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Roku|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
+|Sonder|Cancelled|Revoked offers|
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
 |Stubhub|Cancelled||
 |Stuller|Cancelled||
