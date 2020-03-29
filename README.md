@@ -126,6 +126,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Liberty Mutual Insurance|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
+|Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
 |Mindbody|Not Cancelled|Interviews being cancelled|
