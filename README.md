@@ -158,6 +158,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Internship hiring put on hold.|
+|Sprout Social|Not Cancelled|Stopped hiring.|
 |Stripe|Not Cancelled|Fully remote|
 |Stryker|Not Cancelled|Decision by mid-April. Told not to make relocation plans.|
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
