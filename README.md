@@ -18,7 +18,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Arista|Cancelled||
 |Best Buy|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
-|Boston Scientific|Cancelled||
+|Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
 |Gartner|Cancelled|Even full time offers are getting rescinded|
@@ -159,6 +159,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Internship hiring put on hold.|
 |Stripe|Not Cancelled|Fully remote|
+|Stryker|Not Cancelled|Decision by mid-April. Told not to make relocation plans.|
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
 |Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
