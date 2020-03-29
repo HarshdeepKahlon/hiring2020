@@ -154,6 +154,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Samsara|Not Cancelled||
 |Samsung|Not Cancelled|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
 |SAP|Not Cancelled||
+|Shiseido|Not Cancelled|Hiring put on hold.|
 |Sigma Computing|Not Cancelled|Remote work|
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
