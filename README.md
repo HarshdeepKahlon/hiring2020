@@ -30,6 +30,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |InterSystems|Cancelled|
 |IPG MediaBrands|Cancelled|
 |Kayak|Cancelled||
+|LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offer (MBA)|
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
 |Mayo Clinic|Cancelled|At least IT|
