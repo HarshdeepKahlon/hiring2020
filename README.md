@@ -181,7 +181,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Viasat|Not Cancelled|Decision by Apr 1|
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
-|Volvo|Not Cancelled|Hiring freeze|
+|Volvo|Not Cancelled|Hiring freeze. Cancelling interviews.|
 |Walmart|Not Cancelled|Hiring Freeze|
 |WarnerMedia|Not Cancelled||
 |WePay|Not Cancelled|Won't be cancelling|
