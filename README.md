@@ -73,7 +73,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |Alarm.com|Not Cancelled||
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
-|Amazon|Not Cancelled||
+|Amazon|Not Cancelled||Just sent out a survey to determine the possibility of on-site or WFH|
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
 |American Airlines|Not Cancelled||
 |American Express|Not Cancelled|Hiring Freeze. Certain positions being cancelled. Waiting for more info.|
