@@ -44,6 +44,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
 |Roku|Cancelled||
+|Santander CIB|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
