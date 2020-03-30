@@ -83,6 +83,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Audible|Not Cancelled|On track to begin June 1|
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
 |Blade|Not Cancelled|Currently no plans to change anything|
+|Blend|Not Cancelled|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
 |Capital One|Remote Internships||
 |Carvana|Not Cancelled|Hiring Freeze|
