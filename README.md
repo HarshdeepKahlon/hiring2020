@@ -57,7 +57,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Uponor|Cancelled||
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
-|Wayfair|Cancelled||
+|Wayfair|Cancelled|Needs confirmation. There are contradictory reports.|
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
