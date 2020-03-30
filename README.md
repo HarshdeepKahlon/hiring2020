@@ -58,7 +58,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |TripAdvisor|Cancelled||
 |Uplift|Cancelled||
 |Uponor|Cancelled||
-|Urban Outfitters|Cancelled||
+|Urban Outfitters (URBN)|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
