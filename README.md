@@ -60,7 +60,6 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Uponor|Cancelled||
 |Urban Outfitters|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
-|Wayfair|Cancelled|Needs confirmation. There are contradictory reports.|
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
@@ -187,6 +186,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |VMware|Not Cancelled|Will be remote|
 |Volvo|Not Cancelled|Hiring freeze. Cancelling interviews.|
 |Walmart|Not Cancelled|Hiring Freeze|
+|Wayfair|Not Cancelled|Decision by mid-April.|
 |WarnerMedia|Not Cancelled||
 |WePay|Not Cancelled|Won't be cancelling|
 |Western Digital|Not Cancelled||
