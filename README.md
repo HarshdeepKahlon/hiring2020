@@ -78,6 +78,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
+|Audible|Not Cancelled|On track to begin June 1|
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
 |Blade|Not Cancelled|Currently no plans to change anything|
 |Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
