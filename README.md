@@ -92,6 +92,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Constant Contact|Not Cancelled||
 |Coveo|Not Cancelled|Remote work, if needed|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
+|Deloitte|Not Cancelled|Hiring Freeze|
 |Disney|Not Cancelled||
 |Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
 |DraftKings|Not Cancelled|Will be in touch with more details|
