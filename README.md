@@ -41,6 +41,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |National Geographic|Cancelled|
 |National Institutes of Health|Cancelled||
 |National Security Agency|Cancelled||
+|Norfolk Southern|Cancelled||
 |OpenTable|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
@@ -144,7 +145,6 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |NASA|Not Cancelled| Internship cancellation decision by April 15|
 |Noblis|Not Cancelled|Currently evaluating remote internships|
 |Nokia|Not Cancelled|Remote internships for all roles|
-|Norfolk Southern|Cancelled|
 |Nutanix|Not Cancelled|Worst case - Remote|
 |NVIDIA|Not Cancelled|Remote - fully or partially|
 |Okta|Not Cancelled|Toronto internships will be remote|
