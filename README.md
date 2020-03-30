@@ -135,6 +135,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled| Internship cancellation decision by April 15|
 |Noblis|Not Cancelled|Currently evaluating remote internships|
+|Nokia|Not Cancelled|Remote internships for all roles|
 |Nutanix|Not Cancelled|Worst case - Remote|
 |NVIDIA|Not Cancelled|Remote - fully or partially|
 |Okta|Not Cancelled|Toronto internships will be remote|
