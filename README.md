@@ -15,6 +15,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
+|Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Arista|Cancelled||
 |Best Buy|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
@@ -34,6 +35,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offer (MBA)|
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
+|Mattel|Cancelled|Cancelled MBA internships. Need information on others.|
 |Mayo Clinic|Cancelled|At least IT|
 |MullenLowe|Cancelled||
 |National Geographic|Cancelled|
@@ -43,6 +45,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
 |Roku|Cancelled||
+|Santander CIB|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
@@ -55,9 +58,8 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |TripAdvisor|Cancelled||
 |Uplift|Cancelled||
 |Uponor|Cancelled||
-|Urban Outfitters|Cancelled||
+|Urban Outfitters (URBN)|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
-|Wayfair|Cancelled|Needs confirmation. There are contradictory reports.|
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
@@ -71,18 +73,19 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
 |Alarm.com|Not Cancelled||
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
-|Amazon|Not Cancelled||
+|Amazon|Not Cancelled||Just sent out a survey to determine the possibility of on-site or WFH|
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
 |American Airlines|Not Cancelled||
-|American Express|Not Cancelled|Hiring Freeze|
+|American Express|Not Cancelled|Hiring Freeze. Certain positions being cancelled. Waiting for more info.|
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
 |Audible|Not Cancelled|On track to begin June 1|
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
 |Blade|Not Cancelled|Currently no plans to change anything|
+|Blend|Not Cancelled|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
-|Capital One|Not Cancelled||
+|Capital One|Remote Internships||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Fully Remote|
 |Cisco Meraki|Not Cancelled|Remote confirmed| 
@@ -93,6 +96,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Coveo|Not Cancelled|Remote work, if needed|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Disney|Not Cancelled||
+|DocuSign|Not Cancelled||
 |Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
 |DraftKings|Not Cancelled|Will be in touch with more details|
 |Dropbox|Not Cancelled|Hiring Freeze|
@@ -130,6 +134,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
 |Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
+|Mastercard|Not Cancelled|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
 |Mindbody|Not Cancelled|Interviews being cancelled|
 |MongoDB|Not Cancelled||
@@ -142,7 +147,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Okta|Not Cancelled|Toronto internships will be remote|
 |Optimizely|Not Cancelled|Hiring Freeze|
 |Optiver|Not Cancelled|Won't cancel. Remote if needed.|
-|Oracle|Not Cancelled|Interviews being postponed to a later date|
+|Oracle|Not Cancelled|Interviews being postponed to a later date. PM roles cancelled.|
 |Oscar Health|Not Cancelled|Final decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
 |Palantir|Not Cancelled||
@@ -153,6 +158,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
+|RedHat|Not Cancelled|Remote. Needs confirmation.|
 |Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
@@ -170,6 +176,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |Tinder|Not Cancelled|Interview decisions on hold. Internship decision to be made during week of April 6th|
+|T-Mobile|Not Cancelled|Monitoring situation|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
 |Twitch|Not Cancelled|Remote Internship. Hiring freeze.|
 |Two Sigma|Not Cancelled|NYC location is currently planning for in-person. Updates to come.|
@@ -180,8 +187,9 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Viasat|Not Cancelled|Decision by Apr 1|
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
-|Volvo|Not Cancelled|Hiring freeze|
+|Volvo|Not Cancelled|Hiring freeze. Cancelling interviews.|
 |Walmart|Not Cancelled|Hiring Freeze|
+|Wayfair|Not Cancelled|Decision by mid-April.|
 |WarnerMedia|Not Cancelled||
 |WePay|Not Cancelled|Won't be cancelling|
 |Western Digital|Not Cancelled||
