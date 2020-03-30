@@ -35,6 +35,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offer (MBA)|
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
+|Mattel|Cancelled|Cancelled MBA internships. Need information on others.|
 |Mayo Clinic|Cancelled|At least IT|
 |MullenLowe|Cancelled||
 |National Geographic|Cancelled|
