@@ -82,7 +82,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
 |Blade|Not Cancelled|Currently no plans to change anything|
 |Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
-|Capital One|Not Cancelled||
+|Capital One|Remote Internships||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Fully Remote|
 |Cisco Meraki|Not Cancelled|Remote confirmed| 
