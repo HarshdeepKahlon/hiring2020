@@ -132,6 +132,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
 |Mindbody|Not Cancelled|Interviews being cancelled|
+|MITRE|Not Cancelled|Remote Internship|
 |MongoDB|Not Cancelled||
 |Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled| Internship cancellation decision by April 15|
