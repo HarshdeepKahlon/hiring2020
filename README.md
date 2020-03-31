@@ -35,6 +35,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |IPG MediaBrands|Cancelled|
 |Kayak|Cancelled||
 |Kearney|Cancelled|MBA|
+|Kin and Carta|Cancelled||
 |LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offer (MBA)|
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
