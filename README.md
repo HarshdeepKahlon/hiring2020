@@ -55,7 +55,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
 |Roku|Cancelled||
-|Santander CIB|Cancelled||
+|Santander CIB|Cancelled|Needs confirmation.|
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
