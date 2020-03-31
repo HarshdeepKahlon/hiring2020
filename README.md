@@ -7,7 +7,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 <!---1. **Facebook** - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
 2. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)--->
 
-**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's not accurate, please bring it to our attention and we'll correct it. <br/>
+**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
 
 ### COVID-19 Summer 2020 Internship Status List
 
