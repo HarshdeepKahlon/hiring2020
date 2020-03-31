@@ -25,6 +25,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
+|EY-Parthenon|Cancelled|MBA Internships cancelled. Need confirmation. Also, information on other internships.| 
 |Funding Circle|Cancelled||
 |Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
