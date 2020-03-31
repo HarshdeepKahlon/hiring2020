@@ -15,6 +15,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
+|Amtrak|Cancelled||
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Arista|Cancelled||
 |Best Buy|Cancelled||
