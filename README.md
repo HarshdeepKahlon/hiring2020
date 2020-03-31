@@ -146,6 +146,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
 |Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
+|MarketAxess|Not Cancelled|Won't be cancelling. Moving remote.|
 |Mastercard|Not Cancelled|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
 |Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
 |Mindbody|Not Cancelled|Interviews being cancelled|
