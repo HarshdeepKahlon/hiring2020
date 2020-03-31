@@ -64,6 +64,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Sumo Logic|Cancelled| Both Summer and Fall|
 |Team One|Cancelled||
 |Tegna Inc.|Cancelled||
+|Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
 |TripAdvisor|Cancelled||
 |Uplift|Cancelled||
