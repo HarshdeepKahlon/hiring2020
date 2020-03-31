@@ -1,13 +1,13 @@
 # 2020 Internship Status - COVID-19
 This document will be updated regularly as new information becomes available. **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
-If you would like to receive notifications for a particular company you are interested in, please fill this [form](https://forms.gle/53H6yjHLDMjF1L3AA)
+<!---If you would like to receive notifications for a particular company you are interested in, please fill this [form](https://forms.gle/53H6yjHLDMjF1L3AA)--->
 
 You can also join our group on [Facebook](https://www.facebook.com/groups/hiring2020/) for discussions or follow us on [Twitter](https://twitter.com/hiring2020) for updates.
 <!---1. **Facebook** - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
 2. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)--->
 
-If you are on mobile, click 'View all of README.md' below to see the list.
+**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's not accurate, please bring it to our attention and we'll correct it. <br/> <br/>
 
 ### COVID-19 Summer 2020 Internship Status List
 
@@ -211,6 +211,4 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Zillow|Not Cancelled|Interviews being cancelled|
 |Yahoo (Verizon Media)|Not Cancelled||Remote possible|
 
-
-**Disclaimer** - Information provided here is sourced from discussions on the internet. Hence, it's possible some of the information is inaccurate or speculative. Please keep this in mind when making decisions using this information. <br/> <br/>
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
