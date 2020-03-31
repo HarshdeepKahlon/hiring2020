@@ -43,7 +43,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |National Institutes of Health|Cancelled||
 |National Security Agency|Cancelled||
 |Norfolk Southern|Cancelled||
-|Nordstrom |Cancelled||
+|Nordstrom |Cancelled|Cancelled all technology internships.|
 |OpenTable|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
