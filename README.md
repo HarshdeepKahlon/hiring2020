@@ -29,6 +29,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Groupon|Cancelled||
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|Ideo.org too|
+|IGN|Cancelled||
 |iHeartMedia|Cancelled|
 |InterSystems|Cancelled|
 |IPG MediaBrands|Cancelled|
