@@ -30,6 +30,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
+|Hill Holliday|Cancelled||
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|Ideo.org too|
 |IGN|Cancelled||
