@@ -104,6 +104,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|Not Cancelled||
 |Coveo|Not Cancelled|Remote work, if needed|
+|Cubic|Not Cancelled|Hiring freeze|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Deloitte|Not Cancelled|Hiring Freeze|
 |Disney|Not Cancelled||
@@ -172,6 +173,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
 |RedHat|Not Cancelled|Remote. Needs confirmation.|
+|ResMed|Not Cancelled|Paused hiring.|
 |Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
