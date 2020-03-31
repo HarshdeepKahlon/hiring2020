@@ -58,6 +58,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Stuller|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
 |Team One|Cancelled||
+|Tegna Inc.|Cancelled||
 |Toast|Cancelled| Internships in Boston cancelled|
 |TripAdvisor|Cancelled||
 |Uplift|Cancelled||
