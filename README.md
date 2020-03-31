@@ -162,7 +162,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Pagerduty|Not Cancelled|Final decision by mid-April|
 |Palantir|Not Cancelled||
 |Pandora|Not Cancelled||
-|PayPal|Not Cancelled|Remote work for SWE interns|
+|PayPal|Not Cancelled|Remote work for all North America interns|
 |Pegasystems|Not Cancelled||
 |Plaid|Not Cancelled|Interviews being cancelled|
 |PlayStation|Not Cancelled|Remote in the worst case|
