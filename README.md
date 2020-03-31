@@ -20,6 +20,7 @@ If you are on mobile, click 'View all of README.md' below to see the list.
 |Best Buy|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
+|Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
 |Gartner|Cancelled|Even full time offers are getting rescinded|
