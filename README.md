@@ -27,6 +27,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
+|FX|Cancelled||
 |Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
