@@ -58,6 +58,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Rent The Runway|Cancelled||
 |Roku|Cancelled||
 |Santander CIB|Cancelled|Needs confirmation.|
+|Schlumberger|Cancelled|Internship and full-time offers rescinded|
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
