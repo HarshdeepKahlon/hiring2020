@@ -105,7 +105,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Belvedere trading|Not Cancelled||
 |Blade|Not Cancelled|Currently no plans to change anything|
 |Blend|Not Cancelled|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
-|Bloomberg|Not Cancelled|Updated expected in 2 weeks max (April 7th)|
+|Bloomberg|Not Cancelled|Won't be cancelling. Considering remote. Details in the coming weeks.|
 |Capital One|Remote Internships||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Fully Remote|
