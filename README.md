@@ -216,7 +216,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
 |Vanguard|Not Cancelled|Decision by Mar 27|
 |Verily|Not Cancelled|Hiring freeze|
-|Viasat|Not Cancelled|Decision by Apr 1|
+|Viasat|Not Cancelled|Decision by Apr 15|
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
 |Volvo|Not Cancelled|Hiring freeze. Cancelling interviews.|
