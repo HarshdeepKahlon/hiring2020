@@ -149,6 +149,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Lacework|Not Cancelled|Not hiring any more interns|
 |Liberty Mutual Insurance|Not Cancelled||
 |Linkedin|Not Cancelled|Interviews are on hold|
+|Los Angeles Rams|Not Cancelled|Hiring Freeze|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
 |Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
@@ -164,6 +165,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Nokia|Not Cancelled|Remote internships for all roles|
 |Nutanix|Not Cancelled|Worst case - Remote|
 |NVIDIA|Not Cancelled|Remote - fully or partially|
+|Oakland Athletes|Not Cancelled|Hiring Freeze|
 |Okta|Not Cancelled|Toronto internships will be remote|
 |Optimizely|Not Cancelled|Hiring Freeze|
 |Optiver|Not Cancelled|Won't cancel. Remote if needed.|
