@@ -168,6 +168,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |MongoDB|Not Cancelled||
 |Mozilla|Not Cancelled|Remote Internship|
 |NASA|Not Cancelled| Internship cancellation decision by April 15|
+|Nasdaq|Not Cancelled|Hosting a Virtual Program instead of an on-site internship for North America.|
 |Noblis|Not Cancelled|Currently evaluating remote internships|
 |Nokia|Not Cancelled|Remote internships for all roles|
 |Nutanix|Not Cancelled|Worst case - Remote|
