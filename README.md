@@ -60,7 +60,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Rent The Runway|Cancelled||
 |R/GA|Cancelled||
 |Roku|Cancelled||
-|Santander CIB|Cancelled|Needs confirmation.|
 |Schlumberger|Cancelled|Internship and full-time offers rescinded|
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
@@ -196,6 +195,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
 |Samsung|Not Cancelled|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
+|Santander CIB|Not Cancelled||
 |SAP|Not Cancelled||
 |Shiseido|Not Cancelled|Hiring put on hold.|
 |Sigma Computing|Not Cancelled|Remote work|
