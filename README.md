@@ -62,6 +62,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |R/GA|Cancelled||
 |Roku|Cancelled||
 |Schlumberger|Cancelled|Internship and full-time offers rescinded|
+|Secret Mission Software|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
