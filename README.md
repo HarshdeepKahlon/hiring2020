@@ -31,6 +31,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
 |Hill Holliday|Cancelled||
+|iCIMS|Cancelled|
 |IDEMIA|Cancelled|
 |IDEO|Cancelled|Ideo.org too|
 |IGN|Cancelled||
