@@ -26,7 +26,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
-|EY-Parthenon|Cancelled|MBA Internships cancelled. Need confirmation. Also, information on other internships.| 
 |Funding Circle|Cancelled||
 |Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
@@ -121,6 +120,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
 |Electronic Arts|Not Cancelled|Remote|
 |Expedia|Not Cancelled||
+|EY-Parthenon|Not Cancelled|| 
 |F5 Networks|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|Not Cancelled|Decision to be given by Mid-April|
 |FireEye|Not Cancelled|Internship program will proceed. Moving to 100% virtual.|
