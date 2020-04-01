@@ -37,6 +37,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |IGN|Cancelled||
 |iHeartMedia|Cancelled|
 |InterSystems|Cancelled|
+|Interbrand|Cancelled|
 |IPG MediaBrands|Cancelled|
 |Kayak|Cancelled||
 |Kearney|Cancelled|MBA. London - Cancelled. Chicago - Virtual.|
@@ -58,6 +59,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |PROCEPT BioRobotics|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
+|R/GA|Cancelled||
 |Roku|Cancelled||
 |Santander CIB|Cancelled|Needs confirmation.|
 |Schlumberger|Cancelled|Internship and full-time offers rescinded|
