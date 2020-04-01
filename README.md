@@ -17,7 +17,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
-|American Airlines|Cancelled|Hiring Freeze. Certain positions cancelled.|
+|American Airlines|Cancelled|Hiring Freeze. Certain positions cancelled. Needs confirmation.|
 |Amtrak|Cancelled||
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Arista|Cancelled||
