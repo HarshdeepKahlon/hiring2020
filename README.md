@@ -40,6 +40,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |IPG MediaBrands|Cancelled|
 |Kayak|Cancelled||
 |Kearney|Cancelled|MBA. London - Cancelled. Chicago - Virtual.|
+|Keen|Cancelled||
 |Kin and Carta|Cancelled||
 |LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offer (MBA)|
 |LendingClub|Cancelled||
