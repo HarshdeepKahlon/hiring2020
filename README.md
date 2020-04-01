@@ -177,7 +177,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Optimizely|Not Cancelled|Hiring Freeze|
 |Optiver|Not Cancelled|Won't cancel. Remote if needed.|
 |Oracle|Not Cancelled|Interviews being postponed to a later date.|
-|Oscar Health|Not Cancelled|Final decision by mid-April|
+|Oscar Health|Not Cancelled|Not planning to cancel. Remote/In-person decision by mid-April|
 |Pagerduty|Not Cancelled|Final decision by mid-April|
 |Palantir|Not Cancelled||
 |Pandora|Not Cancelled||
