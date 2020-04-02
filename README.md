@@ -162,7 +162,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Juniper Networks|Not Cancelled|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|Not Cancelled|Not hiring any more interns|
-|Liberty Mutual Insurance|Not Cancelled||
+|Liberty Mutual Insurance|Not Cancelled|Update by April 17th.|
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Los Angeles Rams|Not Cancelled|Hiring Freeze|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
