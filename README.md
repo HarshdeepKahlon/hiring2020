@@ -78,7 +78,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
-|TripAdvisor|Cancelled||
+|TripAdvisor|Cancelled|Rescinded full-time offers too.|
 |Uplift|Cancelled||
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
