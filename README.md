@@ -68,6 +68,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
+|StitchFix|Cancelled||
 |Stubhub|Cancelled||
 |Stuller|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
