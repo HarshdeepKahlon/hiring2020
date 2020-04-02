@@ -128,7 +128,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |DocuSign|Not Cancelled||
 |Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
 |DraftKings|Not Cancelled|Will be in touch with more details|
-|Dropbox|Not Cancelled|Hiring Freeze|
+|Dropbox|Not Cancelled|Hiring Freeze. Update by April 17|
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
 |Electronic Arts|Not Cancelled|Remote|
 |Ernst & Young (EY)|Not Cancelled|Considering remote| 
