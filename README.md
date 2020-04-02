@@ -120,6 +120,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|Not Cancelled||
 |Coveo|Not Cancelled|Remote work, if needed|
+|Cox|Not Cancelled||
 |Cubic|Not Cancelled|Hiring freeze|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Deloitte|Not Cancelled|Hiring Freeze|
@@ -135,6 +136,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |EY-Parthenon|Not Cancelled|| 
 |F5 Networks|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|Not Cancelled|Decision to be given by Mid-April|
+|Fedex|Not Cancelled|Update by Mid-April|
 |FireEye|Not Cancelled|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|Not Cancelled||
 |Garmin|Not Cancelled||
