@@ -100,6 +100,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |American Express|Not Cancelled|Hiring Freeze. Certain positions being cancelled. Waiting for more info.|
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
+|AT&T|Not Cancelled|Planning on going remote. Updated on April 8th.|
 |Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
 |Audible|Not Cancelled|On track to begin June 1|
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
