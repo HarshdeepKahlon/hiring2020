@@ -43,6 +43,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Kearney|Cancelled|MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|Cancelled||
 |Kin and Carta|Cancelled||
+|LLamasoft|Cancelled||
 |LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offers.|
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
