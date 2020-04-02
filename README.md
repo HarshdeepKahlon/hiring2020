@@ -206,6 +206,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Snowflake|Not Cancelled||
 |Splunk|Not Cancelled|Internship hiring put on hold.|
 |Sprout Social|Not Cancelled|Stopped hiring.|
+|State Farm|Not Cancelled|Moving to virtual|
 |Stripe|Not Cancelled|Fully remote|
 |Stryker|Not Cancelled|Decision by mid-April. Told not to make relocation plans.|
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
