@@ -19,12 +19,17 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Alaska Airlines|Cancelled||
 |Amtrak|Cancelled||
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
+|Applied Medical|Cancelled||
 |Arista|Cancelled||
 |Best Buy|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
+|Bright Health|Cancelled||
+|Checkr||Cancelled|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
+|Delta Airline|Cancelled||
+|Flipp|Offers Rescinded||
 |Funding Circle|Cancelled||
 |FX|Cancelled||
 |Gartner|Cancelled|Even full time offers are getting rescinded|
@@ -47,7 +52,9 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offers.|
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
+|Lime|Cancelled||
 |Mattel|Cancelled|Cancelled MBA internships. Need information on others.|
+|Marriot|Cancelled||
 |Mayo Clinic|Cancelled|At least IT|
 |MullenLowe|Cancelled||
 |National Geographic|Cancelled|
@@ -65,6 +72,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Schlumberger|Cancelled|Internship and full-time offers rescinded|
 |Secret Mission Software|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
+|Shopify|Cancelled||
+| Simon Kucher & Partners|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
@@ -82,6 +91,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
+|Vox||Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
