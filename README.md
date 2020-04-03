@@ -28,6 +28,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Bright Health|Cancelled||
 |Checkr|Cancelled||
 |ConocoPhillips|Cancelled||
+|Cox|Cancelled|Cox automotive cancelled. Need confirmation and info on if it's all of Cox enterprises.|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled|Rescinding offers.|
