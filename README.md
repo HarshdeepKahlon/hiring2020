@@ -146,6 +146,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Ebay|Not Cancelled|Remote or in-person decision will by April 15|
 |Electronic Arts|Not Cancelled|Remote|
 |Ernst & Young (EY)|Not Cancelled|Considering remote| 
+|Epsilon|Not Cancelled|Considering remote. Decision by mid-April.| 
 |Expedia|Not Cancelled||
 |EY-Parthenon|Not Cancelled|| 
 |F5 Networks|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 17th|
