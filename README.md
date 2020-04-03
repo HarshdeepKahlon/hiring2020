@@ -17,6 +17,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
+|Alexander Group|Cancelled||
 |Amtrak|Cancelled||
 |American Airlines| Now Cancelled||
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
@@ -30,7 +31,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Calvin Klein|Cancelled||
 |Checkr|Cancelled||
 |ConocoPhillips|Cancelled||
-|Cox Automotive|Cancelled|Cox automotive cancelled. Cox Media also Cancelled. Need confirmation and info on if it's all of Cox enterprises. (update: Cox Communications is honoring all returning 2nd and 3rd rotations offers|
+|Cox Automotive|Cancelled| Only Cox automotive and Cox Media Cancelled. Need confirmation and info on if it's all of Cox enterprises. (update: Cox Communications is honoring all returning 2nd and 3rd rotations offers||
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled|Rescinding offers.|
@@ -81,7 +82,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Secret Mission Software|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
 |Shopify|Cancelled||
-| Simon Kucher & Partners|Cancelled||
+|Simon Kucher & Partners|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
 |Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
