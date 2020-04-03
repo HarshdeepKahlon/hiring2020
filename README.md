@@ -178,7 +178,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Liberty Mutual Insurance|Not Cancelled|Update by April 17th.|
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Los Angeles Rams|Not Cancelled|Hiring Freeze|
-|Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
+|Lyft|Not Cancelled|Fully virtual|
 |Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
 |MarketAxess|Not Cancelled|Won't be cancelling. Moving remote.|
