@@ -143,7 +143,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Bloomberg|Not Cancelled|Won't be cancelling. Considering remote. Details in the coming weeks.|
 |BNP Paribas|Not Cancelled|Update in the coming days. No plans to cancel as of now.|
 |Boeing|Not Cancelled|Considering remote.|
-|Capital One|Remote Internships||
+|Capital One|Not Cancelled|Remote Internships|
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Fully Remote|
 |Cisco Meraki|Not Cancelled|Remote confirmed| 
