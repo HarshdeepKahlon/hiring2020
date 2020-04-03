@@ -65,6 +65,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |LendingClub|Cancelled||
 |Leo Burnett|Cancelled||
 |Lime|Cancelled||
+|L'Oréal|Cancelled|Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Mattel|Cancelled|Cancelled MBA internships. Need information on others.|
 |Marriot|Cancelled||
 |Mayo Clinic|Cancelled|At least IT|
