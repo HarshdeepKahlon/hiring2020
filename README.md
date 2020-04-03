@@ -31,6 +31,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled|Rescinding offers.|
+|DNAnexus|Cancelled||
 |Flipp|Offers Rescinded||
 |Funding Circle|Cancelled||
 |FX|Cancelled||
