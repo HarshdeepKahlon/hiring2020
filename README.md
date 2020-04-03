@@ -236,7 +236,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Sigma Computing|Not Cancelled|Remote work|
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
-|Splunk|Not Cancelled|Internship hiring put on hold.|
+|Splunk|Not Cancelled|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|Not Cancelled|Stopped hiring.|
 |State Farm|Not Cancelled|Moving to virtual|
 |Stripe|Not Cancelled|Fully remote|
