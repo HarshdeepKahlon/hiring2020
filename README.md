@@ -254,6 +254,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
 |Talend|Not Cancelled|Remote Internship|
 |Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
+|The Motley Fool|Not Cancelled|Fully remote.|
 |Tinder|Not Cancelled|Interview decisions on hold. Internship decision to be made during week of April 6th|
 |T-Mobile|Not Cancelled|Monitoring situation|
 |Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
