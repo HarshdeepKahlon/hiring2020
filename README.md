@@ -16,6 +16,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |               Company               |       Status       |            Notes           |
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
+|Ad Council|Cancelled||
 |Alaska Airlines|Cancelled||
 |Alexander Group|Cancelled||
 |Amtrak|Cancelled||
@@ -96,6 +97,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
 |TripAdvisor|Cancelled|Rescinded full-time offers too.|
+|Universal McCann|Cancelled||
 |Uplift|Cancelled||
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
