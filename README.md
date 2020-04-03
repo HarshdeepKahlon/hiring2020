@@ -29,7 +29,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |ConocoPhillips|Cancelled||
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
-|Delta Airline|Cancelled||
+|Delta Airline|Cancelled|Rescinding offers.|
 |Flipp|Offers Rescinded||
 |Funding Circle|Cancelled||
 |FX|Cancelled||
@@ -135,7 +135,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Cox|Not Cancelled||
 |Cubic|Not Cancelled|Hiring freeze|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
-|Deloitte|Not Cancelled|Hiring Freeze|
+|Deloitte|Not Cancelled|Hiring Freeze. Decision by April 15|
 |Disney|Not Cancelled||
 |DocuSign|Not Cancelled||
 |Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
