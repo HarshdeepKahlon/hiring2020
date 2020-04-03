@@ -81,7 +81,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Schlumberger|Cancelled|Internship and full-time offers rescinded|
 |Secret Mission Software|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
-|Shopify|Cancelled||
 |Simon Kucher & Partners|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
@@ -233,6 +232,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Santander CIB|Not Cancelled||
 |SAP|Not Cancelled||
 |Shiseido|Not Cancelled|Hiring put on hold.|
+|Shopify|Not Cancelled|Internships will be remote until further notice|
 |Sigma Computing|Not Cancelled|Remote work|
 |Snap|Not Cancelled|Remote possible|
 |Snowflake|Not Cancelled||
