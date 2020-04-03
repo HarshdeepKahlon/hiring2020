@@ -69,6 +69,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Nordstrom |Cancelled|Cancelled all technology internships.|
 |OpenTable|Cancelled||
 |Paycom|Cancelled|Hiring freeze until at least July|
+|Primer|Cancelled||
 |PROCEPT BioRobotics|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
