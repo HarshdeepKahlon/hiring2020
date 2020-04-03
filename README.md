@@ -133,6 +133,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Cisco|Not Cancelled|Fully Remote|
 |Cisco Meraki|Not Cancelled|Remote confirmed| 
 |Citadel|Not Cancelled|WFH Possible|
+|Cloudflare|Not Cancelled|Internships reopened and internship class size doubled, remote work if needed|
 |Coinbase|Not Cancelled|Still planning for in-person, but could change|
 |College Board|Not Cancelled|Hiring freeze.|
 |CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
