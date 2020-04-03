@@ -18,6 +18,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
 |Amtrak|Cancelled||
+|American Airlines| Now Cancelled||
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
@@ -29,7 +30,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Calvin Klein|Cancelled||
 |Checkr|Cancelled||
 |ConocoPhillips|Cancelled||
-|Cox|Cancelled|Cox automotive cancelled. Need confirmation and info on if it's all of Cox enterprises.|
+|Cox Automotive|Cancelled|Cox automotive cancelled. Cox Media also Cancelled. Need confirmation and info on if it's all of Cox enterprises. (update: Cox Communications is honoring all returning 2nd and 3rd rotations offers|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled|Rescinding offers.|
@@ -88,6 +89,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Stubhub|Cancelled||
 |Stuller|Cancelled||
 |Sumo Logic|Cancelled| Both Summer and Fall|
+|Sysco|Cancelled| Cancelled all internships offers and some full time .||
 |Team One|Cancelled||
 |Tegna Inc.|Cancelled||
 |Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
@@ -140,7 +142,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|Not Cancelled||
 |Coveo|Not Cancelled|Remote work, if needed|
-|Cox|Not Cancelled||
+|Cox Commucations|Not Cancelled| Hornoring returning  offers for returning interns||
 |Cubic|Not Cancelled|Hiring freeze|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Deloitte|Not Cancelled|Hiring Freeze. Decision by April 15|
