@@ -17,6 +17,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
 |23andMe|Cancelled||
 |Ad Council|Cancelled||
+|AKQA|Cancelled||
 |Alaska Airlines|Cancelled||
 |Alexander Group|Cancelled||
 |Amtrak|Cancelled||
@@ -25,6 +26,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
 |Best Buy|Cancelled||
+|Big Spaceship|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Booz Allen Hamilton Summer Games|Cancelled||
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
