@@ -254,6 +254,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Two Sigma|Not Cancelled|NYC location is currently planning for in-person. Updates to come.|
 |Uber|Not Cancelled|Interviews being cancelled|
 |Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
+|USAA|Not Cancelled|Fully remote|
 |Vanguard|Not Cancelled|Decision by Mar 27|
 |Verily|Not Cancelled|Hiring freeze|
 |Viasat|Not Cancelled|Decision by Apr 15|
