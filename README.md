@@ -229,6 +229,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
 |RedHat|Not Cancelled|Remote. Needs confirmation.|
 |ResMed|Not Cancelled|Paused hiring.|
+|RingCentral|Not Cancelled|Remote for summer|
 |Ripcord|Not Cancelled|Pending. Mid-April Decision.|
 |Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
 |Samsara|Not Cancelled||
