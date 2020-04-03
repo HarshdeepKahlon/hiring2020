@@ -120,11 +120,12 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Atlassian|Not Cancelled|Going fully remote|
 |Audible|Not Cancelled|On track to begin June 1|
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
-|Bank of America| Not Cancelled| |
+|Bank of America|Not Cancelled||
 |Belvedere trading|Not Cancelled||
 |Blade|Not Cancelled|Currently no plans to change anything|
 |Blend|Not Cancelled|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|Not Cancelled|Won't be cancelling. Considering remote. Details in the coming weeks.|
+|BNP Paribas|Not Cancelled|Update in the coming days. No plans to cancel as of now.|
 |Capital One|Remote Internships||
 |Carvana|Not Cancelled|Hiring Freeze|
 |Cisco|Not Cancelled|Fully Remote|
