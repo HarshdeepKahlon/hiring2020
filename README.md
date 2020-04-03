@@ -69,6 +69,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Marriot|Cancelled||
 |Mayo Clinic|Cancelled|At least IT|
 |M Booth|Cancelled||
+|MIT Lincoln Laboratory|Cancelled|Cancelled summer research program for interns|
 |MullenLowe|Cancelled||
 |National Geographic|Cancelled|
 |National Institutes of Health|Cancelled||
