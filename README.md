@@ -26,6 +26,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|Cancelled||
 |Checkr|Cancelled||
+|ConocoPhillips|Cancelled||
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled||
@@ -86,7 +87,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
-|TripAdvisor|Cancelled||
+|TripAdvisor|Cancelled|Rescinded full-time offers too.|
 |Uplift|Cancelled||
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
@@ -113,7 +114,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
 |AT&T|Not Cancelled|Planning on going remote. Update on April 8th.|
-|Atlassian|Not Cancelled|Update expected next week (Around April 3rd)|
+|Atlassian|Not Cancelled|Going fully remote|
 |Audible|Not Cancelled|On track to begin June 1|
 |Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America| Not Cancelled| |
@@ -172,7 +173,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Juniper Networks|Not Cancelled|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|Not Cancelled|Not hiring any more interns|
-|Liberty Mutual Insurance|Not Cancelled||
+|Liberty Mutual Insurance|Not Cancelled|Update by April 17th.|
 |Linkedin|Not Cancelled|Interviews are on hold|
 |Los Angeles Rams|Not Cancelled|Hiring Freeze|
 |Lyft|Not Cancelled|Remote onboarding.  Remote or In-person decision by April 7th|
