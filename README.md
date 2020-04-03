@@ -121,6 +121,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Adobe|Not Cancelled|Hiring Freeze|
 |ADP|Not Cancelled|Remote if needed|
 |Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
+|Akamai Technologies|Not Cancelled|Remote until further notice.|
 |Alarm.com|Not Cancelled||
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
 |Amazon|Not Cancelled|Considering remote.|
