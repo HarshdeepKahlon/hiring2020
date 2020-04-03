@@ -260,6 +260,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Xilinx|Not Cancelled|Remote Internship|
 |Zebra Technology| Not Cancelled||
 |Zillow|Not Cancelled|Interviews being cancelled|
-|Yahoo (Verizon Media)|Not Cancelled||Remote possible|
+|Yahoo (Verizon Media)|Not Cancelled||Remote possible. Hiring freeze at Verizon Media.|
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
