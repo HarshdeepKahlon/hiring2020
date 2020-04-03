@@ -159,7 +159,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Expedia|Not Cancelled||
 |EY-Parthenon|Not Cancelled|| 
 |F5 Networks|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 17th|
-|Facebook|Not Cancelled|Decision to be given by Mid-April|
+|Facebook|Not Cancelled|Considering remote. More details to come.|
 |Fedex|Not Cancelled|Update by Mid-April|
 |FireEye|Not Cancelled|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|Not Cancelled||
