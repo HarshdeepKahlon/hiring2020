@@ -187,7 +187,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
 |Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
 |Intuit|Not Cancelled|No plans to cancel internship or new grad positions. Remote possible.|
-|JP Morgan|Not Cancelled|Delayed by a month - new start date July 6th.|
+|JP Morgan|Not Cancelled|Delayed by a month - new start date July 6th. Updates to follow. Pay will stay the same.|
 |Juniper Networks|Not Cancelled|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|Not Cancelled|Not hiring any more interns|
