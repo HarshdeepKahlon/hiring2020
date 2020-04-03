@@ -163,6 +163,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Garmin|Not Cancelled||
 |Gemography|Not Cancelled|Remote Internship|
 |Genentech|Not Cancelled|Evaluating the possibility of virtual internships with a final decision by April 10|
+|General Atomics|Not Cancelled|Considering remote.|
 |Giphy|Not Cancelled|Hiring Freeze|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
