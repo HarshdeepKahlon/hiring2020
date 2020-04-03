@@ -20,7 +20,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Alaska Airlines|Cancelled||
 |Alexander Group|Cancelled||
 |Amtrak|Cancelled||
-|American Airlines| Now Cancelled||
+|American Airlines|Cancelled||
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
@@ -83,6 +83,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Schlumberger|Cancelled|Internship and full-time offers rescinded|
 |Secret Mission Software|Cancelled||
 |Seattle Genetics, Inc.|Cancelled||
+|Siemens|Cancelled||
 |Simon Kucher & Partners|Cancelled||
 |Softheon|Cancelled||
 |Sonder|Cancelled|Revoked offers|
@@ -103,7 +104,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
-|Vox||Cancelled||
+|Vox|Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
 |Yelp|Cancelled||
