@@ -177,6 +177,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Genentech|Not Cancelled|Evaluating the possibility of virtual internships with a final decision by April 10|
 |General Atomics|Not Cancelled|Considering remote.|
 |Giphy|Not Cancelled|Hiring Freeze|
+|GLAAD|Not Cancelled|Hiring Freeze. Not planning to hire new interns until September.|
 |Glassdoor|Not Cancelled|Hiring Freeze|
 |Goldman Sachs|Not Cancelled||
 |Google|Not Cancelled|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
