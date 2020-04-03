@@ -253,7 +253,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Viasat|Not Cancelled|Decision by Apr 15|
 |Visa|Not Cancelled||
 |VMware|Not Cancelled|Will be remote|
-|Volvo|Not Cancelled|Hiring freeze. Cancelling interviews.|
+|Volvo|Not Cancelled|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Walmart|Not Cancelled|Hiring Freeze|
 |Wayfair|Not Cancelled|Decision by mid-April.|
 |WarnerMedia|Not Cancelled||
