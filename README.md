@@ -26,6 +26,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Booz Allen Hamilton Summer Games|Cancelled||
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|Cancelled||
+|Calvin Klein|Cancelled||
 |Checkr|Cancelled||
 |ConocoPhillips|Cancelled||
 |Cox|Cancelled|Cox automotive cancelled. Need confirmation and info on if it's all of Cox enterprises.|
