@@ -59,6 +59,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Mattel|Cancelled|Cancelled MBA internships. Need information on others.|
 |Marriot|Cancelled||
 |Mayo Clinic|Cancelled|At least IT|
+|M Booth|Cancelled||
 |MullenLowe|Cancelled||
 |National Geographic|Cancelled|
 |National Institutes of Health|Cancelled||
