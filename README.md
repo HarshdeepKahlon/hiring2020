@@ -21,7 +21,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Alaska Airlines|Cancelled||
 |Alexander Group|Cancelled||
 |Amtrak|Cancelled||
-|American Airlines|Cancelled||
+|American Airlines|Cancelled|Contradictory reports. Needs confirmation.|
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
