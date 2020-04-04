@@ -162,6 +162,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Coveo|Not Cancelled|Remote work, if needed|
 |Cox Commucations|Not Cancelled| Hornoring returning  offers for returning interns||
 |Cubic|Not Cancelled|Hiring freeze|
+|Databricks|Not Cancelled|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dell|Not Cancelled|Remote. Shortened to June/July only|
 |Deloitte|Not Cancelled|Hiring Freeze. Decision by April 15|
 |Disney|Not Cancelled||
