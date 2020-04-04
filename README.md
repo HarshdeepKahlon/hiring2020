@@ -133,7 +133,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Amazon|Not Cancelled|Considering remote.|
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
 |American Airlines|Not Cancelled|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
-|American Express|Not Cancelled|Hiring Freeze. Certain positions being cancelled. Waiting for more info.|
+|American Express|Not Cancelled|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
 |Ares Management|Not Cancelled|Considering remote. Updates to follow.|
