@@ -21,10 +21,11 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Alaska Airlines|Cancelled||
 |Alexander Group|Cancelled||
 |Amtrak|Cancelled||
-|American Airlines|Cancelled||
+|American Airlines|Cancelled|Contradictory reports. Needs confirmation.|
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
+|AXS|Cancelled||
 |Best Buy|Cancelled||
 |Big Spaceship|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
@@ -35,7 +36,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Calvin Klein|Cancelled||
 |Checkr|Cancelled||
 |ConocoPhillips|Cancelled||
-|Cox Automotive|Cancelled| Only Cox automotive and Cox Media Cancelled. Need confirmation and info on if it's all of Cox enterprises. (update: Cox Communications is honoring all returning 2nd and 3rd rotations offers||
+|Cox Automotive|Cancelled| Only Cox automotive and Cox Media Cancelled. Cox Communications is honoring all returning 2nd and 3rd rotations offers|
+|Cruise Automation|Cancelled|Rescinded all internship offers.|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled|Rescinding offers.|
@@ -47,6 +49,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
+|HCA Healthcare|Cancelled||
 |Hill Holliday|Cancelled||
 |iCIMS|Cancelled|
 |IDEMIA|Cancelled|
@@ -100,6 +103,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Sysco|Cancelled| Cancelled all internships offers and some full time .||
 |Team One|Cancelled||
 |Tegna Inc.|Cancelled||
+|Tenable|Cancelled||
+|Thermo Fisher Scientific|Cancelled||
 |Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
@@ -109,6 +114,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
+|Volvo|Offers got Rescinded ||
 |Vox|Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
@@ -128,7 +134,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Amazon|Not Cancelled|Considering remote.|
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
 |American Airlines|Not Cancelled|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
-|American Express|Not Cancelled|Hiring Freeze. Certain positions being cancelled. Waiting for more info.|
+|American Express|Not Cancelled|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
 |Ares Management|Not Cancelled|Considering remote. Updates to follow.|
@@ -200,7 +206,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|Not Cancelled|Not hiring any more interns|
 |Liberty Mutual Insurance|Not Cancelled|Update by April 17th.|
-|Linkedin|Not Cancelled|Interviews are on hold|
+|LinkedIn|Not Cancelled|Considering remote. Interviews are on hold|
 |Los Angeles Rams|Not Cancelled|Hiring Freeze|
 |Lyft|Not Cancelled|Fully virtual|
 |Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
@@ -233,9 +239,10 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Plaid|Not Cancelled|Interviews being cancelled|
 |PlayStation|Not Cancelled|Remote in the worst case|
 |PricewaterhouseCoopers|Not Cancelled|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
-|Qualtrics|Not Cancelled|Won't cancel. Remote internship if needed, will update in the coming weeks|
+|Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
+|Reddit|Not Cancelled|Remote. Needs confirmation.|
 |RedHat|Not Cancelled|Remote. Needs confirmation.|
 |ResMed|Not Cancelled|Paused hiring.|
 |RingCentral|Not Cancelled|Remote for summer|
