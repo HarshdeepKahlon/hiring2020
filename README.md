@@ -25,6 +25,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
+|AXS|Cancelled||
 |Best Buy|Cancelled||
 |Big Spaceship|Cancelled||
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
@@ -47,6 +48,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Gartner|Cancelled|Even full time offers are getting rescinded|
 |GoCanvas|Cancelled||
 |Groupon|Cancelled||
+|HCA Healthcare|Cancelled||
 |Hill Holliday|Cancelled||
 |iCIMS|Cancelled|
 |IDEMIA|Cancelled|
@@ -100,6 +102,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Sysco|Cancelled| Cancelled all internships offers and some full time .||
 |Team One|Cancelled||
 |Tegna Inc.|Cancelled||
+|Tenable|Cancelled||
 |Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
@@ -109,6 +112,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Uponor|Cancelled||
 |Urban Outfitters (URBN)|Cancelled||
 |USTA 2020 D&I|Cancelled|| 
+|Volvo|Offers got Rescinded ||
 |Vox|Cancelled||
 |WillowTree|Cancelled||
 |Workday|Cancelled|5k stipend being provided to interns|
@@ -233,7 +237,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Plaid|Not Cancelled|Interviews being cancelled|
 |PlayStation|Not Cancelled|Remote in the worst case|
 |PricewaterhouseCoopers|Not Cancelled|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
-|Qualtrics|Not Cancelled|Won't cancel. Remote internship if needed, will update in the coming weeks|
+|Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
 |RedHat|Not Cancelled|Remote. Needs confirmation.|
