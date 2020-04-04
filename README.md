@@ -37,6 +37,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Checkr|Cancelled||
 |ConocoPhillips|Cancelled||
 |Cox Automotive|Cancelled| Only Cox automotive and Cox Media Cancelled. Cox Communications is honoring all returning 2nd and 3rd rotations offers|
+|Cruise Automation|Cancelled|Rescinded all internship offers.|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
 |Echostar|Cancelled||
 |Delta Airline|Cancelled|Rescinding offers.|
