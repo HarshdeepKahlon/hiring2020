@@ -104,6 +104,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Team One|Cancelled||
 |Tegna Inc.|Cancelled||
 |Tenable|Cancelled||
+|Thermo Fisher Scientific|Cancelled||
 |Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|Cancelled|Canceled their summer internship program.|
 |Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
