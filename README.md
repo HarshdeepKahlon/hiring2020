@@ -122,175 +122,175 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 ||||
 ||||
 ||||
-|1Password|Not Cancelled|Hiring Freeze|
+|1Password|✅|Hiring Freeze|
 |3M|Not Cancelled|Remote for now. Option to move to in-person if conditions change by June 1|
 |Activision/Blizzard|Not Cancelled||
-|Adobe|Not Cancelled|Hiring Freeze|
-|ADP|Not Cancelled|Remote if needed|
-|Airbnb|Not Cancelled|Currently planning for in-person, updates to come|
-|Akamai Technologies|Not Cancelled|Remote until further notice.|
-|Alarm.com|Not Cancelled||
-|AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
-|Amazon|Not Cancelled|Considering remote.|
-|Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
-|American Airlines|Not Cancelled|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
-|American Express|Not Cancelled|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
-|Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
-|Apple|Not Cancelled|Starting remotely for now|
-|Ares Management|Not Cancelled|Considering remote. Updates to follow.|
-|AT&T|Not Cancelled|Planning on going remote. Update on April 8th.|
-|Atlassian|Not Cancelled|Going fully remote|
-|Audible|Not Cancelled|On track to begin June 1|
-|Autodesk|Not Cancelled|In-person for now. Remote in worst case. Decision by early April.|
-|Bank of America|Not Cancelled||
-|Belvedere trading|Not Cancelled||
-|Blade|Not Cancelled|Currently no plans to change anything|
-|Blend|Not Cancelled|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
-|Bloomberg|Not Cancelled|Won't be cancelling. Considering remote. Details in the coming weeks.|
-|BNP Paribas|Not Cancelled|Update in the coming days. No plans to cancel as of now.|
-|Boeing|Not Cancelled|Considering remote.|
-|Capital One|Not Cancelled|Remote Internships|
-|Carvana|Not Cancelled|Hiring Freeze|
-|Cisco|Not Cancelled|Fully Remote|
-|Cisco Meraki|Not Cancelled|Remote confirmed| 
-|Citadel|Not Cancelled|WFH Possible|
-|Cloudflare|Not Cancelled|Internships reopened and internship class size doubled, remote work if needed|
-|Coinbase|Not Cancelled|Still planning for in-person, but could change|
-|College Board|Not Cancelled|Hiring freeze.|
-|CommScope|Not Cancelled|Honoring all offers made. Virtual if needed. Hiring freeze.|
-|Constant Contact|Not Cancelled||
-|Coveo|Not Cancelled|Remote work, if needed|
-|Cox Commucations|Not Cancelled| Hornoring returning  offers for returning interns||
-|Cubic|Not Cancelled|Hiring freeze|
-|Dell|Not Cancelled|Remote. Shortened to June/July only|
-|Deloitte|Not Cancelled|Hiring Freeze. Decision by April 15|
-|Disney|Not Cancelled||
-|DocuSign|Not Cancelled||
-|Dolby|Not Cancelled|PM role cancelled. No info about other roles.|
-|DraftKings|Not Cancelled|Will be in touch with more details|
-|Dropbox|Not Cancelled|Hiring Freeze. Update by April 17|
-|Ebay|Not Cancelled|Remote or in-person decision will by April 15|
-|Electronic Arts|Not Cancelled|Remote|
-|Ernst & Young (EY)|Not Cancelled|Considering remote| 
-|Epsilon|Not Cancelled|Considering remote. Decision by mid-April.| 
-|Expedia|Not Cancelled||
-|EY-Parthenon|Not Cancelled|| 
-|F5 Networks|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 17th|
-|Facebook|Not Cancelled|Considering remote. More details to come.|
-|Fedex|Not Cancelled|Update by Mid-April|
-|FireEye|Not Cancelled|Internship program will proceed. Moving to 100% virtual.|
-|Fidelity Investments|Not Cancelled||
-|Garmin|Not Cancelled||
-|Gemography|Not Cancelled|Remote Internship|
-|Genentech|Not Cancelled|Evaluating the possibility of virtual internships with a final decision by April 10|
-|General Atomics|Not Cancelled|Considering remote.|
-|Giphy|Not Cancelled|Hiring Freeze|
-|GLAAD|Not Cancelled|Hiring Freeze. Not planning to hire new interns until September.|
-|Glassdoor|Not Cancelled|Hiring Freeze|
-|Goldman Sachs|Not Cancelled||
-|Google|Not Cancelled|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
-|Hilton|Not Cancelled|Rescinding offers for on property positions. Corporate intern program too.|
+|Adobe|✅|Hiring Freeze|
+|ADP|✅|Remote if needed|
+|Airbnb|✅|Currently planning for in-person, updates to come|
+|Akamai Technologies|✅|Remote until further notice.|
+|Alarm.com|✅||
+|AlixPartners|✅|Deciding on in person vs virtual towards end of April|
+|Amazon|✅|Considering remote.|
+|Amazon Robotics|✅|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
+|American Airlines|✅|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
+|American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
+|Aon|✅||Remote possible. Dates and logistics might change.|
+|Apple|✅|Starting remotely for now|
+|Ares Management|✅|Considering remote. Updates to follow.|
+|AT&T|✅|Planning on going remote. Update on April 8th.|
+|Atlassian|✅|Going fully remote|
+|Audible|✅|On track to begin June 1|
+|Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
+|Bank of America|✅||
+|Belvedere trading|✅||
+|Blade|✅|Currently no plans to change anything|
+|Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
+|Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
+|BNP Paribas|✅|Update in the coming days. No plans to cancel as of now.|
+|Boeing|✅|Considering remote.|
+|Capital One|✅|Remote Internships|
+|Carvana|✅|Hiring Freeze|
+|Cisco|✅|Fully Remote|
+|Cisco Meraki|✅|Remote confirmed| 
+|Citadel|✅|WFH Possible|
+|Cloudflare|✅|Internships reopened and internship class size doubled, remote work if needed|
+|Coinbase|✅|Still planning for in-person, but could change|
+|College Board|✅|Hiring freeze.|
+|CommScope|✅|Honoring all offers made. Virtual if needed. Hiring freeze.|
+|Constant Contact|✅||
+|Coveo|✅|Remote work, if needed|
+|Cox Commucations|✅| Hornoring returning  offers for returning interns||
+|Cubic|✅|Hiring freeze|
+|Dell|✅|Remote. Shortened to June/July only|
+|Deloitte|✅|Hiring Freeze. Decision by April 15|
+|Disney|✅||
+|DocuSign|✅||
+|Dolby|✅|PM role cancelled. No info about other roles.|
+|DraftKings|✅|Will be in touch with more details|
+|Dropbox|✅|Hiring Freeze. Update by April 17|
+|Ebay|✅|Remote or in-person decision will by April 15|
+|Electronic Arts|✅|Remote|
+|Ernst & Young (EY)|✅|Considering remote| 
+|Epsilon|✅|Considering remote. Decision by mid-April.| 
+|Expedia|✅||
+|EY-Parthenon|✅|| 
+|F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
+|Facebook|✅|Considering remote. More details to come.|
+|Fedex|✅|Update by Mid-April|
+|FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
+|Fidelity Investments|✅||
+|Garmin|✅||
+|Gemography|✅|Remote Internship|
+|Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
+|General Atomics|✅|Considering remote.|
+|Giphy|✅|Hiring Freeze|
+|GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
+|Glassdoor|✅|Hiring Freeze|
+|Goldman Sachs|✅||
+|Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
+|Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
 |HP|Not Cancelled|Remote. Won't be cancelled.|
-|HPE|Not Cancelled|Remote|
-|HubSpot|Not Cancelled|Remote possible. Continuing hiring|
-|Hulu|Not Cancelled|SWE positions on-hold|
-|Humana|Not Cancelled|Cancellation unlikely. Possibly remote.|
-|IBM|Not Cancelled|Won't be cancelling. All internships will be remote.|
-|IBM Research|Not Cancelled|Hiring Freeze|
-|IMC Trading|Not Cancelled|Potentially remote.|
-|Indeed|Not Cancelled|Cancelling interviews. But offers not being rescinded.|
-|Informatica|Not Cancelled|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
-|Intuit|Not Cancelled|No plans to cancel internship or new grad positions. Remote possible.|
-|JP Morgan|Not Cancelled|Delayed by a month - new start date July 6th. Updates to follow. Pay will stay the same.|
-|Juniper Networks|Not Cancelled|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
-|Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
-|Lacework|Not Cancelled|Not hiring any more interns|
-|Liberty Mutual Insurance|Not Cancelled|Update by April 17th.|
-|LinkedIn|Not Cancelled|Considering remote. Interviews are on hold|
-|Los Angeles Rams|Not Cancelled|Hiring Freeze|
-|Lyft|Not Cancelled|Fully virtual|
-|Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
-|Mark Cuban Companies|Not Cancelled|Still determining the status if it will be fully remote or not|
-|MarketAxess|Not Cancelled|Won't be cancelling. Moving remote.|
-|Mastercard|Not Cancelled|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
-|Microsoft|Not Cancelled|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
-|Mindbody|Not Cancelled|Interviews being cancelled|
-|MITRE|Not Cancelled|Remote Internship|
-|MongoDB|Not Cancelled||
-|Mozilla|Not Cancelled|Remote Internship|
-|NASA|Not Cancelled| Internship cancellation decision by April 15|
-|Nasdaq|Not Cancelled|Hosting a Virtual Program instead of an on-site internship for North America.|
-|Nextdoor|Not Cancelled||
-|Noblis|Not Cancelled|Currently evaluating remote internships|
-|Nokia|Not Cancelled|Remote internships for all roles|
-|Nutanix|Not Cancelled|Worst case - Remote|
-|NVIDIA|Not Cancelled|Remote - fully or partially|
-|Oakland Athletes|Not Cancelled|Hiring Freeze|
-|Okta|Not Cancelled|Toronto internships will be remote|
-|Optimizely|Not Cancelled|Hiring Freeze|
-|Optiver|Not Cancelled|Won't cancel. Remote if needed.|
-|Oracle|Not Cancelled|Interviews being postponed to a later date.|
-|Oscar Health|Not Cancelled|Not planning to cancel. Remote/In-person decision by mid-April|
-|Pagerduty|Not Cancelled|Fully remote.|
-|Palantir|Not Cancelled||
-|Pandora|Not Cancelled||
-|PayPal|Not Cancelled|Remote work for all North America interns|
-|Pegasystems|Not Cancelled||
-|Plaid|Not Cancelled|Interviews being cancelled|
-|PlayStation|Not Cancelled|Remote in the worst case|
-|PricewaterhouseCoopers|Not Cancelled|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
-|Qualtrics|Not Cancelled||
-|Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
-|Raytheon BBN|Not Cancelled|Cancellation unlikely|
-|Reddit|Not Cancelled|Remote. Needs confirmation.|
-|RedHat|Not Cancelled|Remote. Needs confirmation.|
-|ResMed|Not Cancelled|Paused hiring.|
-|RingCentral|Not Cancelled|Remote for summer|
-|Ripcord|Not Cancelled|Pending. Mid-April Decision.|
-|Salesforce|Not Cancelled|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
-|Samsara|Not Cancelled||
-|Samsung|Not Cancelled|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
-|Santander CIB|Not Cancelled||
-|SAP|Not Cancelled||
-|SC Johnson|Not Cancelled||
-|Shiseido|Not Cancelled|Hiring put on hold.|
-|Shopify|Not Cancelled|Internships will be remote until further notice|
-|Sigma Computing|Not Cancelled|Remote work|
-|Snap|Not Cancelled|Remote possible|
-|Snowflake|Not Cancelled||
-|Splunk|Not Cancelled|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
-|Sprout Social|Not Cancelled|Stopped hiring.|
-|State Farm|Not Cancelled|Moving to virtual|
-|Stripe|Not Cancelled|Fully remote|
-|Stryker|Not Cancelled|Decision by mid-April. Told not to make relocation plans.|
-|Tableau|Not Cancelled|Won't be cancelled. Remote if necessary.|
-|Talend|Not Cancelled|Remote Internship|
-|Tesla|Not Cancelled |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
-|The Motley Fool|Not Cancelled|Fully remote.|
-|Tinder|Not Cancelled|Interview decisions on hold. Internship decision to be made during week of April 6th|
-|T-Mobile|Not Cancelled|Monitoring situation|
-|Twilio|Not Cancelled |Preparing for remote onboarding and remote internship|
-|Twitch|Not Cancelled|Remote Internship. Hiring freeze.|
-|Two Sigma|Not Cancelled|NYC location is currently planning for in-person. Updates to come.|
-|Uber|Not Cancelled|Interviews being cancelled|
-|Unity|Not Cancelled|Software Developer positions will be remote until safe to re-enter offices.|
-|USAA|Not Cancelled|Fully remote|
-|Vanguard|Not Cancelled|Decision by Mar 27|
-|Verily|Not Cancelled|Hiring freeze|
-|Viasat|Not Cancelled|Decision by Apr 15|
-|Visa|Not Cancelled||
-|VMware|Not Cancelled|Will be remote|
-|Volvo|Not Cancelled|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
-|Walmart|Not Cancelled|Hiring Freeze|
-|Wayfair|Not Cancelled|Decision by mid-April.|
-|WarnerMedia|Not Cancelled||
-|WePay|Not Cancelled|Won't be cancelling|
-|Western Digital|Not Cancelled||
-|Wish|Not Cancelled|Hiring Freeze|
-|Xandr|Not Cancelled|Considering Remote|
-|Xilinx|Not Cancelled|Remote Internship|
-|Zebra Technology| Not Cancelled||
-|Zillow|Not Cancelled|Interviews being cancelled|
-|Yahoo (Verizon Media)|Not Cancelled||Remote possible. Hiring freeze at Verizon Media.|
+|HPE|✅|Remote|
+|HubSpot|✅|Remote possible. Continuing hiring|
+|Hulu|✅|SWE positions on-hold|
+|Humana|✅|Cancellation unlikely. Possibly remote.|
+|IBM|✅|Won't be cancelling. All internships will be remote.|
+|IBM Research|✅|Hiring Freeze|
+|IMC Trading|✅|Potentially remote.|
+|Indeed|✅|Cancelling interviews. But offers not being rescinded.|
+|Informatica|✅|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
+|Intuit|✅|No plans to cancel internship or new grad positions. Remote possible.|
+|JP Morgan|✅|Delayed by a month - new start date July 6th. Updates to follow. Pay will stay the same.|
+|Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
+|Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
+|Lacework|✅|Not hiring any more interns|
+|Liberty Mutual Insurance|✅|Update by April 17th.|
+|LinkedIn|✅|Considering remote. Interviews are on hold|
+|Los Angeles Rams|✅|Hiring Freeze|
+|Lyft|✅|Fully virtual|
+|Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
+|Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
+|MarketAxess|✅|Won't be cancelling. Moving remote.|
+|Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
+|Microsoft|✅|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
+|Mindbody|✅|Interviews being cancelled|
+|MITRE|✅|Remote Internship|
+|MongoDB|✅||
+|Mozilla|✅|Remote Internship|
+|NASA|✅| Internship cancellation decision by April 15|
+|Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
+|Nextdoor|✅||
+|Noblis|✅|Currently evaluating remote internships|
+|Nokia|✅|Remote internships for all roles|
+|Nutanix|✅|Worst case - Remote|
+|NVIDIA|✅|Remote - fully or partially|
+|Oakland Athletes|✅|Hiring Freeze|
+|Okta|✅|Toronto internships will be remote|
+|Optimizely|✅|Hiring Freeze|
+|Optiver|✅|Won't cancel. Remote if needed.|
+|Oracle|✅|Interviews being postponed to a later date.|
+|Oscar Health|✅|Not planning to cancel. Remote/In-person decision by mid-April|
+|Pagerduty|✅|Fully remote.|
+|Palantir|✅||
+|Pandora|✅||
+|PayPal|✅|Remote work for all North America interns|
+|Pegasystems|✅||
+|Plaid|✅|Interviews being cancelled|
+|PlayStation|✅|Remote in the worst case|
+|PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
+|Qualtrics|✅||
+|Quantcast|✅|Won't cancel. Remote internship if needed|
+|Raytheon BBN|✅|Cancellation unlikely|
+|Reddit|✅|Remote. Needs confirmation.|
+|RedHat|✅|Remote. Needs confirmation.|
+|ResMed|✅|Paused hiring.|
+|RingCentral|✅|Remote for summer|
+|Ripcord|✅|Pending. Mid-April Decision.|
+|Salesforce|✅|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
+|Samsara|✅||
+|Samsung|✅|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
+|Santander CIB|✅||
+|SAP|✅||
+|SC Johnson|✅||
+|Shiseido|✅|Hiring put on hold.|
+|Shopify|✅|Internships will be remote until further notice|
+|Sigma Computing|✅|Remote work|
+|Snap|✅|Remote possible|
+|Snowflake|✅||
+|Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
+|Sprout Social|✅|Stopped hiring.|
+|State Farm|✅|Moving to virtual|
+|Stripe|✅|Fully remote|
+|Stryker|✅|Decision by mid-April. Told not to make relocation plans.|
+|Tableau|✅|Won't be cancelled. Remote if necessary.|
+|Talend|✅|Remote Internship|
+|Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
+|The Motley Fool|✅|Fully remote.|
+|Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
+|T-Mobile|✅|Monitoring situation|
+|Twilio|✅ |Preparing for remote onboarding and remote internship|
+|Twitch|✅|Remote Internship. Hiring freeze.|
+|Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
+|Uber|✅|Interviews being cancelled|
+|Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
+|USAA|✅|Fully remote|
+|Vanguard|✅|Decision by Mar 27|
+|Verily|✅|Hiring freeze|
+|Viasat|✅|Decision by Apr 15|
+|Visa|✅||
+|VMware|✅|Will be remote|
+|Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
+|Walmart|✅|Hiring Freeze|
+|Wayfair|✅|Decision by mid-April.|
+|WarnerMedia|✅||
+|WePay|✅|Won't be cancelling|
+|Western Digital|✅||
+|Wish|✅|Hiring Freeze|
+|Xandr|✅|Considering Remote|
+|Xilinx|✅|Remote Internship|
+|Zebra Technology|✅||
+|Zillow|✅|Interviews being cancelled|
+|Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
