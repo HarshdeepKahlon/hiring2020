@@ -123,8 +123,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 ||||
 ||||
 |1Password|✅|Hiring Freeze|
-|3M|Not Cancelled|Remote for now. Option to move to in-person if conditions change by June 1|
-|Activision/Blizzard|Not Cancelled||
+|3M|✅|Remote for now. Option to move to in-person if conditions change by June 1|
+|Activision/Blizzard|✅||
 |Adobe|✅|Hiring Freeze|
 |ADP|✅|Remote if needed|
 |Airbnb|✅|Currently planning for in-person, updates to come|
