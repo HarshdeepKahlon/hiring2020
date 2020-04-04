@@ -190,7 +190,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Goldman Sachs|✅||
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
 |Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
-|HP|Not Cancelled|Remote. Won't be cancelled.|
+|HP|✅|Remote. Won't be cancelled.|
 |HPE|✅|Remote|
 |HubSpot|✅|Remote possible. Continuing hiring|
 |Hulu|✅|SWE positions on-hold|
