@@ -242,6 +242,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Qualtrics|Not Cancelled||
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
+|Reddit|Not Cancelled|Remote. Needs confirmation.|
 |RedHat|Not Cancelled|Remote. Needs confirmation.|
 |ResMed|Not Cancelled|Paused hiring.|
 |RingCentral|Not Cancelled|Remote for summer|
