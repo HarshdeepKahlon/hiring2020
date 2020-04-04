@@ -15,110 +15,110 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 
 |               Company               |       Status       |            Notes           |
 |:-----------------------------------:|:------------------:|:-------------------------------------------------------------------|
-|23andMe|Cancelled||
-|Ad Council|Cancelled||
-|AKQA|Cancelled||
-|Alaska Airlines|Cancelled||
-|Alexander Group|Cancelled||
-|Amtrak|Cancelled||
-|American Airlines|Cancelled|Contradictory reports. Needs confirmation.|
-|Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
-|Applied Medical|Cancelled||
-|Arista|Cancelled||
-|AXS|Cancelled||
-|Best Buy|Cancelled||
-|Big Spaceship|Cancelled||
-|Blackbaud|Cancelled|Open full time offers are also cancelled|
-|Booz Allen Hamilton Summer Games|Cancelled||
-|Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
-|Bright Health|Cancelled||
-|BuzzFeed|Cancelled||
-|Calvin Klein|Cancelled||
-|Checkr|Cancelled||
-|ConocoPhillips|Cancelled||
-|Cox Automotive|Cancelled| Only Cox automotive and Cox Media Cancelled. Cox Communications is honoring all returning 2nd and 3rd rotations offers|
-|Cruise Automation|Cancelled|Rescinded all internship offers.|
-|Custom Ink|Cancelled|Rescinded all internships and full time offers!
-|Echostar|Cancelled||
-|Delta Airline|Cancelled|Rescinding offers.|
-|Discovery Inc.|Cancelled||
-|DNAnexus|Cancelled||
-|Flipp|Offers Rescinded||
-|Funding Circle|Cancelled||
-|FX|Cancelled||
-|Gartner|Cancelled|Even full time offers are getting rescinded|
-|GoCanvas|Cancelled||
-|Groupon|Cancelled||
-|HCA Healthcare|Cancelled||
-|Hill Holliday|Cancelled||
-|iCIMS|Cancelled|
-|IDEMIA|Cancelled|
-|IDEO|Cancelled|Ideo.org too|
-|IGN|Cancelled||
-|iHeartMedia|Cancelled|
-|InterSystems|Cancelled|
-|Interbrand|Cancelled|
-|IPG MediaBrands|Cancelled|
-|Kayak|Cancelled||
-|Kearney|Cancelled|MBA. London - Cancelled. Chicago - Virtual.|
-|Keen|Cancelled||
-|Kin and Carta|Cancelled||
-|LLamasoft|Cancelled||
-|LEK consulting|Cancelled|Cancelled their internship program but offered interns full time 2021 offers.|
-|LendingClub|Cancelled||
-|Leo Burnett|Cancelled||
-|Lime|Cancelled||
-|L'Oréal|Cancelled|Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
-|Mattel|Cancelled|Cancelled MBA internships. Need information on others.|
-|Marriot|Cancelled||
-|Mayo Clinic|Cancelled|At least IT|
-|M Booth|Cancelled||
-|MIT Lincoln Laboratory|Cancelled|Cancelled summer research program for interns|
-|MullenLowe|Cancelled||
-|National Geographic|Cancelled|
-|National Institutes of Health|Cancelled||
-|National Security Agency|Cancelled||
-|Norfolk Southern|Cancelled||
-|Nordstrom |Cancelled|Cancelled all technology internships.|
-|OpenTable|Cancelled||
-|Paycom|Cancelled|Hiring freeze until at least July|
-|Primer|Cancelled||
-|PROCEPT BioRobotics|Cancelled||
-|REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
-|Rent The Runway|Cancelled||
-|R/GA|Cancelled||
-|Roku|Cancelled||
-|Schlumberger|Cancelled|Internship and full-time offers rescinded|
-|Secret Mission Software|Cancelled||
-|Seattle Genetics, Inc.|Cancelled||
-|Siemens|Cancelled||
-|Simon Kucher & Partners|Cancelled||
-|Softheon|Cancelled||
-|Sonder|Cancelled|Revoked offers|
-|Southwest Airlines|Cancelled|Gauging interest in fall internship. Gift card being provided as compensation.|
-|StitchFix|Cancelled||
-|Stubhub|Cancelled||
-|Stuller|Cancelled||
-|Sumo Logic|Cancelled| Both Summer and Fall|
-|Sysco|Cancelled| Cancelled all internships offers and some full time .||
-|Team One|Cancelled||
-|Tegna Inc.|Cancelled||
-|Tenable|Cancelled||
-|Thermo Fisher Scientific|Cancelled||
-|Thumbtack|Cancelled|Rescinded offers for summer internships and new grad roles.|
-|Ticketmaster|Cancelled|Canceled their summer internship program.|
-|Toast|Cancelled| Internships in Boston cancelled. Full-time offers too.|
-|TripAdvisor|Cancelled|Rescinded full-time offers too.|
-|Universal McCann|Cancelled||
-|Uplift|Cancelled||
-|Uponor|Cancelled||
-|Urban Outfitters (URBN)|Cancelled||
-|USTA 2020 D&I|Cancelled|| 
-|Volvo|Offers got Rescinded ||
-|Vox|Cancelled||
-|WillowTree|Cancelled||
-|Workday|Cancelled|5k stipend being provided to interns|
-|Yelp|Cancelled||
+|23andMe|❌||
+|Ad Council|❌ ||
+|AKQA|❌ ||
+|Alaska Airlines|❌ ||
+|Alexander Group|❌ ||
+|Amtrak|❌ ||
+|American Airlines|❌ |Contradictory reports. Needs confirmation.|
+|Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
+|Applied Medical|❌ ||
+|Arista|❌ ||
+|AXS|❌ ||
+|Best Buy|❌ ||
+|Big Spaceship|❌ ||
+|Blackbaud|❌ |Open full time offers are also cancelled|
+|Booz Allen Hamilton Summer Games|❌ ||
+|Boston Scientific|❌ |Cancelled all internships and co-ops for all of 2020.|
+|Bright Health|❌ ||
+|BuzzFeed|❌ ||
+|Calvin Klein|❌ ||
+|Checkr|❌ ||
+|ConocoPhillips|❌ ||
+|Cox Automotive|❌ | Only Cox automotive and Cox Media Cancelled. Cox Communications is honoring all returning 2nd and 3rd rotations offers|
+|Cruise Automation|❌ |Rescinded all internship offers.|
+|Custom Ink|❌ |Rescinded all internships and full time offers!
+|Echostar|❌ ||
+|Delta Airline|❌ |Rescinding offers.|
+|Discovery Inc.|❌ ||
+|DNAnexus|❌ ||
+|Flipp|❌ | Offers Rescinded|
+|Funding Circle|❌ ||
+|FX|❌ ||
+|Gartner|❌ |Even full time offers are getting rescinded|
+|GoCanvas|❌ ||
+|Groupon|❌ ||
+|HCA Healthcare|❌ ||
+|Hill Holliday|❌ ||
+|iCIMS|❌ |
+|IDEMIA|❌ |
+|IDEO|❌ |Ideo.org too|
+|IGN|❌ ||
+|iHeartMedia|❌ |
+|InterSystems|❌ |
+|Interbrand|❌ |
+|IPG MediaBrands|❌ |
+|Kayak|❌ ||
+|Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
+|Keen|❌ ||
+|Kin and Carta|❌ ||
+|LLamasoft|❌ ||
+|LEK consulting|❌ |Cancelled their internship program but offered interns full time 2021 offers.|
+|LendingClub|❌ ||
+|Leo Burnett|❌ ||
+|Lime|❌ ||
+|L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
+|Mattel|❌ |Cancelled MBA internships. Need information on others.|
+|Marriot|❌ ||
+|Mayo Clinic|❌ |At least IT|
+|M Booth|❌ ||
+|MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
+|MullenLowe|❌ ||
+|National Geographic|❌ |
+|National Institutes of Health|❌ ||
+|National Security Agency|❌ ||
+|Norfolk Southern|❌ ||
+|Nordstrom |❌ |Cancelled all technology internships.|
+|OpenTable|❌ ||
+|Paycom|❌ |Hiring freeze until at least July|
+|Primer|❌ ||
+|PROCEPT BioRobotics|❌||
+|REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
+|Rent The Runway|❌ ||
+|R/GA|❌ ||
+|Roku|❌ ||
+|Schlumberger|❌ |Internship and full-time offers rescinded|
+|Secret Mission Software|❌ ||
+|Seattle Genetics, Inc.|❌ ||
+|Siemens|❌ ||
+|Simon Kucher & Partners|❌ ||
+|Softheon|❌||
+|Sonder|❌|Revoked offers|
+|Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
+|StitchFix|❌||
+|Stubhub|❌||
+|Stuller|❌||
+|Sumo Logic|❌| Both Summer and Fall|
+|Sysco|❌| Cancelled all internships offers and some full time .||
+|Team One|❌||
+|Tegna Inc.|❌||
+|Tenable|❌||
+|Thermo Fisher Scientific|❌||
+|Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
+|Ticketmaster|❌|Canceled their summer internship program.|
+|Toast|❌| Internships in Boston cancelled. Full-time offers too.|
+|TripAdvisor|❌|Rescinded full-time offers too.|
+|Universal McCann|❌||
+|Uplift|❌||
+|Uponor|❌||
+|Urban Outfitters (URBN)|❌||
+|USTA 2020 D&I|❌|| 
+|Volvo|❌|Offers got Rescinded|
+|Vox|❌||
+|WillowTree|❌||
+|Workday|❌|5k stipend being provided to interns|
+|Yelp|❌||
 ||||
 ||||
 ||||
