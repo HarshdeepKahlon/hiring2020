@@ -233,7 +233,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Plaid|Not Cancelled|Interviews being cancelled|
 |PlayStation|Not Cancelled|Remote in the worst case|
 |PricewaterhouseCoopers|Not Cancelled|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
-|Qualtrics|Not Cancelled||
+|Qualtrics|Not Cancelled|Won't cancel. Remote internship if needed, will update in the coming weeks|
 |Quantcast|Not Cancelled|Won't cancel. Remote internship if needed|
 |Raytheon BBN|Not Cancelled|Cancellation unlikely|
 |RedHat|Not Cancelled|Remote. Needs confirmation.|
