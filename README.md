@@ -206,7 +206,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Kohl's|Not Cancelled|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|Not Cancelled|Not hiring any more interns|
 |Liberty Mutual Insurance|Not Cancelled|Update by April 17th.|
-|Linkedin|Not Cancelled|Considering remote. Interviews are on hold|
+|LinkedIn|Not Cancelled|Considering remote. Interviews are on hold|
 |Los Angeles Rams|Not Cancelled|Hiring Freeze|
 |Lyft|Not Cancelled|Fully virtual|
 |Marathon Petroleum|Not Cancelled|Continues to plan for their summer 2020 internships.|
