@@ -43,14 +43,18 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Delta Airline|❌ |Rescinding offers.|
 |Discovery Inc.|❌ ||
 |DNAnexus|❌ ||
+|EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
 |Flipp|❌ | Offers Rescinded|
 |Funding Circle|❌ ||
 |FX|❌ ||
+|Gallagher|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
+|Guideline|❌||
+|HARMAN International|❌||
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Hill Holliday|❌ ||
@@ -119,6 +123,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |USTA 2020 D&I|❌|| 
 |Volvo|❌|Offers got Rescinded|
 |Vox|❌||
+|Wagner Spraytech|❌||
 |WillowTree|❌||
 |Workday|❌|5k stipend being provided to interns|
 |Yelp|❌||
