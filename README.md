@@ -135,7 +135,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Alarm.com|✅||
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
 |Amazon|✅|Considering remote.|
-|Amazon Robotics|✅|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
+|Amazon Robotics|✅|Virtual Internships|
 |American Airlines|✅|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
