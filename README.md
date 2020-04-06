@@ -277,6 +277,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
 |Uber|✅|Interviews being cancelled|
+|United Airlines|✅|Decision by April 15|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |Vanguard|✅|Decision by Mar 27|
