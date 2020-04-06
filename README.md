@@ -44,15 +44,18 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Discovery Inc.|❌ ||
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
+|EVERFI|❌ ||
 |Flipp|❌ | Offers Rescinded|
 |Funding Circle|❌ ||
 |FX|❌ ||
 |Gallagher|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |GoCanvas|❌ ||
+|Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
 |HARMAN International|❌||
+|Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Hill Holliday|❌ ||
 |iCIMS|❌ |
@@ -130,14 +133,15 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |1Password|✅|Hiring Freeze|
 |3M|✅|Remote for now. Option to move to in-person if conditions change by June 1|
 |Activision/Blizzard|✅||
+|Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Hiring Freeze|
 |ADP|✅|Remote if needed|
 |Airbnb|✅|Currently planning for in-person, updates to come|
 |Akamai Technologies|✅|Remote until further notice.|
 |Alarm.com|✅||
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
-|Amazon|✅|Considering remote.|
-|Amazon Robotics|✅|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
+|Amazon|✅|Virtual Internships|
+|Amazon Robotics|✅|Virtual Internships|
 |American Airlines|✅|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
@@ -150,6 +154,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America|✅||
 |Belvedere trading|✅||
+|Black Rock|✅|Still on. Considering remote.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
@@ -243,9 +248,11 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Pandora|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅||
+|Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
 |PlayStation|✅|Remote in the worst case|
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
+|Procter & Gamble|✅|Online except for a few cases. Needs confirmation.|
 |Qualcomm|✅|Won't cancel. Remote/In-person decision by April 10.|
 |Qualtrics|✅|Will update in coming weeks.|
 |Quantcast|✅|Won't cancel. Remote internship if needed|
@@ -281,10 +288,12 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
 |Uber|✅|Interviews being cancelled|
+|United Airlines|✅|Decision by April 15|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |Vanguard|✅|Decision by Mar 27|
 |Verily|✅|Hiring freeze|
+|Verizon|✅|Decision by Apr 30|
 |Viasat|✅|Decision by Apr 15|
 |Visa|✅||
 |VMware|✅|Will be remote|
