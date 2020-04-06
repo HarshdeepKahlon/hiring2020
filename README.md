@@ -134,7 +134,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Akamai Technologies|✅|Remote until further notice.|
 |Alarm.com|✅||
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
-|Amazon|✅|Considering remote.|
+|Amazon|✅|Virtual Internships|
 |Amazon Robotics|✅|Virtual Internships|
 |American Airlines|✅|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
