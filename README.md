@@ -88,6 +88,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |National Security Agency|❌ ||
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
+|NPR|❌ ||
 |OpenTable|❌ ||
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
