@@ -49,6 +49,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |FX|❌ ||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |GoCanvas|❌ ||
+|Group Nine Media|❌ ||
 |Groupon|❌ ||
 |HCA Healthcare|❌ ||
 |Hill Holliday|❌ ||
