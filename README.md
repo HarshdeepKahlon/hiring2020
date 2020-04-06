@@ -285,6 +285,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |USAA|✅|Fully remote|
 |Vanguard|✅|Decision by Mar 27|
 |Verily|✅|Hiring freeze|
+|Verizon|✅|Decision by Apr 30|
 |Viasat|✅|Decision by Apr 15|
 |Visa|✅||
 |VMware|✅|Will be remote|
