@@ -86,6 +86,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
+|No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
