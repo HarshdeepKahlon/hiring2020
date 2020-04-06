@@ -263,7 +263,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |ResMed|✅|Paused hiring.|
 |RingCentral|✅|Remote for summer|
 |Ripcord|✅|Pending. Mid-April Decision.|
-|Salesforce|✅|For NYC office, will not cancel, worst case remote internship. For SF, planning for an in person summer internship at this time. Updates expected at the end of next week if not earlier|
+|Salesforce|✅|Remote internships for all locations. Changes to be communicated if the COVID-19 situation gets resolved in coming months|
 |Samsara|✅||
 |Samsung|✅|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
 |Santander CIB|✅||
