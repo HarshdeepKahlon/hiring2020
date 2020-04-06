@@ -51,6 +51,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
+|Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Hill Holliday|❌ ||
 |iCIMS|❌ |
