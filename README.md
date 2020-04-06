@@ -49,6 +49,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Gartner|❌ |Even full time offers are getting rescinded|
 |GoCanvas|❌ ||
 |Groupon|❌ ||
+|Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Hill Holliday|❌ ||
 |iCIMS|❌ |
