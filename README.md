@@ -148,6 +148,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America|✅||
 |Belvedere trading|✅||
+|Black Rock|✅|Still on. Considering remote.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
