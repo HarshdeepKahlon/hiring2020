@@ -226,7 +226,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
 |Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
-|Microsoft|✅|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
+|Microsoft|✅|Remote Internship for US and Canadian students. UX intern hiring frozen.|
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
 |MongoDB|✅||
