@@ -42,6 +42,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Echostar|❌ ||
 |Delta Airline|❌ |Rescinding offers.|
 |Discovery Inc.|❌ ||
+|Disney|❌ |Current interns are being sent home too.|
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
@@ -85,8 +86,10 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
+|No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
+|NPR|❌ ||
 |OpenTable|❌ ||
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
@@ -176,7 +179,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Hiring Freeze. Decision by April 15|
-|Disney|✅||
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
@@ -226,7 +228,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
 |Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
-|Microsoft|✅|Won't be cancelling. Remote or In-person decision by April 8th. UX intern hiring frozen.|
+|Microsoft|✅|Remote Internship for US and Canadian students. UX intern hiring frozen.|
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
 |MongoDB|✅||
