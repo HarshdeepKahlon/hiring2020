@@ -43,6 +43,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Delta Airline|❌ |Rescinding offers.|
 |Discovery Inc.|❌ ||
 |DNAnexus|❌ ||
+|EVERFI|❌ ||
 |Flipp|❌ | Offers Rescinded|
 |Funding Circle|❌ ||
 |FX|❌ ||
