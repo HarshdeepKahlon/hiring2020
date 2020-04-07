@@ -188,7 +188,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Dropbox|✅|Hiring Freeze. Update by April 17|
 |Ebay|✅|Remote or in-person decision will by April 15|
 |Electronic Arts|✅|Remote|
-|Ernst & Young (EY)|✅|Considering remote| 
+|Ernst & Young (EY)|✅|Considering remote. Remote in the San Francisco office| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |Expedia|✅||
 |EY-Parthenon|✅|| 
