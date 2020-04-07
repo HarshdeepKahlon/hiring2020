@@ -42,7 +42,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Echostar|❌ ||
 |Delta Airline|❌ |Rescinding offers.|
 |Discovery Inc.|❌ ||
-|Disney|❌ |Current interns are being sent home too.|
+|Disney|❌ |Not clear if internships are cancelled/not. Contradictory reports. Needs confirmation.|
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
