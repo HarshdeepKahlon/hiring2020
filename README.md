@@ -42,7 +42,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Echostar|❌ ||
 |Delta Airline|❌ |Rescinding offers.|
 |Discovery Inc.|❌ ||
-|Disney|❌ |Not clear if internships are cancelled/not. Contradictory reports. Needs confirmation.|
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
@@ -182,6 +181,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Hiring Freeze. Decision by April 15|
+|Disney|✅|Not clear if internships are cancelled/not. Contradictory reports. Needs confirmation.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
