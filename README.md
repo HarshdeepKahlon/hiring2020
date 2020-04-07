@@ -107,6 +107,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Sonder|❌|Revoked offers|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
 |StitchFix|❌||
+|Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
 |Sumo Logic|❌| Both Summer and Fall|
@@ -280,7 +281,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Sprout Social|✅|Stopped hiring.|
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote|
-|Stryker|✅|Decision by mid-April. Told not to make relocation plans.|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
 |Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
