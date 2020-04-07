@@ -281,7 +281,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
 |State Farm|✅|Moving to virtual|
-|Stripe|✅|Fully remote|
+|Stripe|✅|Fully remote. New grad onboarding remote too.|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
 |Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
