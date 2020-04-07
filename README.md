@@ -64,6 +64,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |IDEO|❌ |Ideo.org too|
 |IGN|❌ ||
 |iHeartMedia|❌ |
+|Indeed|❌ |Summer internships cancelled.|
 |InterSystems|❌ |
 |Interbrand|❌ |
 |IPG MediaBrands|❌ |
@@ -213,7 +214,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |IBM|✅|Won't be cancelling. All internships will be remote.|
 |IBM Research|✅|Hiring Freeze|
 |IMC Trading|✅|Potentially remote.|
-|Indeed|✅|Cancelling interviews. But offers not being rescinded.|
 |Informatica|✅|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
 |Intuit|✅|No plans to cancel internship or new grad positions. Decided to make incoming intern/co-op program fully virtual.|
 |John Deere|✅|Not cancelling.|
