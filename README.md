@@ -106,7 +106,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Simon Kucher & Partners|❌ ||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
-|Sony|❌|Cancelled in UK|
+|Sony|❌|Cancelled in UK. Needs confirmation.|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
 |StitchFix|❌||
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
