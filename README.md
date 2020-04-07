@@ -241,7 +241,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Noblis|✅|Currently evaluating remote internships|
 |Nokia|✅|Remote internships for all roles|
 |Nutanix|✅|Worst case - Remote|
-|NVIDIA|✅|Remote - fully or partially|
+|NVIDIA|✅|Canada remote, stil deciding if partial/total remote (sent out survey to gauge locations). Not cancelling.|
 |Oakland Athletes|✅|Hiring Freeze|
 |Okta|✅|Toronto internships will be remote|
 |Optimizely|✅|Hiring Freeze|
