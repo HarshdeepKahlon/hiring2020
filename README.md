@@ -235,7 +235,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |MITRE|✅|Remote Internship|
 |MongoDB|✅||
 |Mozilla|✅|Remote Internship|
-|NASA|✅| Internship cancellation decision by April 15|
+|NASA|✅| Remote Internship (Ames, JPL at least)|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
 |Nextdoor|✅||
 |Noblis|✅|Currently evaluating remote internships|
