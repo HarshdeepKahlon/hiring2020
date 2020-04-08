@@ -50,6 +50,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |FX|❌ ||
 |Gallagher|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
+|Genuine Parts Company|❌||
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
@@ -101,7 +102,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Schlumberger|❌ |Internship and full-time offers rescinded|
 |Secret Mission Software|❌ ||
 |Seattle Genetics, Inc.|❌ ||
-|Siemens|❌ ||
+|Siemens|❌ || Need to verify. Heard from multiple friends that Siemens is shipping laptops to them to do remote work||
 |Simon Kucher & Partners|❌ ||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
