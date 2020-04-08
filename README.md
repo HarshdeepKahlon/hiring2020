@@ -262,6 +262,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Qualtrics|✅|Will update in coming weeks.|
 |Quantcast|✅|Won't cancel. Remote internship if needed|
 |Raytheon BBN|✅|Cancellation unlikely|
+|RBC|✅|Actively hiring|
 |Reddit|✅|Remote. Needs confirmation.|
 |RedHat|✅|Remote. Needs confirmation.|
 |ResMed|✅|Paused hiring.|
