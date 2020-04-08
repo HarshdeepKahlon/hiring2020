@@ -171,7 +171,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Cisco|✅|Fully Remote|
 |Cisco Meraki|✅|Remote confirmed| 
 |Citadel|✅|WFH Possible|
-|Citrix Systems|✅| Internship not cancelled. Possibility of going remote.
+|Citrix Systems|✅| Internship not cancelled. Possibility of going remote.|
 |Cloudflare|✅|Internships reopened and internship class size doubled, remote work if needed|
 |Coinbase|✅|Still planning for in-person, but could change|
 |College Board|✅|Hiring freeze.|
