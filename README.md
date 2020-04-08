@@ -157,6 +157,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |AT&T|✅|Planning on going remote. Update on April 8th.|
 |Atlassian|✅|Going fully remote|
 |Audible|✅|On track to begin June 1|
+|Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.
 |Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America|✅||
 |Belvedere trading|✅||
