@@ -271,7 +271,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Samsara|✅||
 |Samsung|✅|Decision by mid April. They’re working with teams to get remote internship as a viable option.|
 |Santander CIB|✅||
-|SAP|✅||
+|SAP|✅|Internship onboarding moving to virtual|
 |SC Johnson|✅||
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
