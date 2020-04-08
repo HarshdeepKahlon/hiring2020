@@ -95,6 +95,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
+|Quantcast|❌|Summer internships cancelled.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
 |R/GA|❌ ||
@@ -262,7 +263,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Procter & Gamble|✅|Online except for a few cases. Needs confirmation.|
 |Qualcomm|✅|Won't cancel. Remote/In-person decision by April 10.|
 |Qualtrics|✅|Will update in coming weeks.|
-|Quantcast|✅|Won't cancel. Remote internship if needed|
 |Raytheon BBN|✅|Cancellation unlikely|
 |RBC|✅|Actively hiring|
 |Reddit|✅|Remote. Needs confirmation.|
