@@ -323,6 +323,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Walmart|✅|Hiring Freeze|
 |Wayfair|✅|Decision by mid-April.|
 |WarnerMedia|✅||
+|Wells Fargo|✅|Exploring remote option.|
 |WePay|✅|Won't be cancelling|
 |Western Digital|✅||
 |Wish|✅|Hiring Freeze|
