@@ -133,7 +133,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Ticketmaster|❌|Canceled their summer internship program.|
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |TripAdvisor|❌|Rescinded full-time offers too.|
-|Ultimate Software|❌||
+|Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
 |Universal McCann|❌||
 |Uplift|❌||
 |Uponor|❌||
