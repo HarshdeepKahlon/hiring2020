@@ -244,6 +244,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |LinkedIn|✅|Considering remote. Interviews are on hold|
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
+|Magnopus|✅|Slight possibility they might cancel.|
 |Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
