@@ -40,7 +40,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
-|Delta Airline|❌ |Rescinding offers.|
+|Delta Airline|❌|Rescinding offers.|
+|Designer Brands|❌||
 |Discovery Inc.|❌ ||
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
@@ -68,6 +69,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |InterSystems|❌ |
 |Interbrand|❌ |
 |IPG MediaBrands|❌ |
+|Kaiser Permanente|❌||
 |Kayak|❌ ||
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
@@ -80,21 +82,26 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
+|Marsh and Mclennan Agency|❌||
 |Mayo Clinic|❌ |At least IT|
 |M Booth|❌ ||
+|Medicus Healthcare Solutions|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
 |MullenLowe|❌ ||
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
+|Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
 |OpenTable|❌ ||
+|Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
+|Ramboll|❌||
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
 |R/GA|❌ ||
@@ -104,10 +111,12 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Seattle Genetics, Inc.|❌ ||
 |Siemens|❌ || Need to verify. Heard from multiple friends that Siemens is shipping laptops to them to do remote work||
 |Simon Kucher & Partners|❌ ||
+|Sleep Number|❌||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
 |Sony|❌|Cancelled in UK. Needs confirmation.|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
+|Springbuk|❌||
 |StitchFix|❌||
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
