@@ -36,6 +36,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |BuzzFeed|❌ ||
 |Calvin Klein|❌ ||
 |Checkr|❌ ||
+|Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
 |Cox Automotive|❌ | Only Cox automotive and Cox Media Cancelled. Cox Communications is honoring all returning 2nd and 3rd rotations offers|
 |Cruise Automation|❌ |Rescinded all internship offers.|
@@ -60,6 +61,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |HARMAN International|❌||
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
+|Helen of Troy|❌||
 |Hill Holliday|❌ ||
 |iCIMS|❌ |
 |IDEMIA|❌ |
@@ -70,11 +72,14 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |InterSystems|❌ |
 |Interbrand|❌ |
 |IPG MediaBrands|❌ |
+|Kabbage|❌||
 |Kaiser Permanente|❌||
 |Kayak|❌ ||
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
 |Kin and Carta|❌ ||
+|Kohler Engines|❌||
+|Lands' End|❌||
 |LLamasoft|❌ ||
 |LEK consulting|❌ |Cancelled their internship program but offered interns full time 2021 offers.|
 |LendingClub|❌ ||
@@ -92,12 +97,14 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
+|NBC Olympic|❌||
 |Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
 |OpenTable|❌ ||
+|Occidental Petroleum|❌||
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
@@ -128,6 +135,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Team One|❌||
 |Tegna Inc.|❌||
 |Tenable|❌||
+|The Good Year Tire & Rubber Company|❌||
 |Thermo Fisher Scientific|❌||
 |Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|❌|Canceled their summer internship program.|
