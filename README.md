@@ -101,6 +101,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
+|Quantcast|❌|Summer internships cancelled.|
 |Ramboll|❌||
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
@@ -166,6 +167,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |AT&T|✅|Planning on going remote. Update on April 8th.|
 |Atlassian|✅|Going fully remote|
 |Audible|✅|On track to begin June 1|
+|Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.
 |Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America|✅||
 |Belvedere trading|✅||
@@ -207,7 +209,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Facebook|✅|Considering remote. More details to come.|
 |Fedex|✅|Update by Mid-April|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
-|Fidelity Investments|✅||
+|Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |Garmin|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
@@ -271,7 +273,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Procter & Gamble|✅|Online except for a few cases. Needs confirmation.|
 |Qualcomm|✅|Won't cancel. Remote/In-person decision by April 10.|
 |Qualtrics|✅|Will update in coming weeks.|
-|Quantcast|✅|Won't cancel. Remote internship if needed|
 |Raytheon BBN|✅|Cancellation unlikely|
 |RBC|✅|Actively hiring|
 |Reddit|✅|Remote. Needs confirmation.|
