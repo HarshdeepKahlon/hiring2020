@@ -251,6 +251,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
 |MongoDB|✅||
+|Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
 |Mozilla|✅|Remote Internship|
 |NASA|✅| Remote Internship (Ames, JPL at least)|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
