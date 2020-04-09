@@ -233,6 +233,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |IMC Trading|✅|Potentially remote.|
 |Informatica|✅|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
 |Intuit|✅|No plans to cancel internship or new grad positions. Decided to make incoming intern/co-op program fully virtual.|
+|Jane Street|✅|Planning for remote.|
 |John Deere|✅|Not cancelling.|
 |JP Morgan|✅|Delayed by a month - new start date July 6th. Updates to follow. Pay will stay the same.|
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
