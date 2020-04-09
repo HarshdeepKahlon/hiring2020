@@ -172,6 +172,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.
 |Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America|✅||
+|Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Belvedere trading|✅||
 |Black Rock|✅|Still on. Considering remote.|
 |Blade|✅|Currently no plans to change anything|
