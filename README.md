@@ -217,7 +217,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Giphy|✅|Hiring Freeze|
 |GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
 |Glassdoor|✅|Hiring Freeze|
-|Goldman Sachs|✅|| Hong Kong: Delayed by a month, probably the same in the US.
+|Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
 |Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
 |HP|✅|Remote. Won't be cancelled.|
