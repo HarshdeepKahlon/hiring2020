@@ -180,6 +180,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
 |BNP Paribas|✅|Update in the coming days. No plans to cancel as of now.|
 |Boeing|✅|Considering remote.|
+|BP|✅|Will be virtual.|
 |Capital One|✅|Remote Internships|
 |Carvana|✅|Hiring Freeze|
 |Cisco|✅|Fully Remote|
