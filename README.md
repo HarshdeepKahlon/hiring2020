@@ -183,6 +183,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |BP|✅|Will be virtual.|
 |Capital One|✅|Remote Internships|
 |Carvana|✅|Hiring Freeze|
+|Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
 |Cisco|✅|Fully Remote|
 |Cisco Meraki|✅|Remote confirmed| 
 |Citadel|✅|WFH Possible|
