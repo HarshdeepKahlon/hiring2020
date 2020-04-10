@@ -288,6 +288,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Pandora|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅||
+|PepsiCo|✅|Remote possible. Update expected shortly.|
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
 |PlayStation|✅|Remote in the worst case|
