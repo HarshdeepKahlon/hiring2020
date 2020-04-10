@@ -20,8 +20,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
-|Amtrak|❌ ||
 |American Airlines|❌|Confirmed.||
+|Amtrak|❌ ||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
 |APCO Worldwide|❌ ||
 |Applied Medical|❌ ||
