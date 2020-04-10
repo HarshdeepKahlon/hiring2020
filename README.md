@@ -21,11 +21,12 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
 |Amtrak|❌ ||
-|American Airlines|❌ |Contradictory reports. Needs confirmation.|
+|American Airlines|❌|Confirmed.||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
 |APCO Worldwide|❌ ||
 |Applied Medical|❌ ||
 |Arista|❌ ||
+|Arthrex|❌||
 |AXS|❌ ||
 |Best Buy|❌ ||
 |Big Spaceship|❌ ||
@@ -35,16 +36,17 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Bright Health|❌ ||
 |BuzzFeed|❌ ||
 |Calvin Klein|❌ ||
+|Captify|❌||
 |Checkr|❌ ||
 |Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
-|Cox Automotive|❌ | Only Cox automotive and Cox Media Cancelled. Cox Communications is honoring all returning 2nd and 3rd rotations offers|
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
 |Discovery Inc.|❌ ||
+|Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program.||
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
@@ -78,12 +80,14 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
 |Kin and Carta|❌ ||
+|Kitty Hawk|❌||
 |Kohler Engines|❌||
 |Lands' End|❌||
 |LLamasoft|❌ ||
 |LEK consulting|❌ |Cancelled their internship program but offered interns full time 2021 offers.|
 |LendingClub|❌ ||
 |Leo Burnett|❌ ||
+|Lifeway Christian Resources|❌||
 |Lime|❌ ||
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
@@ -98,6 +102,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
 |NBC Olympic|❌||
+|Nielsen|❌||
 |Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
 |Norfolk Southern|❌ ||
@@ -150,6 +155,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Volvo|❌|Offers got Rescinded|
 |Vox|❌||
 |Wagner Spraytech|❌||
+|Wisk|❌||
 |WillowTree|❌||
 |Workday|❌|5k stipend being provided to interns|
 |Yelp|❌||
@@ -168,7 +174,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
 |Amazon|✅|Virtual Internships|
 |Amazon Robotics|✅|Virtual Internships|
-|American Airlines|✅|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
 |Aon|✅||Remote possible. Dates and logistics might change.|
@@ -202,12 +207,11 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |CommScope|✅|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|✅||
 |Coveo|✅|Remote work, if needed|
-|Cox Commucations|✅| Hornoring returning  offers for returning interns||
+|Cox Enterpise|✅| Cox Communications is honoring all offers for 2rd and 3rd rotation returning interns. Only Cox Automotive and Cox Media Cancelled.||
 |Cubic|✅|Hiring freeze|
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Hiring Freeze. Decision by April 15|
-|Disney|✅|Not clear if internships are cancelled/not. Contradictory reports. Needs confirmation.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
