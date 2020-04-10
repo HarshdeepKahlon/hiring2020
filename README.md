@@ -325,6 +325,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |T-Mobile|✅|Monitoring situation|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
+|Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
 |Uber|✅|Interviews being cancelled|
 |United Airlines|✅|Decision by April 15|
