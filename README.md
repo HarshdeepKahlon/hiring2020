@@ -295,6 +295,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Santander CIB|✅||
 |SAP|✅|Internship onboarding moving to virtual|
 |SC Johnson|✅||
+|ServiceNow|✅|Internship moved to remote|
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
 |Sigma Computing|✅|Remote work|
