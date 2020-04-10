@@ -137,7 +137,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
-|Sumo Logic|❌| Both Summer and Fall|
+|Sumo Logic|❌| Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌| Cancelled all internships offers and some full time .||
 |Team One|❌||
 |Tegna Inc.|❌||
