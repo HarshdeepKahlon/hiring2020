@@ -56,6 +56,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Gallagher|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
+|Gildan|❌||
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
