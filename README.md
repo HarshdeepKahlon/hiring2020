@@ -126,6 +126,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Siemens|❌ || Need to verify. Heard from multiple friends that Siemens is shipping laptops to them to do remote work||
 |Simon Kucher & Partners|❌ ||
 |Sleep Number|❌||
+|Sling TV|❌|Cancelled their entire summer internship program for 2020, including MBAs and undergrads|
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
 |Sony|❌|Cancelled in UK. Needs confirmation.|
