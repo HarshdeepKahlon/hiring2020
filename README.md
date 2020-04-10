@@ -176,7 +176,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Amazon Robotics|✅|Virtual Internships|
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
-|Aon|✅||Remote possible. Dates and logistics might change.|
+|Aon|✅|Will be remote.|
 |Apple|✅|Starting remotely for now|
 |Ares Management|✅|Considering remote. Updates to follow.|
 |AT&T|✅|Planning on going remote. Update on April 8th.|
