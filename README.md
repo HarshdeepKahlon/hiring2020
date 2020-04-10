@@ -217,7 +217,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅|Hiring Freeze. Update by April 17|
-|Ebay|✅|Remote or in-person decision will by April 15|
+|Ebay|✅|Going virtual.|
 |Electronic Arts|✅|Remote|
 |Ernst & Young (EY)|✅|Considering remote. Remote in the San Francisco office| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
