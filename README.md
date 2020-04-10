@@ -38,6 +38,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Calvin Klein|❌ ||
 |Captify|❌||
 |Checkr|❌ ||
+|Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
@@ -62,6 +63,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |HARMAN International|❌||
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
+|Helen of Troy|❌||
 |Hill Holliday|❌ ||
 |iCIMS|❌ |
 |IDEMIA|❌ |
@@ -72,12 +74,15 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |InterSystems|❌ |
 |Interbrand|❌ |
 |IPG MediaBrands|❌ |
+|Kabbage|❌||
 |Kaiser Permanente|❌||
 |Kayak|❌ ||
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
 |Kin and Carta|❌ ||
 |Kitty Hawk|❌||
+|Kohler Engines|❌||
+|Lands' End|❌||
 |LLamasoft|❌ ||
 |LEK consulting|❌ |Cancelled their internship program but offered interns full time 2021 offers.|
 |LendingClub|❌ ||
@@ -96,6 +101,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
+|NBC Olympic|❌||
 |Nielsen|❌||
 |Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
@@ -103,6 +109,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
 |OpenTable|❌ ||
+|Occidental Petroleum|❌||
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
@@ -133,12 +140,13 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Team One|❌||
 |Tegna Inc.|❌||
 |Tenable|❌||
+|The Good Year Tire & Rubber Company|❌||
 |Thermo Fisher Scientific|❌||
 |Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|❌|Canceled their summer internship program.|
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |TripAdvisor|❌|Rescinded full-time offers too.|
-|Ultimate Software|❌||
+|Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
 |Universal McCann|❌||
 |Uplift|❌||
 |Uponor|❌||
