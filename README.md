@@ -196,7 +196,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
 |BNP Paribas|✅|Update in the coming days. No plans to cancel as of now.|
-|Boeing|✅|Considering remote.|
+|Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
 |Capital One|✅|Remote Internships|
 |Carvana|✅|Hiring Freeze|
