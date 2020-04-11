@@ -94,7 +94,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
-|Marsh and Mclennan Agency|❌||
+|Marsh and Mclennan Agency|❌|Hearing contradictory reports. Needs confirmation.|
 |Mayo Clinic|❌ |At least IT|
 |M Booth|❌ ||
 |Medicus Healthcare Solutions|❌||
@@ -272,6 +272,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
 |Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
+|Mercer|✅||
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
