@@ -98,6 +98,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |M Booth|❌ ||
 |Medicus Healthcare Solutions|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
+|Mrytle Beach Pelicans|❌ ||
 |MullenLowe|❌ ||
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
@@ -121,6 +122,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Rent The Runway|❌ ||
 |R/GA|❌ ||
 |Roku|❌ ||
+|Salem Red Sox|❌ ||
 |Schlumberger|❌ |Internship and full-time offers rescinded|
 |Secret Mission Software|❌ ||
 |Seattle Genetics, Inc.|❌ ||
