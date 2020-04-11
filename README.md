@@ -13,8 +13,8 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 
 ### Actively Hiring List
 
-|               Company               |            Positions           |
-|:-----------------------------------|:----------------------------------------------------------------------------------------:|
+|               Company               |                                      Positions                                      |
+|:-----------------------------------|:----------------------------------------------------------------------------------------|
 |Anyscale|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
 |Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
