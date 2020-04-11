@@ -15,7 +15,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 
 |               Company               |            Positions           |
 |:-----------------------------------|:-------------------------------------------------------------------|
-|Cloudflare| Internship: - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)|
+|Cloudflare|<ul><li>Internship [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Anyscale| Internship: - [Software Engineering](https://jobs.lever.co/anyscale)|
 |Blend| Internship: - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 
