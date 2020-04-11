@@ -15,7 +15,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 
 |               Company               |            Positions           |
 |:-----------------------------------|:-------------------------------------------------------------------|
-|Cloudflare| - Software Engineering, Product Strategy, Product Management and Security - https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app|
+|Cloudflare| 1. Software Engineering, Product Strategy, Product Management and Security - https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app|
 
 ### COVID-19 Summer 2020 Internship Status List
 
