@@ -220,7 +220,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
-|Dropbox|✅|Hiring Freeze. Update by April 17|
+|Dropbox|✅|Virtual|
 |Ebay|✅|Going virtual.|
 |Electronic Arts|✅|Remote|
 |Ernst & Young (EY)|✅|Considering remote. Remote in the San Francisco office| 
