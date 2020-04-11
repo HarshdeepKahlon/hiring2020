@@ -115,6 +115,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Occidental Petroleum|❌||
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
+|PluralSight|❌||
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
 |Quantcast|❌|Summer internships cancelled. Needs confirmation.|
