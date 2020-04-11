@@ -277,6 +277,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Mozilla|✅|Remote Internship|
 |NASA|✅| Remote Internship (Ames, JPL at least)|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
+|New York Times|✅|Remote.|
 |Nextdoor|✅||
 |Noblis|✅|Currently evaluating remote internships|
 |Nokia|✅|Remote internships for all roles|
