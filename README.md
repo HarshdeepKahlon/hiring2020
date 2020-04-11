@@ -290,6 +290,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Oscar Health|✅|Not planning to cancel. Remote/In-person decision by mid-April|
 |Pagerduty|✅|Fully remote.|
 |Palantir|✅||
+|Palo Alto Networks|✅ |Fully remote|
 |Pandora|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅||
