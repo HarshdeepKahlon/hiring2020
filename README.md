@@ -183,7 +183,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Aon|✅|Will be remote.|
 |Apple|✅|Starting remotely for now|
 |Ares Management|✅|Considering remote. Updates to follow.|
-|AT&T|✅|Planning on going remote. Update on April 8th.|
+|AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
 |Audible|✅|On track to begin June 1|
 |Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.
