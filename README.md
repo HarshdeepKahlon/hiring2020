@@ -206,6 +206,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Citadel|✅|WFH Possible|
 |Citi|✅|Not cancelling. Start date moved to July 6. Interns in NY, London, HK, Singapore and Tokyo automatically receive full-time offers upon meeting minimum requirements.|
 |Citrix Systems|✅| Internship not cancelled. Possibility of going remote.|
+|Clorox|✅||
 |Cloudflare|✅|Internships reopened and internship class size doubled, remote work if needed|
 |Coinbase|✅|Still planning for in-person, but could change|
 |College Board|✅|Hiring freeze.|
