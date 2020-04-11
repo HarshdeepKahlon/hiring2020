@@ -116,7 +116,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Paycom|❌ |Hiring freeze until at least July|
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
-|Quantcast|❌|Summer internships cancelled.|
+|Quantcast|❌|Summer internships cancelled. Needs confirmation.|
 |Ramboll|❌||
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
