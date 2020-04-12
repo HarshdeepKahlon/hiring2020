@@ -273,7 +273,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
 |Liberty Mutual Insurance|✅|Update by April 17th.|
-|LinkedIn|✅|Considering remote. Interviews are on hold|
+|LinkedIn|✅|Fully remote.|
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
 |Magnopus|✅|Slight possibility they might cancel.|
