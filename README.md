@@ -285,6 +285,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
+|Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
 |MongoDB|✅||
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
 |Mozilla|✅|Remote Internship|
