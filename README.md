@@ -273,7 +273,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
 |Liberty Mutual Insurance|✅|Update by April 17th.|
-|LinkedIn|✅|Considering remote. Interviews are on hold|
+|LinkedIn|✅|Fully remote. Interviews are on hold|
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
 |Magnopus|✅|Slight possibility they might cancel.|
@@ -345,6 +345,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |The Motley Fool|✅|Fully remote.|
 |Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
 |T-Mobile|✅|Monitoring situation|
+|TuSimple|✅|Remote for now but onsite recommended once feasible|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
