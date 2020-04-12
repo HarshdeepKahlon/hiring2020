@@ -63,6 +63,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |FX|❌ ||
 |Gallagher|❌||
 |Gap Inc.|❌ |No compensation offered.|
+|Garmin|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
 |Gildan|❌||
@@ -245,7 +246,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |Ford Motor Company|✅|Remote. Delayed June start date. Duration reduced to 6-8 weeks.|
-|Garmin|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
 |General Atomics|✅|Considering remote.|
