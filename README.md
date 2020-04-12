@@ -234,7 +234,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Dropbox|✅|Virtual|
 |Ebay|✅|Going virtual.|
 |Electronic Arts|✅|Remote|
-|Ernst & Young (EY)|✅|Considering remote. Remote in the San Francisco office| 
+|Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |Expedia|✅||
 |EY-Parthenon|✅|| 
