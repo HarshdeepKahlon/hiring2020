@@ -18,6 +18,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Anyscale|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
 |Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
+|Dataminr|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
@@ -228,6 +229,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Cox Enterpise|✅| Cox Communications is honoring all offers for 2rd and 3rd rotation returning interns. Only Cox Automotive and Cox Media Cancelled.||
 |Cubic|✅|Hiring freeze|
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
+|Dataminr|✅||
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Hiring Freeze. Decision by April 15|
 |DocuSign|✅||
