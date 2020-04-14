@@ -209,6 +209,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |BNP Paribas|✅|Update in the coming days. No plans to cancel as of now.|
 |Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
+|Braze|✅||
 |Capital One|✅|Remote Internships|
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
