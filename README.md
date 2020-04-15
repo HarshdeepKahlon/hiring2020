@@ -402,7 +402,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
-|Uber|✅|Interviews being cancelled|
+|Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |Vanguard|✅|Decision by Mar 27|
