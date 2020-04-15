@@ -331,6 +331,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |New York Times|✅|Remote.|
 |Nextdoor|✅||
 |Nike|✅|Remote.|
+|Nintendo|✅|Remote in US.|
 |Noblis|✅|Currently evaluating remote internships|
 |Nokia|✅|Remote internships for all roles|
 |Nutanix|✅|Remote Internship|
