@@ -144,7 +144,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Schlumberger|❌ |Internship and full-time offers rescinded|
 |Secret Mission Software|❌ ||
 |Seattle Genetics, Inc.|❌ ||
-|Siemens|❌ || Need to verify. Heard from multiple friends that Siemens is shipping laptops to them to do remote work||
 |Simon Kucher & Partners|❌ ||
 |Sleep Number|❌||
 |Sling TV|❌|Cancelled their entire summer internship program for 2020, including MBAs and undergrads|
@@ -347,6 +346,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |ServiceNow|✅|Internship moved to remote|
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
+|Siemens|✅ | Needs confirmation. Contradictory reports.|
 |Sigma Computing|✅|Remote work|
 |Snap|✅|Remote possible|
 |Snowflake|✅||
