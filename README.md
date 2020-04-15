@@ -420,6 +420,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Xilinx|✅|Remote Internship|
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled|
+|Zocdoc|✅|Considering remote|
 |ZS|✅|Interviews being cancelled|
 |Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
 
