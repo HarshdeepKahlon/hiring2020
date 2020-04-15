@@ -338,7 +338,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $2500 lump-sum payment and full-time 2021 offer.|
 |Procter & Gamble|✅|Online except for a few cases. On site possible for last 2 weeks.|
 |Qualcomm|✅|Won't cancel. Remote/In-person decision by April 10.|
-|Qualtrics|✅|Will update in coming weeks.|
+|Qualtrics|✅|Fully remote.|
 |Raytheon BBN|✅|Cancellation unlikely|
 |Reddit|✅|Remote. Needs confirmation.|
 |RedHat|✅|Remote. Needs confirmation.|
