@@ -20,12 +20,14 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Dataminr|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
 |LiveRamp|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
+|Roblox|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
 |               Company               |       Status       |            Notes           |
 |:-----------------------------------|:------------------:|:-------------------------------------------------------------------|
 |23andMe|❌||
+|ABC|❌|All internships now cancelled||
 |Ad Council|❌ ||
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
@@ -41,6 +43,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Best Buy|❌ ||
 |Big Spaceship|❌ ||
 |Blackbaud|❌ |Open full time offers are also cancelled|
+|Boar's Head Brand|❌||
 |Booz Allen Hamilton Summer Games|❌ ||
 |Boston Scientific|❌ |Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|❌ ||
@@ -65,9 +68,9 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |FX|❌ ||
 |Gallagher|❌||
 |Gap Inc.|❌ |No compensation offered.|
-|Garmin|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
+|GE Transportation|❌||
 |Gildan|❌||
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
@@ -172,6 +175,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Volvo|❌|Offers got Rescinded|
 |Vox|❌||
 |Wagner Spraytech|❌||
+|Warner|❌||
 |Wisk|❌||
 |WillowTree|❌||
 |Workday|❌|5k stipend being provided to interns|
@@ -249,6 +253,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |Ford Motor Company|✅|Remote. Delayed June start date. Duration reduced to 6-8 weeks.|
+|Garmin|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
 |General Atomics|✅|Considering remote.|
@@ -275,8 +280,8 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
-|Liberty Mutual Insurance|✅|Update by April 17th.|
-|LinkedIn|✅|Fully remote.|
+|Liberty Mutual Insurance|✅|Gave interns option of working remotely or relocating.|
+|LinkedIn|✅|Fully remote. Interviews are on hold|
 |LiveRamp|✅||
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
@@ -351,6 +356,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |The Motley Fool|✅|Fully remote.|
 |Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
 |T-Mobile|✅|Monitoring situation|
+|TuSimple|✅|Remote for now but onsite recommended once feasible|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
