@@ -330,7 +330,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
 |Motorola Solutions|✅|Considering remote|
 |Mozilla|✅|Remote Internship|
-|NASA|✅| Remote Internship (Ames, JPL at least)|
+|NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15.|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
 |New York Times|✅|Remote.|
 |Nextdoor|✅||
