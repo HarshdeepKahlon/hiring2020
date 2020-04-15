@@ -277,7 +277,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
-|Liberty Mutual Insurance|✅|Update by April 17th.|
+|Liberty Mutual Insurance|✅|Gave interns option of working remotely or relocating.|
 |LinkedIn|✅|Fully remote. Interviews are on hold|
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
