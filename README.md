@@ -408,7 +408,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
-|Viasat|✅|Decision by Apr 15|
+|Viasat|✅|Some teams will be remote, some will be canceled. Individual update by April 24th.|
 |Visa|✅||
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
