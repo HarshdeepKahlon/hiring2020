@@ -244,6 +244,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
 |Braze|✅||
+|ByteDance|✅|Internship not cancelled. Global hiring expansion this year.|
 |Capital One|✅|Remote Internships|
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
@@ -418,6 +419,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |WarnerMedia|✅||
 |Wells Fargo|✅|Exploring remote option.|
 |WePay|✅|Won't be cancelling|
+|WeRide.ai|✅||
 |Western Digital|✅||
 |Wish|✅|Hiring Freeze|
 |Xandr|✅|Considering Remote|
