@@ -252,6 +252,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Considering remote. More details to come.|
+|FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
