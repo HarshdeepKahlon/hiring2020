@@ -59,6 +59,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Calvin Klein|❌ ||
 |Capitol Music Group|❌||
 |Captify|❌||
+|Chesapeake Energy|❌ ||
 |Checkr|❌ ||
 |Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
@@ -87,6 +88,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
+|Halliburton|❌||
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
@@ -273,6 +275,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |EverQuote|✅||
 |Expedia|✅||
+|ExxonMobil|✅||
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Considering remote. More details to come.|
