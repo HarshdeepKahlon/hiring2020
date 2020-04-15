@@ -239,7 +239,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dataminr|✅||
 |Dell|✅|Remote. Shortened to June/July only|
-|Deloitte|✅|Hiring Freeze. Decision by April 15|
+|Deloitte|✅|Considering remote. Decision in the coming days. Hiring Freeze.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
