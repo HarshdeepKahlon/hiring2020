@@ -306,6 +306,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
 |New York Times|✅|Remote.|
 |Nextdoor|✅||
+|Nike|✅|Remote.|
 |Noblis|✅|Currently evaluating remote internships|
 |Nokia|✅|Remote internships for all roles|
 |Nutanix|✅|Remote Internship|
