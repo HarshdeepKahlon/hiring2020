@@ -137,7 +137,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |PROCEPT BioRobotics|❌||
 |Quantcast|❌|Summer internships cancelled. Needs confirmation.|
 |Ramboll|❌||
-|Regeneron Pharmaceuticals|❌||
+|Regeneron Pharmaceuticals|❌|Cancelled for operations. Need information on others.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
 |R/GA|❌ ||
