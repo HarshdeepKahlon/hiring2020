@@ -207,7 +207,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Accenture|✅|Strategy internships going remote.|
 |Activision/Blizzard|✅|Blizzard internship duration reduced to 9 weeks.|
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
-|Adobe|✅|Hiring Freeze|
+|Adobe|✅|Fully remote. Personal computer for work. Hiring Freeze|
 |ADP|✅|Remote if needed|
 |Airbnb|✅|Currently planning for in-person, updates to come|
 |Akamai Technologies|✅|Remote until further notice.|
