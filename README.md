@@ -368,6 +368,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
+|Target|✅|Executive Leadership Interns are still scheduled to work in stores on location this summer.|
 |Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |The Motley Fool|✅|Fully remote.|
 |Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
