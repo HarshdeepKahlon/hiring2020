@@ -310,6 +310,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
 |MongoDB|✅||
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
+|Motorola Solutions|✅|Considering remote|
 |Mozilla|✅|Remote Internship|
 |NASA|✅| Remote Internship (Ames, JPL at least)|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
