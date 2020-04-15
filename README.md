@@ -33,6 +33,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |23andMe|❌||
 |A&E Network|❌|Cancelled their summer 2020 internship program. But extended the offer to summer 2021.|
 |ABC|❌|All internships now cancelled|
+|Accion Systems|❌ |Cancelled their whole internship program|
 |Ad Council|❌ ||
 |ADTRAN|❌ |Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
 |AKQA|❌ ||
@@ -138,6 +139,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
+|OneWeb|❌ |Went bankrupt|
 |OpenTable|❌ ||
 |Occidental Petroleum|❌||
 |Pearson VUE|❌||
@@ -190,6 +192,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Uponor|❌||
 |Urban Outfitters (URBN)|❌||
 |USTA 2020 D&I|❌|| 
+|Virgin Orbit|❌|Cancelled the whole program|
 |Volvo|❌|Offers got Rescinded|
 |Vox|❌||
 |Wagner Spraytech|❌||
@@ -378,6 +381,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Sigma Computing|✅|Remote work|
 |Snap|✅|Remote possible|
 |Snowflake|✅||
+|SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
 |State Farm|✅|Moving to virtual|
