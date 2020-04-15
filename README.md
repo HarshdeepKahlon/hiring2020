@@ -38,6 +38,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
 |APCO Worldwide|❌ ||
 |Applied Medical|❌ ||
+|ArcelorMittal|❌||
 |Arista|❌ ||
 |Arthrex|❌||
 |AXS|❌ ||
