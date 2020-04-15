@@ -272,6 +272,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Considering remote. More details to come.|
+|Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration moved to 6 weeks. All internship and full-time offers honored. Reach out to recruiter with questions|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
