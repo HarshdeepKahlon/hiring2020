@@ -261,6 +261,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
 |General Atomics|✅|Considering remote.|
+|General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
 |GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
 |Glassdoor|✅|Hiring Freeze|
