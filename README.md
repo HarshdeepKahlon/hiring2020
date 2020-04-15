@@ -169,6 +169,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|❌|Canceled their summer internship program.|
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
+|Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
 |United Airlines|❌|Cancelled.|
