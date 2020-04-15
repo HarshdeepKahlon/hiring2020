@@ -37,7 +37,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
-|American Airlines|❌|Confirmed.||
+|American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.||
 |Amtrak|❌ ||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
 |APCO Worldwide|❌ ||
