@@ -48,6 +48,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Arista|❌ ||
 |Arthrex|❌||
 |AXS|❌ ||
+|Baker Hughes|❌ ||
 |Best Buy|❌ ||
 |Big Spaceship|❌ ||
 |Blackbaud|❌ |Open full time offers are also cancelled|
