@@ -5,7 +5,7 @@ This document will be updated regularly as new information becomes available. **
 
 <!---If you would like to receive notifications for a particular company you are interested in, please fill this [form](https://forms.gle/53H6yjHLDMjF1L3AA)--->
 
-You can also join our group on [Facebook](https://www.facebook.com/groups/hiring2020/) for discussions or follow us on [Twitter](https://twitter.com/hiring2020) for updates.
+You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) or follow us on [Twitter](https://twitter.com/hiring2020) for updates.
 <!---1. **Facebook** - [Hiring2020](https://www.facebook.com/groups/hiring2020/) 
 2. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)--->
 
@@ -24,6 +24,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |               Company               |       Status       |            Notes           |
 |:-----------------------------------|:------------------:|:-------------------------------------------------------------------|
 |23andMe|❌||
+|ABC|❌|All internships now cancelled||
 |Ad Council|❌ ||
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
@@ -39,6 +40,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Best Buy|❌ ||
 |Big Spaceship|❌ ||
 |Blackbaud|❌ |Open full time offers are also cancelled|
+|Boar's Head Brand|❌||
 |Booz Allen Hamilton Summer Games|❌ ||
 |Boston Scientific|❌ |Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|❌ ||
@@ -63,9 +65,9 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |FX|❌ ||
 |Gallagher|❌||
 |Gap Inc.|❌ |No compensation offered.|
-|Garmin|❌||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
+|GE Transportation|❌||
 |Gildan|❌||
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
@@ -170,6 +172,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Volvo|❌|Offers got Rescinded|
 |Vox|❌||
 |Wagner Spraytech|❌||
+|Warner|❌||
 |Wisk|❌||
 |WillowTree|❌||
 |Workday|❌|5k stipend being provided to interns|
@@ -246,6 +249,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |Ford Motor Company|✅|Remote. Delayed June start date. Duration reduced to 6-8 weeks.|
+|Garmin|✅||
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
 |General Atomics|✅|Considering remote.|
@@ -282,9 +286,11 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
 |Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
 |Mercer|✅||
+|Micron|✅|Won't be cancelling.|
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
+|Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
 |MongoDB|✅||
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
 |Mozilla|✅|Remote Internship|
@@ -312,7 +318,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
 |PlayStation|✅|Remote in the worst case|
-|PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $3500 lump-sum payment and full-time 2021 offer.|
+|PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $2500 lump-sum payment and full-time 2021 offer.|
 |Procter & Gamble|✅|Online except for a few cases. On site possible for last 2 weeks.|
 |Qualcomm|✅|Won't cancel. Remote/In-person decision by April 10.|
 |Qualtrics|✅|Will update in coming weeks.|
