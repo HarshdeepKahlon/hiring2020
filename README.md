@@ -29,6 +29,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |23andMe|❌||
 |ABC|❌|All internships now cancelled||
 |Ad Council|❌ ||
+|ADTRAN|❌ |Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
@@ -37,6 +38,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
 |APCO Worldwide|❌ ||
 |Applied Medical|❌ ||
+|ArcelorMittal|❌||
 |Arista|❌ ||
 |Arthrex|❌||
 |AXS|❌ ||
@@ -119,6 +121,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
 |NBC Olympic|❌||
+|Newell Brands|❌||
 |Nielsen|❌||
 |Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
@@ -134,6 +137,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |PROCEPT BioRobotics|❌||
 |Quantcast|❌|Summer internships cancelled. Needs confirmation.|
 |Ramboll|❌||
+|Regeneron Pharmaceuticals|❌|Cancelled for operations. Need information on others.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
 |R/GA|❌ ||
@@ -142,7 +146,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Schlumberger|❌ |Internship and full-time offers rescinded|
 |Secret Mission Software|❌ ||
 |Seattle Genetics, Inc.|❌ ||
-|Siemens|❌ || Need to verify. Heard from multiple friends that Siemens is shipping laptops to them to do remote work||
 |Simon Kucher & Partners|❌ ||
 |Sleep Number|❌||
 |Sling TV|❌|Cancelled their entire summer internship program for 2020, including MBAs and undergrads|
@@ -167,6 +170,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
+|United Airlines|❌|Cancelled.|
 |Universal McCann|❌||
 |Uplift|❌||
 |Uponor|❌||
@@ -185,6 +189,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 ||||
 |1Password|✅|Hiring Freeze|
 |3M|✅|Remote for now. Option to move to in-person if conditions change by June 1|
+|Accenture|✅|Strategy internships going remote.|
 |Activision/Blizzard|✅||
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Hiring Freeze|
@@ -215,6 +220,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |BNP Paribas|✅|Update in the coming days. No plans to cancel as of now.|
 |Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
+|Braze|✅||
 |Capital One|✅|Remote Internships|
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
@@ -236,7 +242,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dataminr|✅||
 |Dell|✅|Remote. Shortened to June/July only|
-|Deloitte|✅|Hiring Freeze. Decision by April 15|
+|Deloitte|✅|Considering remote. Decision in the coming days. Hiring Freeze.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |DraftKings|✅|Will be in touch with more details|
@@ -249,6 +255,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Considering remote. More details to come.|
+|FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
@@ -257,6 +264,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
 |General Atomics|✅|Considering remote.|
+|General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
 |GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
 |Glassdoor|✅|Hiring Freeze|
@@ -266,7 +274,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |HP|✅|Remote. Won't be cancelled.|
 |HPE|✅|Remote|
 |HubSpot|✅|Remote possible. Continuing hiring|
-|Hulu|✅|SWE positions on-hold|
+|Hulu|✅|Switching to a 8-week virtual program. SWE positions on-hold|
 |Humana|✅|Cancellation unlikely. Possibly remote.|
 |IBM|✅|Won't be cancelling. All internships will be remote.|
 |IBM Research|✅|Hiring Freeze|
@@ -280,7 +288,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
-|Liberty Mutual Insurance|✅|Gave interns option of working remotely or relocating.|
+|Liberty Mutual Insurance|✅|Gave interns option of working remotely or hybrid-relocating once offices open.|
 |LinkedIn|✅|Fully remote. Interviews are on hold|
 |LiveRamp|✅||
 |Los Angeles Rams|✅|Hiring Freeze|
@@ -303,6 +311,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
 |New York Times|✅|Remote.|
 |Nextdoor|✅||
+|Nike|✅|Remote.|
 |Noblis|✅|Currently evaluating remote internships|
 |Nokia|✅|Remote internships for all roles|
 |Nutanix|✅|Remote Internship|
@@ -343,6 +352,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |ServiceNow|✅|Internship moved to remote|
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
+|Siemens|✅ | Needs confirmation. Contradictory reports.|
 |Sigma Computing|✅|Remote work|
 |Snap|✅|Remote possible|
 |Snowflake|✅||
@@ -362,7 +372,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
 |Uber|✅|Interviews being cancelled|
-|United Airlines|✅|Decision by April 15|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |Vanguard|✅|Decision by Mar 27|
@@ -384,6 +393,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Xilinx|✅|Remote Internship|
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled|
+|ZS|✅|Interviews being cancelled|
 |Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
