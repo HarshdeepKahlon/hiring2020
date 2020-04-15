@@ -268,7 +268,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |HP|✅|Remote. Won't be cancelled.|
 |HPE|✅|Remote|
 |HubSpot|✅|Remote possible. Continuing hiring|
-|Hulu|✅|SWE positions on-hold|
+|Hulu|✅|Switching to a 8-week virtual program. SWE positions on-hold|
 |Humana|✅|Cancellation unlikely. Possibly remote.|
 |IBM|✅|Won't be cancelling. All internships will be remote.|
 |IBM Research|✅|Hiring Freeze|
