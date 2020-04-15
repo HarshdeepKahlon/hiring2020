@@ -118,6 +118,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Mayo Clinic|❌ |At least IT|
 |M Booth|❌ ||
 |Medicus Healthcare Solutions|❌||
+|Mercer|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
 |Mrytle Beach Pelicans|❌ ||
 |MullenLowe|❌ ||
@@ -307,7 +308,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
 |Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
-|Mercer|✅||
 |Micron|✅|Won't be cancelling.|
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
