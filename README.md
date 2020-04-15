@@ -347,7 +347,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Okta|✅|Toronto internships will be remote|
 |Optimizely|✅|Hiring Freeze|
 |Optiver|✅|Won't cancel. Remote if needed.|
-|Oracle|✅|Confirmed to be virtual.|
+|Oracle|✅|Confirmed to be virtual. Start date and duration will remain same.|
 |Oscar Health|✅|Not planning to cancel. Remote/In-person decision by mid-April|
 |Pagerduty|✅|Fully remote.|
 |Palantir|✅||
