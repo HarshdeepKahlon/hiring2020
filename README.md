@@ -80,6 +80,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Genuine Parts Company|❌||
 |GE Transportation|❌||
 |Gildan|❌||
+|Globe Life|❌ ||
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
