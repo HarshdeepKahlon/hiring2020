@@ -302,7 +302,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |IBM Research|✅|Hiring Freeze|
 |IMC Trading|✅|Potentially remote.|
 |Informatica|✅|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
-|Intel|✅|100% virtual.|
+|Intel|✅|100% virtual for people starting before June 15. Some internships might not be virtual depending as the work involved.|
 |Intuit|✅|No plans to cancel internship or new grad positions. Decided to make incoming intern/co-op program fully virtual.|
 |Jane Street|✅|Planning for remote.|
 |John Deere|✅|Not cancelling.|
