@@ -341,6 +341,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Pandora|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅||
+|Peloton|✅|Not cancelling. More details will be shared in coming weeks.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
