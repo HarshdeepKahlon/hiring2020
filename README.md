@@ -19,9 +19,10 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Dataminr|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
+|EverQuote|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) , [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
 |LiveRamp|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
 |Roblox|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|EverQuote|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) , [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
+|RBC|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
