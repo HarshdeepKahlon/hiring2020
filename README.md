@@ -170,6 +170,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
+|United Airlines|❌|Cancelled.|
 |Universal McCann|❌||
 |Uplift|❌||
 |Uponor|❌||
@@ -370,7 +371,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
 |Uber|✅|Interviews being cancelled|
-|United Airlines|✅|Decision by April 15|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |Vanguard|✅|Decision by Mar 27|
