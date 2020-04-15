@@ -29,6 +29,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |23andMe|❌||
 |ABC|❌|All internships now cancelled||
 |Ad Council|❌ ||
+|ADTRAN|❌ |Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
