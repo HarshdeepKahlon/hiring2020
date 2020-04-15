@@ -194,7 +194,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |1Password|✅|Hiring Freeze|
 |3M|✅|Remote for now. Option to move to in-person if conditions change by June 1|
 |Accenture|✅|Strategy internships going remote.|
-|Activision/Blizzard|✅||
+|Activision/Blizzard|✅|Blizzard internship duration reduced to 9 weeks.|
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Hiring Freeze|
 |ADP|✅|Remote if needed|
