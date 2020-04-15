@@ -275,7 +275,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |EverQuote|✅||
 |Expedia|✅||
-|ExxonMobil|✅||
+|ExxonMobil|✅|Pushed start dates to June 1st.|
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Considering remote. More details to come.|
