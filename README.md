@@ -225,7 +225,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
-|BNP Paribas|✅|Update in the coming days. No plans to cancel as of now.|
+|BNP Paribas|✅|Postponeds start date to June 29. But will stick to original 10 week compensation.|
 |Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
 |Braze|✅||
