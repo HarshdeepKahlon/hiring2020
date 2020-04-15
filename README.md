@@ -215,6 +215,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
 |Bank of America|✅||
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
+|Bank of the West|✅|Remote internship for 10 weeks.|
 |Belvedere trading|✅||
 |Black Rock|✅|Still on. Considering remote.|
 |Blade|✅|Currently no plans to change anything|
