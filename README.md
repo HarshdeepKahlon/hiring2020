@@ -117,6 +117,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Marsh and Mclennan Agency|❌|Hearing contradictory reports. Needs confirmation.|
 |Mayo Clinic|❌ |At least IT|
 |M Booth|❌ ||
+|McCann|❌|McCann Wolrldgroup and McCann NY cancelled their internships.|
 |Medicus Healthcare Solutions|❌||
 |Mercer|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
