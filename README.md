@@ -56,6 +56,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Bright Health|❌ ||
 |BuzzFeed|❌ ||
 |Calvin Klein|❌ ||
+|Capitol Music Group|❌||
 |Captify|❌||
 |Checkr|❌ ||
 |Chick-Fill-A|❌||
@@ -162,6 +163,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
 |Sony|❌|Cancelled in UK. Needs confirmation.|
+|Sony Music|❌|Cancelled. Needs confirmation.|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
 |Springbuk|❌||
 |StitchFix|❌||
@@ -191,6 +193,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Vox|❌||
 |Wagner Spraytech|❌||
 |Warner|❌||
+|Warner Music Group|❌||
 |Wisk|❌||
 |WillowTree|❌||
 |Workday|❌|5k stipend being provided to interns|
