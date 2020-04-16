@@ -145,6 +145,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
+|Oliver Wyman|❌ |Replaced with full-time offers.|
 |OneWeb|❌ |Went bankrupt|
 |OpenTable|❌ ||
 |Occidental Petroleum|❌||
