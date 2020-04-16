@@ -157,7 +157,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |PSB|❌ |Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
 |Ramboll|❌||
-|Regeneron Pharmaceuticals|❌|Cancelled for operations. Need information on others.|
+|Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
 |R/GA|❌ ||
