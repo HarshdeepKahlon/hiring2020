@@ -1,7 +1,7 @@
 # Hiring Status - COVID-19
 This document will be updated regularly as new information becomes available. 
 
-You can also follow us on social media for job and status updates.
+**You can also follow us on social media for job and status updates.**
 1. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)
 2. **Facebook** - [Hiring2020](https://www.facebook.com/pg/hiring20/) 
 
