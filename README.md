@@ -200,6 +200,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Urban Outfitters (URBN)|❌||
 |USTA 2020 D&I|❌|| 
 |Virgin Orbit|❌|Cancelled the whole program|
+|VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
 |Vox|❌||
 |Wagner Spraytech|❌||
