@@ -1,4 +1,4 @@
-# 2020 Hiring Status - COVID-19
+# Hiring Status - COVID-19
 This document will be updated regularly as new information becomes available. **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
 <!---If you are still looking for summer internships, please comment with your email on this Linkedin post - https://www.linkedin.com/posts/gcreddy42_internshipsjobs-form-activity-6650837643389124608-41HP
