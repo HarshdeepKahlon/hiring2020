@@ -154,7 +154,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
-|Quantcast|❌|Summer internships cancelled. Needs confirmation.|
+|Quantcast|❌|Summer internships cancelled.|
 |Ramboll|❌||
 |Regeneron Pharmaceuticals|❌|Cancelled for operations. Need information on others.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
