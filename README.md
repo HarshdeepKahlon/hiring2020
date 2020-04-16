@@ -400,6 +400,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Sprout Social|✅|Stopped hiring.|
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
+|T-Mobile|✅|Monitoring situation|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
 |Target|✅|Executive Leadership Interns are still scheduled to work in stores on location this summer.|
@@ -407,7 +408,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |The Aerospace Corporation|✅|Won't be cancelling. Considering remote. Details in coming weeks.|
 |The Motley Fool|✅|Fully remote.|
 |Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
-|T-Mobile|✅|Monitoring situation|
+|Transamerica|✅|Suspended housing stipend. Considering remote.|
 |TuSimple|✅|Remote for now but onsite recommended once feasible|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
