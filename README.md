@@ -91,7 +91,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
-|Halliburton|❌||
+|Halliburton|❌|Interns offered half of the pay for the summer as stipend.|
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
