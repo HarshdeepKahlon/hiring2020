@@ -202,6 +202,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Wagner Spraytech|❌||
 |Warner|❌||
 |Warner Music Group|❌||
+|Wayfair|❌||
 |Wisk|❌||
 |WillowTree|❌||
 |Workday|❌|5k stipend being provided to interns|
@@ -416,7 +417,6 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Walmart|✅|Hiring Freeze|
-|Wayfair|✅|Decision by mid-April.|
 |WarnerMedia|✅||
 |Wells Fargo|✅|Exploring remote option.|
 |WePay|✅|Won't be cancelling|
