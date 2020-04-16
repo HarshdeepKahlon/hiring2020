@@ -189,6 +189,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Thermo Fisher Scientific|❌||
 |Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|❌|Canceled their summer internship program.|
+|TJX|❌||
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |Toyota Connected|❌||
 |Trexquant|❌|
