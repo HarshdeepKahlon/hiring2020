@@ -71,6 +71,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
 |DigitalOcean|❌ |Cancelled summer internship program|
+|Dillards|❌||
 |Discovery Inc.|❌ ||
 |Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program.||
 |DNAnexus|❌ ||
