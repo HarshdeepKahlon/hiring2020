@@ -380,7 +380,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Royal Bank of Canada (RBC)|✅|Actively hiring - https://jobs.rbc.com/ca/en/students-grad-co-ops-internships|
 |Salesforce|✅|Remote internships for all locations. Changes to be communicated if the COVID-19 situation gets resolved in coming months|
 |Samsara|✅||
-|Samsung|✅|Decision by mid April. They’re working with teams to get remote internship as a viable option. Some positions getting cancelled as remote working is not viable.|
+|Samsung|✅|Remote internship. However, some positions may be canclled where remote work is not possible.|
 |Santander CIB|✅||
 |SAP|✅|Internship onboarding moving to virtual|
 |SC Johnson|✅||
