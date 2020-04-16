@@ -310,7 +310,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |Intuit|✅|No plans to cancel internship or new grad positions. Decided to make incoming intern/co-op program fully virtual.|
 |Jane Street|✅|Planning for remote.|
 |John Deere|✅|Not cancelling.|
-|JP Morgan|✅|Delayed by a month - new start date July 6th. Updates to follow. Pay will stay the same.|
+|JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
