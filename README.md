@@ -231,7 +231,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
 |Aon|✅|Will be remote. New start date will be June 22.|
-|Apple|✅|Starting remotely for now|
+|Apple|✅|Remote start for some. Start date pushed back for others. Depends on the team. More details to come.|
 |Ares Management|✅|Considering remote. Updates to follow.|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
