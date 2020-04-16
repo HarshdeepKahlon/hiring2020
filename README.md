@@ -26,6 +26,7 @@ You can also like our page on [Facebook](https://www.facebook.com/pg/hiring20/) 
 |RBC|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
 |Roblox|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Shopee Singapore|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
+|PagerDuty|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
