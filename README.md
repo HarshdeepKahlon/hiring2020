@@ -150,6 +150,7 @@ This document will be updated regularly as new information becomes available.
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
 |Nationwide|❌ ||
+|Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
 |NBC Olympic|❌||
 |Newell Brands|❌||
 |New York Air Brake|❌||
