@@ -422,7 +422,7 @@ This document will be updated regularly as new information becomes available.
 |Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |The Aerospace Corporation|✅|Won't be cancelling. Considering remote. Details in coming weeks.|
 |The Motley Fool|✅|Fully remote.|
-|Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
+|Tinder|✅|Going remote.|
 |Transamerica|✅|Suspended housing stipend. Considering remote.|
 |TuSimple|✅|Remote for now but onsite recommended once feasible|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
