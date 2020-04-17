@@ -340,7 +340,7 @@ This document will be updated regularly as new information becomes available.
 |MITRE|✅|Remote Internship|
 |Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
 |MongoDB|✅||
-|Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
+|Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes. Start date pushed to June 29.|
 |Motorola Solutions|✅|Considering remote|
 |Mozilla|✅|Remote Internship|
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15.|
