@@ -11,8 +11,8 @@ This document will be updated regularly as new information becomes available.
 
 ### Actively Hiring List
 
-|               Company               | Country |                                 Positions
-|:-----------------------------------|:---------|:------------------------------------------------------------------------------|
+|               Company              | Country |                                 Positions
+|:-----------------------------------|:-------:|:------------------------------------------------------------------------------|
 |Anyscale|US|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
 |Blend|US|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|US|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
