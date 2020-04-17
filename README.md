@@ -77,7 +77,7 @@ This document will be updated regularly as new information becomes available.
 |DigitalOcean|❌ |Cancelled summer internship program|
 |Dillards|❌||
 |Discovery Inc.|❌ ||
-|Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program.||
+|Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program. Also, some teams haven't cancelled.||
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
