@@ -11,20 +11,20 @@ This document will be updated regularly as new information becomes available.
 
 ### Actively Hiring List
 
-|               Company               |          Positions
-|:-----------------------------------|:----------------------------------------------------------------------------------------|
-|Anyscale|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
-|Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
-|Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
-|Cress Health|<ul><li>Internship (**UNPAID**) - [Software Engineering, Product Management, Security, and Design Internships](https://internships.cresshealth.com)</li></ul>|
-|Dataminr|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
-|EverQuote|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) , [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
-|LiveRamp|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
-|Lockheed Martin|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
-|RBC|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
-|Roblox|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|Shopee Singapore|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
-|PagerDuty|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|               Company               | Country |                                 Positions
+|:-----------------------------------|:---------|:------------------------------------------------------------------------------|
+|Anyscale|US|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
+|Blend|US|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
+|Cloudflare|US|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
+|Cress Health|US|<ul><li>Internship (**UNPAID**) - [Software Engineering, Product Management, Security, and Design Internships](https://internships.cresshealth.com)</li></ul>|
+|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
+|EverQuote|US|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) , [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
+|LiveRamp|US|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
+|Lockheed Martin|US|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
+|RBC|US|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
+|Roblox|US|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
+|PagerDuty|US|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|Shopee|SG|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
