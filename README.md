@@ -11,7 +11,7 @@ This document will be updated regularly as new information becomes available.
 
 ### Actively Hiring List
 
-|               Company               | Country |                 Positions
+|               Company               |          Positions
 |:-----------------------------------|:----------------------------------------------------------------------------------------|
 |Anyscale|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
 |Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
