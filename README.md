@@ -386,6 +386,7 @@ This document will be updated regularly as new information becomes available.
 |PlayStation|✅|Remote in the worst case|
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $2500 lump-sum payment and full-time 2021 offer.|
 |Procter & Gamble|✅|Online except for a few cases. On site possible for last 2 weeks.|
+|Proofpoint|✅|Actively hiring, remote or onsite depends on future situation.|
 |Protiviti|✅|2-week fully remote internship, with full-time offers extended at the end.|
 |Qualcomm|✅|Fully remote.|
 |Qualtrics|✅|Fully remote.|
