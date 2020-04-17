@@ -61,10 +61,12 @@ This document will be updated regularly as new information becomes available.
 |Calvin Klein|❌ ||
 |Capitol Music Group|❌||
 |Captify|❌||
+|CB Insights|❌||
 |Chesapeake Energy|❌ ||
 |Checkr|❌ ||
 |Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
+|Continental|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
@@ -92,12 +94,14 @@ This document will be updated regularly as new information becomes available.
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
+|Halff Associates|❌||
 |Halliburton|❌|Interns offered half of the pay for the summer as stipend.|
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Helen of Troy|❌||
 |Hill Holliday|❌ ||
+|Huhtamaki|❌||
 |iCIMS|❌ |
 |IDEMIA|❌ |
 |IDEO|❌ |Ideo.org too|
@@ -123,6 +127,8 @@ This document will be updated regularly as new information becomes available.
 |Lifeway Christian Resources|❌||
 |Lime|❌ ||
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
+|Lowe's|❌||
+|Manhattan Associates|❌||
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
 |Marsh and Mclennan Agency|❌|Hearing contradictory reports. Needs confirmation.|
@@ -130,6 +136,7 @@ This document will be updated regularly as new information becomes available.
 |M Booth|❌ ||
 |McCann|❌|McCann Wolrldgroup and McCann NY cancelled their internships.|
 |Medicus Healthcare Solutions|❌||
+|Mercedez Benz|❌||
 |Mercer|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
 |Mrytle Beach Pelicans|❌ ||
@@ -140,6 +147,7 @@ This document will be updated regularly as new information becomes available.
 |Nationwide|❌ ||
 |NBC Olympic|❌||
 |Newell Brands|❌||
+|New York Air Brake|❌||
 |Nielsen|❌||
 |Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
@@ -150,6 +158,7 @@ This document will be updated regularly as new information becomes available.
 |OneWeb|❌ |Went bankrupt|
 |OpenTable|❌ ||
 |Occidental Petroleum|❌||
+|Pariveda Solutions|❌||
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |PluralSight|❌||
@@ -158,6 +167,7 @@ This document will be updated regularly as new information becomes available.
 |PSB|❌ |Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
 |Ramboll|❌||
+|Randa Accessories|❌||
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
@@ -193,6 +203,7 @@ This document will be updated regularly as new information becomes available.
 |TJX|❌||
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |Toyota Connected|❌||
+|TPRI|❌||
 |Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
