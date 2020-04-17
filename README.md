@@ -24,8 +24,8 @@ This document will be updated regularly as new information becomes available.
 |PagerDuty|US|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |RBC|US|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
 |Roblox|US|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|Shopee|SG|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 |Zoom|US|<ul><li>Internship - [SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li><li>Full Time - [Multiple](https://jobs.lever.co/zoom)</li></ul>|
+|Shopee|SG|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
