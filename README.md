@@ -36,6 +36,7 @@ This document will be updated regularly as new information becomes available.
 |Accion Systems|❌ |Cancelled their whole internship program|
 |Ad Council|❌ ||
 |ADTRAN|❌ |Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
+|Airbnb|❌ |Cancelled this summer's internship program with an option to intern next summer.|
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
@@ -222,7 +223,6 @@ This document will be updated regularly as new information becomes available.
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Fully remote. Personal computer for work. Hiring Freeze|
 |ADP|✅|Remote if needed|
-|Airbnb|✅|Currently planning for in-person, updates to come|
 |Akamai Technologies|✅|Remote until further notice.|
 |Alarm.com|✅||
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
