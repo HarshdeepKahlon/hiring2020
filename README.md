@@ -75,6 +75,7 @@ This document will be updated regularly as new information becomes available.
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
+|ExtraHop|❌||
 |Flipp|❌ | Offers Rescinded|
 |Funding Circle|❌ ||
 |FX|❌ ||
