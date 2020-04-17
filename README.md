@@ -447,7 +447,7 @@ This document will be updated regularly as new information becomes available.
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
 |Viasat|✅|Some teams will be remote, some will be canceled. Individual update by April 24th.|
-|Visa|✅||
+|Visa|✅|Shortened internship to 8 weeks and going fully remote.|
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Walmart|✅|Hiring Freeze|
