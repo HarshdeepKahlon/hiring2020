@@ -71,6 +71,7 @@ This document will be updated regularly as new information becomes available.
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
+|Datto|❌|Cancelling internships. No option to defer to next year. Interns will receive Beats headphones.|
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
 |DigitalOcean|❌ |Cancelled summer internship program|
