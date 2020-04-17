@@ -337,6 +337,7 @@ This document will be updated regularly as new information becomes available.
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Justworks|✅||
+|Koch Industries|✅|Decision by April 24th.|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
 |Lenovo|✅|Remote. Majority of divisions won't be cancelling. Start dates moved to June 1st.|
