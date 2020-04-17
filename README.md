@@ -166,6 +166,7 @@ This document will be updated regularly as new information becomes available.
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
+|Quora|❌|Cancelled.|
 |Ramboll|❌||
 |Randa Accessories|❌||
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
