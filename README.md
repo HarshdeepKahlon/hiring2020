@@ -72,7 +72,8 @@ This document will be updated regularly as new information becomes available.
 |Echostar|❌ ||
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
-|DigitalOcean|❌ |Cancelled summer internsip program|
+|DigitalOcean|❌ |Cancelled summer internship program|
+|Dillards|❌||
 |Discovery Inc.|❌ ||
 |Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program.||
 |DNAnexus|❌ ||
