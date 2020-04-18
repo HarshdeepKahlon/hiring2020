@@ -457,6 +457,7 @@ This document will be updated regularly as new information becomes available.
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
+|Waymo|✅|Moved their internship program virtual.|
 |Walmart|✅|Hiring Freeze|
 |WarnerMedia|✅||
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
