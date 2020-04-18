@@ -299,6 +299,7 @@ This document will be updated regularly as new information becomes available.
 |Deloitte|✅|Considering remote. Decision in the coming days. Hiring Freeze.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
+|Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅|Virtual|
 |Ebay|✅|Going virtual.|
