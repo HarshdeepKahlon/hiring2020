@@ -354,6 +354,7 @@ This document will be updated regularly as new information becomes available.
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |KPMG|✅|US - Internship made virtual. Interns offered a full-time position in 2021.|
 |Lacework|✅|Not hiring any more interns|
+|Lam Research|✅|Going remote. Honoring all offers.|
 |Lenovo|✅|Remote. Majority of divisions won't be cancelling. Start dates moved to June 1st.|
 |Liberty Mutual Insurance|✅|Gave interns option of working remotely or hybrid-relocating once offices open.|
 |LinkedIn|✅|Fully remote. Interviews are on hold|
