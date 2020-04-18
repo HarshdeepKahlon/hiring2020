@@ -42,6 +42,7 @@ This document will be updated regularly as new information becomes available.
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
+|AlphaSights|❌ |Cancelled. Interns offered full-time jobs.|
 |American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.||
 |Amtrak|❌ ||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
