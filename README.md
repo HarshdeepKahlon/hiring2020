@@ -297,7 +297,7 @@ This document will be updated regularly as new information becomes available.
 |Dataminr|✅||
 |D. E. Shaw & Co.|✅|Internships will be remote in India. Start date is April 20.|
 |Dell|✅|Remote. Shortened to June/July only|
-|Deloitte|✅|Considering remote. Decision in the coming days. Hiring Freeze.|
+|Deloitte|✅|Deloitte in Canada is going virtual with a delayed start date of June 1st.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
