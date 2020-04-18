@@ -135,6 +135,7 @@ This document will be updated regularly as new information becomes available.
 |Lime|❌ ||
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
+|M&T Bank|❌||
 |Manhattan Associates|❌||
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
