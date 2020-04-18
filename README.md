@@ -286,7 +286,7 @@ This document will be updated regularly as new information becomes available.
 |Citrix Systems|✅| Internship not cancelled. Possibility of going remote.|
 |Clorox|✅||
 |Cloudflare|✅|Internships reopened and internship class size doubled, remote work if needed|
-|Coinbase|✅|Still planning for in-person, but could change|
+|Coinbase|✅|Fully remote. Housing stipend if applicable.|
 |College Board|✅|Hiring freeze.|
 |CommScope|✅|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|✅||
