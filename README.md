@@ -191,6 +191,7 @@ This document will be updated regularly as new information becomes available.
 |Simon Kucher & Partners|❌ ||
 |Sleep Number|❌||
 |Sling TV|❌|Cancelled their entire summer internship program for 2020, including MBAs and undergrads|
+|SnapTravel|❌||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
 |Sony|❌|Cancelled in UK. Needs confirmation.|
