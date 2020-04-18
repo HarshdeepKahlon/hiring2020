@@ -428,6 +428,7 @@ This document will be updated regularly as new information becomes available.
 |Sprout Social|✅|Stopped hiring.|
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
+|SurveyMonkey|✅|Fully virtual.|
 |T-Mobile|✅|Monitoring situation|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
