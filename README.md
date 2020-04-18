@@ -65,6 +65,7 @@ This document will be updated regularly as new information becomes available.
 |Capitol Music Group|❌||
 |Captify|❌||
 |CB Insights|❌||
+|CF Industries|❌ ||
 |Chesapeake Energy|❌ ||
 |Checkr|❌ ||
 |Chick-Fill-A|❌||
