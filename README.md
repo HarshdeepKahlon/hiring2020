@@ -460,7 +460,7 @@ This document will be updated regularly as new information becomes available.
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
 |WePay|✅|Won't be cancelling|
 |WeRide.ai|✅||
-|Western Digital|✅||
+|Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
 |Wish|✅|Hiring Freeze|
 |Xandr|✅|Considering Remote|
 |Xilinx|✅|Remote Internship|
