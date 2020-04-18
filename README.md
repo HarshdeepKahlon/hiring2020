@@ -309,6 +309,7 @@ This document will be updated regularly as new information becomes available.
 |Electronic Arts|✅|Remote|
 |Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
+|ERCOT (Energy Reliability Council of Texas)|✅|Remote.|
 |EverQuote|✅||
 |Expedia|✅||
 |ExxonMobil|✅|Pushed start dates to June 1st.|
