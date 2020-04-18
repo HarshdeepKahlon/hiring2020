@@ -142,6 +142,7 @@ This document will be updated regularly as new information becomes available.
 |M Booth|❌ ||
 |McCann|❌|McCann Wolrldgroup and McCann NY cancelled their internships.|
 |Medicus Healthcare Solutions|❌||
+|Medline Industries|❌|Cancelled its internship program. Interns will get interview preference for full-time jobs after graduation.|
 |Mercedez Benz|❌||
 |Mercer|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
