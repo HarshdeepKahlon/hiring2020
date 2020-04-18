@@ -135,6 +135,7 @@ This document will be updated regularly as new information becomes available.
 |Lime|❌ ||
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
+|M&T Bank|❌||
 |Manhattan Associates|❌||
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
@@ -191,6 +192,7 @@ This document will be updated regularly as new information becomes available.
 |Simon Kucher & Partners|❌ ||
 |Sleep Number|❌||
 |Sling TV|❌|Cancelled their entire summer internship program for 2020, including MBAs and undergrads|
+|SnapTravel|❌||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
 |Sony|❌|Cancelled in UK. Needs confirmation.|
@@ -297,7 +299,7 @@ This document will be updated regularly as new information becomes available.
 |Dataminr|✅||
 |D. E. Shaw & Co.|✅|Internships will be remote in India. Start date is April 20.|
 |Dell|✅|Remote. Shortened to June/July only|
-|Deloitte|✅|Considering remote. Decision in the coming days. Hiring Freeze.|
+|Deloitte|✅|Deloitte in Canada is going virtual with a delayed start date of June 1st.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
@@ -307,6 +309,7 @@ This document will be updated regularly as new information becomes available.
 |Electronic Arts|✅|Remote|
 |Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
+|ERCOT (Energy Reliability Council of Texas)|✅|Remote.|
 |EverQuote|✅||
 |Expedia|✅||
 |ExxonMobil|✅|Pushed start dates to June 1st.|
@@ -349,7 +352,9 @@ This document will be updated regularly as new information becomes available.
 |Justworks|✅||
 |Koch Industries|✅|Decision by April 24th.|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
+|KPMG|✅|US - Internship made virtual. Interns offered a full-time position in 2021.|
 |Lacework|✅|Not hiring any more interns|
+|Lam Research|✅|Going remote. Honoring all offers.|
 |Lenovo|✅|Remote. Majority of divisions won't be cancelling. Start dates moved to June 1st.|
 |Liberty Mutual Insurance|✅|Gave interns option of working remotely or hybrid-relocating once offices open.|
 |LinkedIn|✅|Fully remote. Interviews are on hold|
@@ -427,6 +432,7 @@ This document will be updated regularly as new information becomes available.
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
+|Starbucks|✅|Remote.|
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
 |SurveyMonkey|✅|Fully virtual.|
@@ -455,6 +461,7 @@ This document will be updated regularly as new information becomes available.
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
+|Waymo|✅|Moved their internship program virtual.|
 |Walmart|✅|Hiring Freeze|
 |WarnerMedia|✅||
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
