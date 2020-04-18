@@ -214,6 +214,7 @@ This document will be updated regularly as new information becomes available.
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |Toyota Connected|❌||
 |TPRI|❌||
+|Transamerica|❌||
 |TransUnion|❌|
 |Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
@@ -437,7 +438,6 @@ This document will be updated regularly as new information becomes available.
 |The Aerospace Corporation|✅|Won't be cancelling. Considering remote. Details in coming weeks.|
 |The Motley Fool|✅|Fully remote.|
 |Tinder|✅|Going remote.|
-|Transamerica|✅|Suspended housing stipend. Considering remote.|
 |TuSimple|✅|Remote for now but onsite recommended once feasible|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
