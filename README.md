@@ -351,6 +351,7 @@ This document will be updated regularly as new information becomes available.
 |Justworks|✅||
 |Koch Industries|✅|Decision by April 24th.|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
+|KPMG|✅|US - Internship made virtual. Interns offered a full-time position in 2021.|
 |Lacework|✅|Not hiring any more interns|
 |Lenovo|✅|Remote. Majority of divisions won't be cancelling. Start dates moved to June 1st.|
 |Liberty Mutual Insurance|✅|Gave interns option of working remotely or hybrid-relocating once offices open.|
