@@ -11,20 +11,22 @@ This document will be updated regularly as new information becomes available.
 
 ### Actively Hiring List
 
-|               Company               |                   Positions                    |
-|:-----------------------------------|:----------------------------------------------------------------------------------------|
-|Anyscale|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
-|Blend|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
-|Cloudflare|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
-|Cress Health|<ul><li>Internship (**UNPAID**) - [Software Engineering, Product Management, Security, and Design Internships](https://internships.cresshealth.com)</li></ul>|
-|Dataminr|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
-|EverQuote|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) , [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
-|LiveRamp|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
-|Lockheed Martin|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
-|RBC|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
-|Roblox|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|Shopee Singapore|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
-|PagerDuty|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|               Company              | Country |                                 Positions
+|:-----------------------------------|:-------:|:------------------------------------------------------------------------------|
+|Anyscale|US|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
+|Blend|US|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
+|Cloudflare|US|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
+|Cress Health|US|<ul><li>Internship (**UNPAID**) - [Software Engineering, Product Management, Security, and Design Internships](https://internships.cresshealth.com)</li></ul>|
+|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
+|EverQuote|US|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003), [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
+|LiveRamp|US|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
+|Lockheed Martin|US|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
+|PagerDuty|US|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|RBC|US|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
+|Roblox|US|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
+|Zoom|US|<ul><li>Internship - [SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li><li>Full Time - [Multiple](https://jobs.lever.co/zoom)</li></ul>|
+|Shopee|SG|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
+|AllinCall|IN|<ul><li>Full Time and Internships - [Multiple](https://docs.google.com/forms/d/1f-c1ZaDSyW7UHNYRdheH3IyOPUY9uAsmM0w5xfwwbV4/viewform?edit_requested=true)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
@@ -36,15 +38,18 @@ This document will be updated regularly as new information becomes available.
 |Accion Systems|❌ |Cancelled their whole internship program|
 |Ad Council|❌ ||
 |ADTRAN|❌ |Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
+|Airbnb|❌ |Cancelled this summer's internship program with an option to intern next summer.|
 |AKQA|❌ ||
 |Alaska Airlines|❌ ||
 |Alexander Group|❌ ||
+|AlphaSights|❌ |Cancelled. Interns offered full-time jobs.|
 |American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.||
 |Amtrak|❌ ||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
 |APCO Worldwide|❌ ||
 |Applied Medical|❌ ||
 |ArcelorMittal|❌||
+|Argonne National Laboratory|❌||
 |Arista|❌ ||
 |Arthrex|❌||
 |AXS|❌ ||
@@ -60,21 +65,27 @@ This document will be updated regularly as new information becomes available.
 |Calvin Klein|❌ ||
 |Capitol Music Group|❌||
 |Captify|❌||
+|CB Insights|❌||
+|CF Industries|❌ ||
 |Chesapeake Energy|❌ ||
 |Checkr|❌ ||
 |Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
+|Continental|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
+|Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
-|DigitalOcean|❌ |Cancelled summer internsip program|
+|DigitalOcean|❌ |Cancelled summer internship program|
+|Dillards|❌||
 |Discovery Inc.|❌ ||
-|Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program.||
+|Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program. Also, some teams haven't cancelled.||
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
+|ExtraHop|❌||
 |Flipp|❌ | Offers Rescinded|
 |Funding Circle|❌ ||
 |FX|❌ ||
@@ -90,12 +101,14 @@ This document will be updated regularly as new information becomes available.
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
+|Halff Associates|❌||
 |Halliburton|❌|Interns offered half of the pay for the summer as stipend.|
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Helen of Troy|❌||
 |Hill Holliday|❌ ||
+|Huhtamaki|❌||
 |iCIMS|❌ |
 |IDEMIA|❌ |
 |IDEO|❌ |Ideo.org too|
@@ -121,6 +134,8 @@ This document will be updated regularly as new information becomes available.
 |Lifeway Christian Resources|❌||
 |Lime|❌ ||
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
+|Lowe's|❌||
+|Manhattan Associates|❌||
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
 |Marsh and Mclennan Agency|❌|Hearing contradictory reports. Needs confirmation.|
@@ -128,6 +143,8 @@ This document will be updated regularly as new information becomes available.
 |M Booth|❌ ||
 |McCann|❌|McCann Wolrldgroup and McCann NY cancelled their internships.|
 |Medicus Healthcare Solutions|❌||
+|Medline Industries|❌|Cancelled its internship program. Interns will get interview preference for full-time jobs after graduation.|
+|Mercedez Benz|❌||
 |Mercer|❌||
 |MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
 |Mrytle Beach Pelicans|❌ ||
@@ -136,8 +153,10 @@ This document will be updated regularly as new information becomes available.
 |National Institutes of Health|❌ ||
 |National Security Agency|❌ ||
 |Nationwide|❌ ||
+|Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
 |NBC Olympic|❌||
 |Newell Brands|❌||
+|New York Air Brake|❌||
 |Nielsen|❌||
 |Nissan|❌||
 |No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
@@ -148,6 +167,7 @@ This document will be updated regularly as new information becomes available.
 |OneWeb|❌ |Went bankrupt|
 |OpenTable|❌ ||
 |Occidental Petroleum|❌||
+|Pariveda Solutions|❌||
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |PluralSight|❌||
@@ -155,7 +175,9 @@ This document will be updated regularly as new information becomes available.
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
+|Quora|❌|Cancelled.|
 |Ramboll|❌||
+|Randa Accessories|❌||
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
@@ -191,6 +213,9 @@ This document will be updated regularly as new information becomes available.
 |TJX|❌||
 |Toast|❌| Internships in Boston cancelled. Full-time offers too.|
 |Toyota Connected|❌||
+|TPRI|❌||
+|Transamerica|❌||
+|TransUnion|❌|
 |Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
@@ -222,7 +247,6 @@ This document will be updated regularly as new information becomes available.
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Fully remote. Personal computer for work. Hiring Freeze|
 |ADP|✅|Remote if needed|
-|Airbnb|✅|Currently planning for in-person, updates to come|
 |Akamai Technologies|✅|Remote until further notice.|
 |Alarm.com|✅||
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
@@ -276,6 +300,7 @@ This document will be updated regularly as new information becomes available.
 |Deloitte|✅|Considering remote. Decision in the coming days. Hiring Freeze.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
+|Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅|Virtual|
 |Ebay|✅|Going virtual.|
@@ -287,7 +312,7 @@ This document will be updated regularly as new information becomes available.
 |ExxonMobil|✅|Pushed start dates to June 1st.|
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
-|Facebook|✅|Considering remote. More details to come.|
+|Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided.|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
@@ -321,8 +346,11 @@ This document will be updated regularly as new information becomes available.
 |John Deere|✅|Not cancelling.|
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
+|Justworks|✅||
+|Koch Industries|✅|Decision by April 24th.|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |Lacework|✅|Not hiring any more interns|
+|Lenovo|✅|Remote. Majority of divisions won't be cancelling. Start dates moved to June 1st.|
 |Liberty Mutual Insurance|✅|Gave interns option of working remotely or hybrid-relocating once offices open.|
 |LinkedIn|✅|Fully remote. Interviews are on hold|
 |LiveRamp|✅||
@@ -340,7 +368,7 @@ This document will be updated regularly as new information becomes available.
 |MITRE|✅|Remote Internship|
 |Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
 |MongoDB|✅||
-|Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes.|
+|Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes. Start date pushed to June 29.|
 |Motorola Solutions|✅|Considering remote|
 |Mozilla|✅|Remote Internship|
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15.|
@@ -372,6 +400,7 @@ This document will be updated regularly as new information becomes available.
 |PlayStation|✅|Remote in the worst case|
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $2500 lump-sum payment and full-time 2021 offer.|
 |Procter & Gamble|✅|Online except for a few cases. On site possible for last 2 weeks.|
+|Proofpoint|✅|Actively hiring, remote or onsite depends on future situation.|
 |Protiviti|✅|2-week fully remote internship, with full-time offers extended at the end.|
 |Qualcomm|✅|Fully remote.|
 |Qualtrics|✅|Fully remote.|
@@ -400,6 +429,7 @@ This document will be updated regularly as new information becomes available.
 |Sprout Social|✅|Stopped hiring.|
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
+|SurveyMonkey|✅|Fully virtual.|
 |T-Mobile|✅|Monitoring situation|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
@@ -407,8 +437,7 @@ This document will be updated regularly as new information becomes available.
 |Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |The Aerospace Corporation|✅|Won't be cancelling. Considering remote. Details in coming weeks.|
 |The Motley Fool|✅|Fully remote.|
-|Tinder|✅|Interview decisions on hold. Internship decision to be made during week of April 6th|
-|Transamerica|✅|Suspended housing stipend. Considering remote.|
+|Tinder|✅|Going remote.|
 |TuSimple|✅|Remote for now but onsite recommended once feasible|
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
@@ -423,15 +452,15 @@ This document will be updated regularly as new information becomes available.
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
 |Viasat|✅|Some teams will be remote, some will be canceled. Individual update by April 24th.|
-|Visa|✅||
+|Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Walmart|✅|Hiring Freeze|
 |WarnerMedia|✅||
-|Wells Fargo|✅|Exploring remote option.|
+|Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
 |WePay|✅|Won't be cancelling|
 |WeRide.ai|✅||
-|Western Digital|✅||
+|Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
 |Wish|✅|Hiring Freeze|
 |Xandr|✅|Considering Remote|
 |Xilinx|✅|Remote Internship|
