@@ -372,7 +372,7 @@ This document will be updated regularly as new information becomes available.
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
 |Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
-|MongoDB|✅||
+|MongoDB|✅|Fully remote.|
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes. Start date pushed to June 29.|
 |Motorola Solutions|✅|Considering remote|
 |Mozilla|✅|Remote Internship|
