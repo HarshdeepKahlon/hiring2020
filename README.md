@@ -281,6 +281,7 @@ This document will be updated regularly as new information becomes available.
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
+|Chevron|✅|Remote|
 |Cisco|✅|Fully Remote|
 |Cisco Meraki|✅|Remote confirmed| 
 |Citadel|✅|WFH Possible|
