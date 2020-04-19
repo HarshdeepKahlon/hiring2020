@@ -113,8 +113,8 @@ This document will be updated regularly as new information becomes available.
 |IDEMIA|❌ |
 |IDEO|❌ |Ideo.org too|
 |IGN|❌ ||
-|iHeartMedia|❌ |
-|IHS Markit|❌ |
+|iHeartMedia|❌ ||
+|IHS Markit|❌ |Needs further confirmation.|
 |Indeed|❌ |Summer internships cancelled.|
 |InterSystems|❌ |
 |Interbrand|❌ |
