@@ -75,7 +75,7 @@ This document will be updated regularly as new information becomes available.
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
-|Datascan|❌ ||
+|DataScan|❌ ||
 |Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
