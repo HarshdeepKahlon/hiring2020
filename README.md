@@ -181,6 +181,7 @@ This document will be updated regularly as new information becomes available.
 |Quora|❌|Cancelled.|
 |Ramboll|❌||
 |Randa Accessories|❌||
+|Redfin|❌||
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
