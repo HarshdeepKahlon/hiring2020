@@ -114,6 +114,7 @@ This document will be updated regularly as new information becomes available.
 |IDEO|❌ |Ideo.org too|
 |IGN|❌ ||
 |iHeartMedia|❌ |
+|IHS Markit|❌ |
 |Indeed|❌ |Summer internships cancelled.|
 |InterSystems|❌ |
 |Interbrand|❌ |
