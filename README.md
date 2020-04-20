@@ -26,7 +26,6 @@ This document will be updated regularly as new information becomes available.
 |Roblox|US|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Zoom|US|<ul><li>Internship - [SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li><li>Full Time - [Multiple](https://jobs.lever.co/zoom)</li></ul>|
 |Shopee|SG|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
-|AllinCall|IN|<ul><li>Full Time and Internships - [Multiple](https://docs.google.com/forms/d/1f-c1ZaDSyW7UHNYRdheH3IyOPUY9uAsmM0w5xfwwbV4/viewform?edit_requested=true)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
