@@ -313,6 +313,7 @@ This document will be updated regularly as new information becomes available.
 |D. E. Shaw & Co.|✅|Internships will be remote in India. Start date is April 20.|
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Deloitte Consulting US - Two week optional virtual experience (Jul 13 - Jul 24). Payment of $4000. Full-time offer upon successful completion of degree. Deloitte in Canada is going virtual with a delayed start date of June 1st.|
+|Ditto PR|✅|Remote.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
