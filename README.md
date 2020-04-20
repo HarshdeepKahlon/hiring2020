@@ -223,7 +223,7 @@ This document will be updated regularly as new information becomes available.
 |Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
-|Under Armour|❌|Cancelled.|
+|Under Armour|❌|Rookie Program was canceled, no full time offers.|
 |United Airlines|❌|Cancelled.|
 |Universal McCann|❌||
 |Uplift|❌||
