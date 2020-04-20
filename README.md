@@ -449,6 +449,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Sigma Computing|✅|Remote work|
 |Snap|✅|Remote possible|
 |Snowflake|✅||
+|Sonos|✅|| Remote work, internship date reduced from 12 to 8 weeks
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
