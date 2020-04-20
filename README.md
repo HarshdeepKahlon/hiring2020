@@ -332,6 +332,7 @@ This document will be updated regularly as new information becomes available.
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
+|Fiat Chrysler|✅|Remote likely. Further updates by April 24.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |Flexport|✅|Cancelling 60% of their summer internships and moving the rest to remote. Across Engineering, Data and Design.|
