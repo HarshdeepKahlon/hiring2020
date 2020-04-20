@@ -244,7 +244,7 @@ This document will be updated regularly as new information becomes available.
 |Warner Music Group|❌||
 |Wayfair|❌||
 |Wisk|❌||
-|WillowTree|❌||
+|WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
 |Workday|❌|5k stipend being provided to interns|
 |Yelp|❌||
 ||||
@@ -253,7 +253,7 @@ This document will be updated regularly as new information becomes available.
 |1Password|✅|Hiring Freeze|
 |3M|✅|Remote for now. Option to move to in-person if conditions change by June 1|
 |Accenture|✅|Strategy internships going remote.|
-|Activision/Blizzard|✅|Blizzard internship duration reduced to 9 weeks.|
+|Activision/Blizzard|✅|100% remote. Blizzard internship duration reduced to 9 weeks.|
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Fully remote. Personal computer for work. Hiring Freeze|
 |ADP|✅|Remote if needed|
@@ -363,6 +363,7 @@ This document will be updated regularly as new information becomes available.
 |Koch Industries|✅|Decision by April 24th.|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |KPMG|✅|US - Internship made virtual. Interns offered a full-time position in 2021.|
+|Kroger Digital|✅|100% remote.|
 |Lacework|✅|Not hiring any more interns|
 |Lam Research|✅|Going remote. Honoring all offers.|
 |Lenovo|✅|Remote. Majority of divisions won't be cancelling. Start dates moved to June 1st.|
