@@ -477,7 +477,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Vanguard|✅|Decision by Mar 27|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
-|Verizon|✅|Decision by Apr 30|
 |Verizon|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
 |VMware|✅|Will be remote|
