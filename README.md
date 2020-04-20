@@ -202,7 +202,7 @@ This document will be updated regularly as new information becomes available.
 |SnapTravel|❌||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
-|Sony|❌|Cancelled in UK. Needs confirmation.|
+|Sony|❌||
 |Sony Music|❌|Cancelled. Needs confirmation.|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
 |Springbuk|❌||
