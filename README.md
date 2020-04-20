@@ -86,7 +86,7 @@ This document will be updated regularly as new information becomes available.
 |DigitalOcean|❌ |Cancelled summer internship program|
 |Dillards|❌||
 |Discovery Inc.|❌ ||
-|Disney|❌|Just cancelled Engineering/ IT roles. Not just diversity program. Also, some teams haven't cancelled.||
+|Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
@@ -206,6 +206,7 @@ This document will be updated regularly as new information becomes available.
 |Sony Music|❌|Cancelled. Needs confirmation.|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
 |Springbuk|❌||
+|Stanford Health Care|❌||
 |StitchFix|❌||
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
