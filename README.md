@@ -314,7 +314,7 @@ This document will be updated regularly as new information becomes available.
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |ERCOT (Energy Reliability Council of Texas)|✅|Remote.|
 |EverQuote|✅||
-|Expedia|✅|Fully virtual. Duration reduced from 12 weeks to 10 weeks.|
+|Expedia|✅|Moved to virtual. Shortened to 10 weeks, June 15 - August 21. Revised offer letter will be sent out.|
 |ExxonMobil|✅|Pushed start dates to June 1st.|
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
