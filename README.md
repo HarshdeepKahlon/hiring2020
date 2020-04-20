@@ -169,7 +169,7 @@ This document will be updated regularly as new information becomes available.
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
-|Oliver Wyman|❌ |Replaced with full-time offers.|
+|Oliver Wyman|❌ |Replaced with full-time offers. Few students didn't receive full-time offers.|
 |OneWeb|❌ |Went bankrupt|
 |OpenTable|❌ ||
 |Occidental Petroleum|❌||
