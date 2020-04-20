@@ -5,6 +5,8 @@ This document will be updated regularly as new information becomes available.
 1. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)
 2. **Facebook** - [Hiring2020](https://www.facebook.com/pg/hiring20/) 
 
+If you are on mobile, click "View all of README.md" below to expand the list.
+
 **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
 **Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
