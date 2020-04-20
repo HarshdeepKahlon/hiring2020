@@ -75,6 +75,7 @@ This document will be updated regularly as new information becomes available.
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
 |Echostar|❌ ||
+|DataScan|❌ |Need further verification if all roles cancelled|
 |Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
@@ -113,7 +114,8 @@ This document will be updated regularly as new information becomes available.
 |IDEMIA|❌ |
 |IDEO|❌ |Ideo.org too|
 |IGN|❌ ||
-|iHeartMedia|❌ |
+|iHeartMedia|❌ ||
+|IHS Markit|❌ |Needs further confirmation.|
 |Indeed|❌ |Summer internships cancelled.|
 |InterSystems|❌ |
 |Interbrand|❌ |
@@ -281,6 +283,7 @@ This document will be updated regularly as new information becomes available.
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
+|Chevron|✅|Remote|
 |Cisco|✅|Fully Remote|
 |Cisco Meraki|✅|Remote confirmed| 
 |Citadel|✅|WFH Possible|
@@ -288,7 +291,7 @@ This document will be updated regularly as new information becomes available.
 |Citrix Systems|✅| Internship not cancelled. Possibility of going remote.|
 |Clorox|✅||
 |Cloudflare|✅|Internships reopened and internship class size doubled, remote work if needed|
-|Coinbase|✅|Still planning for in-person, but could change|
+|Coinbase|✅|Fully remote. Housing stipend if applicable.|
 |College Board|✅|Hiring freeze.|
 |CommScope|✅|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|✅||
@@ -330,6 +333,7 @@ This document will be updated regularly as new information becomes available.
 |Giphy|✅|Hiring Freeze|
 |GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
 |Glassdoor|✅|Hiring Freeze|
+|GoDaddy|✅|Remote|
 |Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
@@ -372,7 +376,7 @@ This document will be updated regularly as new information becomes available.
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
 |Moelis & Company|✅|Made their summer internship program a 4 week program and also given all interns guaranteed full time offers.|
-|MongoDB|✅||
+|MongoDB|✅|Fully remote.|
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes. Start date pushed to June 29.|
 |Motorola Solutions|✅|Considering remote|
 |Mozilla|✅|Remote Internship|
@@ -463,7 +467,7 @@ This document will be updated regularly as new information becomes available.
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Waymo|✅|Moved their internship program virtual.|
 |Walmart|✅|Hiring Freeze|
-|WarnerMedia|✅||
+|WarnerMedia|✅|Fully virtual.|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
 |WePay|✅|Won't be cancelling|
 |WeRide.ai|✅||
