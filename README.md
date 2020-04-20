@@ -68,6 +68,7 @@ This document will be updated regularly as new information becomes available.
 |Calvin Klein|❌ ||
 |Capitol Music Group|❌||
 |Captify|❌||
+|Carfax|❌||
 |CB Insights|❌||
 |CF Industries|❌ ||
 |Chesapeake Energy|❌ ||
