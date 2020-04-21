@@ -5,6 +5,8 @@ This document will be updated regularly as new information becomes available.
 1. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)
 2. **Facebook** - [Hiring2020](https://www.facebook.com/pg/hiring20/) 
 
+If you are on mobile, click "View all of README.md" below to expand the list.
+
 **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
 **Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
@@ -17,11 +19,9 @@ This document will be updated regularly as new information becomes available.
 |Anyscale|US|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
 |Blend|US|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|US|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
-|Cress Health|US|<ul><li>Internship (**UNPAID**) - [Software Engineering, Product Management, Security, and Design Internships](https://internships.cresshealth.com)</li></ul>|
 |Coinbase|US|<ul><li>Internship - [Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
-|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21), [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21) and [Customer Marketing Intern (Summer 2020)](https://boards.greenhouse.io/dataminr/jobs/2142145?t=q3lcj21)</li></ul>|
-|EverQuote|US|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003), [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003) and [Software Engineer Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4017671003)</li></ul>|
-|LiveRamp|US|<ul><li>Internship - [MBA Intern - Strategy & Corporate Development](https://boards.greenhouse.io/liveramp/jobs/2107657)</li></ul>|
+|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21) and [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
+|EverQuote|US|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) and [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Lockheed Martin|US|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
 |PagerDuty|US|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |RBC|US|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
@@ -202,7 +202,7 @@ This document will be updated regularly as new information becomes available.
 |SnapTravel|❌||
 |Softheon|❌||
 |Sonder|❌|Revoked offers|
-|Sony|❌|Cancelled in UK. Needs confirmation.|
+|Sony|❌||
 |Sony Music|❌|Cancelled. Needs confirmation.|
 |Southwest Airlines|❌|Gauging interest in fall internship. Gift card being provided as compensation.|
 |Springbuk|❌||
@@ -236,6 +236,7 @@ This document will be updated regularly as new information becomes available.
 |Uponor|❌||
 |Urban Outfitters (URBN)|❌||
 |USTA 2020 D&I|❌|| 
+|Viasat|❌|Cancelled|
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -244,6 +245,7 @@ This document will be updated regularly as new information becomes available.
 |Warner|❌||
 |Warner Music Group|❌||
 |Wayfair|❌||
+|WeRide.ai|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
 |Workday|❌|5k stipend being provided to interns|
@@ -258,6 +260,8 @@ This document will be updated regularly as new information becomes available.
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Fully remote. Personal computer for work. Hiring Freeze|
 |ADP|✅|Remote if needed|
+|Aflac|✅|Postponed start date to June 8. Hoping to start the internship onsite. If not possible, they will postpone it further or cancel this year's summer internship.|
+|AIG|✅|Virtual. More details to come.|
 |Akamai Technologies|✅|Remote until further notice.|
 |Alarm.com|✅||
 |AlixPartners|✅|Deciding on in person vs virtual towards end of April|
@@ -311,6 +315,7 @@ This document will be updated regularly as new information becomes available.
 |D. E. Shaw & Co.|✅|Internships will be remote in India. Start date is April 20.|
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Deloitte Consulting US - Two week optional virtual experience (Jul 13 - Jul 24). Payment of $4000. Full-time offer upon successful completion of degree. Deloitte in Canada is going virtual with a delayed start date of June 1st.|
+|Ditto PR|✅|Remote.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
@@ -330,6 +335,7 @@ This document will be updated regularly as new information becomes available.
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
+|Fiat Chrysler|✅|Remote likely. Further updates by April 24.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |Flexport|✅|Cancelling 60% of their summer internships and moving the rest to remote. Across Engineering, Data and Design.|
@@ -344,7 +350,7 @@ This document will be updated regularly as new information becomes available.
 |GoDaddy|✅|Remote|
 |Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
-|Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
+|Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward. Interns for rest of 2020 (including Fall 2020) won't be considered|
 |Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
 |HP|✅|Remote. Won't be cancelled.|
 |HPE|✅|Remote|
@@ -381,7 +387,7 @@ This document will be updated regularly as new information becomes available.
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
 |MassMutual|✅|100% virtual.|
 |Mastercard|✅|MBA internship transitioning to virtual format and duration has been shortened to 4 weeks. However, pay will remain as per the original offer i.e., 10weeks.|
-|Micron|✅|Won't be cancelling.|
+|Micron|✅|Virtual Internship program for 90% of interns.|
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments or those that are currently located outside the US or Canada, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
 |MITRE|✅|Remote Internship|
@@ -393,7 +399,7 @@ This document will be updated regularly as new information becomes available.
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15.|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
 |New York Times|✅|Remote.|
-|Nextdoor|✅||
+|Nextdoor|✅|100% Virtual.|
 |Nike|✅|Remote.|
 |Nintendo|✅|Remote in US.|
 |Noblis|✅|Currently evaluating remote internships|
@@ -442,7 +448,8 @@ This document will be updated regularly as new information becomes available.
 |Siemens|✅ | Needs confirmation. Contradictory reports.|
 |Sigma Computing|✅|Remote work|
 |Snap|✅|Remote possible|
-|Snowflake|✅||
+|Snowflake|✅|Remote internship for now. US interns may move to on-site depending on the situation and International interns will work from home 100%.|
+|Sonos|✅| Remote work, internship date reduced from 12 to 8 weeks|
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
@@ -481,7 +488,6 @@ This document will be updated regularly as new information becomes available.
 |WarnerMedia|✅|Fully virtual.|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
 |WePay|✅|Won't be cancelling|
-|WeRide.ai|✅||
 |Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
 |Wish|✅|Hiring Freeze|
 |Xandr|✅|Considering Remote|
