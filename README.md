@@ -350,7 +350,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |GoDaddy|✅|Remote|
 |Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
-|Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward.|
+|Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward. Interns for rest of 2020 (including Fall 2020) won't be considered|
 |Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
 |HP|✅|Remote. Won't be cancelled.|
 |HPE|✅|Remote|
