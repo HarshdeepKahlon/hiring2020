@@ -245,6 +245,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Warner|❌||
 |Warner Music Group|❌||
 |Wayfair|❌||
+|WeRide.ai|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
 |Workday|❌|5k stipend being provided to interns|
@@ -484,7 +485,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |WarnerMedia|✅|Fully virtual.|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
 |WePay|✅|Won't be cancelling|
-|WeRide.ai|✅||
 |Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
 |Wish|✅|Hiring Freeze|
 |Xandr|✅|Considering Remote|
