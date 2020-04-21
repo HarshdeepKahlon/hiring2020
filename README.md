@@ -20,7 +20,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Blend|US|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Cloudflare|US|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Coinbase|US|<ul><li>Internship - [Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
-|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21) and [Research & Operations Development Summer Intern (2020)](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
+|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21) and [Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
 |EverQuote|US|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) and [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Lockheed Martin|US|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
 |PagerDuty|US|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
