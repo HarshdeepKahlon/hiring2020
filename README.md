@@ -399,7 +399,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15.|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
 |New York Times|✅|Remote.|
-|Nextdoor|✅||
+|Nextdoor|✅|100% Virtual.|
 |Nike|✅|Remote.|
 |Nintendo|✅|Remote in US.|
 |Noblis|✅|Currently evaluating remote internships|
