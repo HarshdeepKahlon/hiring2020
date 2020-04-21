@@ -448,7 +448,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Siemens|✅ | Needs confirmation. Contradictory reports.|
 |Sigma Computing|✅|Remote work|
 |Snap|✅|Remote possible|
-|Snowflake|✅||
+|Snowflake|✅|Remote internship for now. US interns may move to on-site depending on the situation and International interns will work from home 100%.|
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
