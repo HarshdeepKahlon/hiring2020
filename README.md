@@ -29,7 +29,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Lockheed Martin|US|Internship|<ul><li>[Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
-|RBC|US|Internship|<ul><li>[Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Design Intern](https://corp.roblox.com/careers/listing/?gh_jid=1860571)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (iOS)](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
