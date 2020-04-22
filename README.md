@@ -281,7 +281,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Atlassian|✅|Going fully remote|
 |Audible|✅|On track to begin June 1|
 |Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.
-|Autodesk|✅|In-person for now. Remote in worst case. Decision by early April.|
+|Autodesk|✅|Fully remote internships|
 |Bank of America|✅||
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
