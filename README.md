@@ -23,7 +23,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dataminr|US|Internship|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21) and [Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
 |EverQuote|US|Internship|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) and [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Lockheed Martin|US|Internship|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
-|PagerDuty|US|Internship|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|PagerDuty|US|Full-time|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |RBC|US|Internship|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
 |Roblox|US|Internship|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Zippity Cars|US|Internship|<ul><li>Internship - [Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li><li>Full Time - [Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
