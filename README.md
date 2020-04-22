@@ -148,6 +148,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Kayak|❌ ||
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
+|Kepler Group|❌ |Cancelled summer 2020 internship program|
 |Kin and Carta|❌ ||
 |Kitty Hawk|❌||
 |Kohler Engines|❌||
@@ -177,7 +178,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |MullenLowe|❌ ||
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
-|National Security Agency|❌ ||
+|National Security Agency|❌ |Cancelled all summer 2020 intternships|
 |Nationwide|❌ ||
 |Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
 |NBC Olympic|❌||
@@ -201,6 +202,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
+|QuantumScope|❌ |Cancelled|
 |Quora|❌|Cancelled.|
 |Ramboll|❌||
 |Randa Accessories|❌||
@@ -313,6 +315,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
+|Chegg|✅ | Planning to proceed with most of our internship roles this summer, may be operating completely remotely, a handful of positions canceled|
 |Chevron|✅|Remote|
 |Cigna|✅|Fully virtual|
 |Cisco|✅|Fully Remote|
