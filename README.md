@@ -13,23 +13,23 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 
 ### Actively Hiring List
 
-|               Company              | Country |                                 Positions
-|:-----------------------------------|:-------:|:------------------------------------------------------------------------------|
-|Amazon|US|<ul><li>Internship - [Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com/)</li></ul>|
-|Anyscale|US|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
-|Blend|US|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
-|Cloudflare|US|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
-|Coinbase|US|<ul><li>Internship - [Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
-|Dataminr|US|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21) and [Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
-|EverQuote|US|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) and [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
-|Lockheed Martin|US|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
-|PagerDuty|US|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
-|RBC|US|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
-|Roblox|US|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|Zippity Cars|US|<ul><li>Internship - [Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li><li>Full Time - [Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
-|Zoom|US|<ul><li>Internship - [SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li><li>Full Time - [Multiple](https://jobs.lever.co/zoom)</li></ul>|
-|Zscaler|US|<ul><li> Internship - [Product Management Data Protection Intern](https://jobs.jobvite.com/zscaler/job/oVYucfwj) and [Product Management Security Intern](https://jobs.jobvite.com/zscaler/job/oXYucfwl)</li></ul>|
-|Shopee|SG|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
+|               Company              | Country |       Job Type      |                    Position
+|:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Amazon|US|Internship|<ul><li>Internship - [Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com/)</li></ul>|
+|Anyscale|US|Internship|<ul><li>Internship - [Software Engineering](https://jobs.lever.co/anyscale)</li></ul>|
+|Blend|US|Internship|<ul><li>Internship - [Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
+|Cloudflare|US|Internship|<ul><li>Internship - [Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
+|Coinbase|US|Internship|<ul><li>Internship - [Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
+|Dataminr|US|Internship|<ul><li>Internship - [Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21) and [Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
+|EverQuote|US|Internship|<ul><li> Internship - [MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003) and [Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
+|Lockheed Martin|US|Internship|<ul><li>Internship - [Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
+|PagerDuty|US|Internship|<ul><li>Full Time - [Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|RBC|US|Internship|<ul><li> Internship - [Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
+|Roblox|US|Internship|<ul><li> Internship - [Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
+|Zippity Cars|US|Internship|<ul><li>Internship - [Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li><li>Full Time - [Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
+|Zoom|US|Internship|<ul><li>Internship - [SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li><li>Full Time - [Multiple](https://jobs.lever.co/zoom)</li></ul>|
+|Zscaler|US|Internship|<ul><li> Internship - [Product Management Data Protection Intern](https://jobs.jobvite.com/zscaler/job/oVYucfwj) and [Product Management Security Intern](https://jobs.jobvite.com/zscaler/job/oXYucfwl)</li></ul>|
+|Shopee|SG|Internship|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
