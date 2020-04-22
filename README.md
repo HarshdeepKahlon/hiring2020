@@ -29,7 +29,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Zippity Cars|US|Internship|<ul><li>Internship - [Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li><li>Full Time - [Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
 |Zoom|US|Internship|<ul><li>Internship - [SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li><li>Full Time - [Multiple](https://jobs.lever.co/zoom)</li></ul>|
 |Zscaler|US|Internship|<ul><li> Internship - [Product Management Data Protection Intern](https://jobs.jobvite.com/zscaler/job/oVYucfwj) and [Product Management Security Intern](https://jobs.jobvite.com/zscaler/job/oXYucfwl)</li></ul>|
-|Shopee|SG|Internship|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
+|Shopee|SG|Full-time|<ul><li>Full Time - [Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
