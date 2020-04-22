@@ -509,7 +509,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |WePay|✅|Won't be cancelling|
 |Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
 |Wish|✅|Hiring Freeze|
-|Xandr|✅|Considering Remote|
+|Xandr|✅|Fully remote.|
 |Xilinx|✅|Remote Internship|
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled|
