@@ -28,7 +28,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |RBC|US|Internship|<ul><li>[Multiple](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
-|Zippity Cars|US|Internship|<ul><li>[Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li><li>Full Time - [Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
+|Zippity Cars|US|Internship|<ul><li>[Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li></ul>|
 |Zippity Cars|US|Full-time|<ul><li>[Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
 |Zoom|US|Internship|<ul><li>[SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li></ul>|
 |Zoom|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/zoom)</li></ul>|
