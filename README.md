@@ -19,6 +19,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |AMD|US|Internship|<ul><li>[Multiple](https://jobs.amd.com/go/Students/2567200/)</li></ul>|
 |Anyscale|US|Internship|<ul><li>[Software Engineering](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5)</li></ul>|
 |Blend|US|Internship|<ul><li>[Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
+|Bloomberg|US/UK/Hong Kong|Full-time|<ul><li>[Software Engineering](https://www.bloomberg.com/company/engineering/)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[Security Compliance Engineer - Intern](https://boards.greenhouse.io/cloudflare/jobs/2166487?gh_jid=2166487)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[People Data Analyst Internship](https://boards.greenhouse.io/cloudflare/jobs/2164748?gh_jid=2164748)</li></ul>|
