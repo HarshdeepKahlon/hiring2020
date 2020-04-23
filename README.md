@@ -313,6 +313,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Audible|✅|On track to begin June 1|
 |Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.
 |Autodesk|✅|Fully remote internships|
+|Bain & Company|✅|Virtual.|
 |Bank of America|✅||
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
