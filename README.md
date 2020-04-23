@@ -198,6 +198,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |PluralSight|❌||
+|Pratt & Whitney|❌||
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
