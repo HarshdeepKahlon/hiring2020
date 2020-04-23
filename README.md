@@ -497,6 +497,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |UnitedHealth Group|✅|Still on. Considering remote.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
+|US Bank|✅|Remote|
 |Vanguard|✅|Decision by Mar 27|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
