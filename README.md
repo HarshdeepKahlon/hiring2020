@@ -93,7 +93,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |CF Industries|❌ ||
 |Chesapeake Energy|❌ ||
 |Checkr|❌ ||
-|Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
 |Continental|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
@@ -319,6 +318,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
 |Chegg|✅ | Planning to proceed with most of our internship roles this summer, may be operating completely remotely, a handful of positions canceled|
 |Chevron|✅|Remote|
+|Chick-Fill-A|✅|Option to participate in a virtual internship or defer internship to next summer.|
 |Cigna|✅|Fully virtual|
 |Cisco|✅|Fully Remote|
 |Cisco Meraki|✅|Remote confirmed| 
