@@ -81,6 +81,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.||
 |Amtrak|❌ ||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
+|Apache Corporation|❌ ||
 |APCO Worldwide|❌ ||
 |Applied Medical|❌ ||
 |ArcelorMittal|❌||
@@ -106,7 +107,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |CF Industries|❌ ||
 |Chesapeake Energy|❌ ||
 |Checkr|❌ ||
-|ConocoPhillips|❌ ||
+|ConocoPhillips|❌|5 week pay offered and priority for 2021 internship|
 |Continental|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
@@ -145,6 +146,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
 |HCA Healthcare|❌ ||
 |Helen of Troy|❌||
+|Hess Corporation|❌||
 |Hill Holliday|❌ ||
 |Huhtamaki|❌||
 |iCIMS|❌ |
@@ -461,6 +463,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Pegasystems|✅||
 |Peloton|✅|Not cancelling. More details will be shared in coming weeks.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
+|Pioneer Natural Resources|✅|Remote.|
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
 |PlayStation|✅|Remote. Start date moved to June 1st.|
