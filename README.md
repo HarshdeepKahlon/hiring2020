@@ -318,7 +318,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Belvedere trading|✅||
-|Black Rock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
+|BlackRock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
 |Bloomberg|✅|Remote.|
