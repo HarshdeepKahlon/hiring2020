@@ -98,6 +98,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Bright Health|❌ ||
 |BuzzFeed|❌ ||
 |Calvin Klein|❌ ||
+|Cantor Fitzgerald|❌||
 |Capitol Music Group|❌||
 |Captify|❌||
 |Carfax|❌||
@@ -118,7 +119,8 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dillards|❌||
 |Discovery Inc.|❌ ||
 |Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
-|DNAnexus|❌ ||
+|DNAnexus|❌||
+|Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
 |ExtraHop|❌||
@@ -278,7 +280,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Wagner Spraytech|❌||
 |Warner|❌||
 |Warner Music Group|❌||
-|Wayfair|❌||
+|Wayfair|❌|Some positions not cancelled. Notably E-Commerce.|
 |WeRide.ai|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
