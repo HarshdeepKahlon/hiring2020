@@ -86,6 +86,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Bright Health|❌ ||
 |BuzzFeed|❌ ||
 |Calvin Klein|❌ ||
+|Cantor Fitzgerald|❌||
 |Capitol Music Group|❌||
 |Captify|❌||
 |Carfax|❌||
