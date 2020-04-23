@@ -27,6 +27,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dataminr|US|Internship|<ul><li>[Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
+|Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
 |Lockheed Martin|US|Internship|<ul><li>[Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
