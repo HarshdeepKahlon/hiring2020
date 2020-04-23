@@ -27,6 +27,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dataminr|US|Internship|<ul><li>[Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
+|Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
 |Lockheed Martin|US|Internship|<ul><li>[Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
@@ -92,7 +93,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |CF Industries|❌ ||
 |Chesapeake Energy|❌ ||
 |Checkr|❌ ||
-|Chick-Fill-A|❌||
 |ConocoPhillips|❌ ||
 |Continental|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
@@ -148,6 +148,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Kayak|❌ ||
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
+|Kepler Group|❌ |Cancelled summer 2020 internship program|
 |Kin and Carta|❌ ||
 |Kitty Hawk|❌||
 |Kohler Engines|❌||
@@ -177,7 +178,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |MullenLowe|❌ ||
 |National Geographic|❌ |
 |National Institutes of Health|❌ ||
-|National Security Agency|❌ ||
+|National Security Agency|❌ |Cancelled all summer 2020 intternships|
 |Nationwide|❌ ||
 |Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
 |NBC Olympic|❌||
@@ -197,10 +198,12 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |PluralSight|❌||
+|Pratt & Whitney|❌||
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
+|QuantumScope|❌ |Cancelled|
 |Quora|❌|Cancelled.|
 |Ramboll|❌||
 |Randa Accessories|❌||
@@ -300,10 +303,10 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Belvedere trading|✅||
-|Black Rock|✅|Still on. Considering remote.|
+|Black Rock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
-|Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
+|Bloomberg|✅|Remote.|
 |BNP Paribas|✅|Postponed start date to June 29. But will stick to original 10 week compensation.|
 |Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
@@ -313,7 +316,9 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
+|Chegg|✅ | Planning to proceed with most of our internship roles this summer, may be operating completely remotely, a handful of positions canceled|
 |Chevron|✅|Remote|
+|Chick-Fill-A|✅|Option to participate in a virtual internship or defer internship to next summer.|
 |Cigna|✅|Fully virtual|
 |Cisco|✅|Fully Remote|
 |Cisco Meraki|✅|Remote confirmed| 
@@ -333,7 +338,8 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dataminr|✅||
 |D. E. Shaw & Co.|✅|Internships will be remote in India. Start date is April 20.|
 |Dell|✅|Remote. Shortened to June/July only|
-|Deloitte|✅|Deloitte Consulting US - Two week optional virtual experience (Jul 13 - Jul 24). Payment of $4000. Full-time offer upon successful completion of degree. Deloitte in Canada is going virtual with a delayed start date of June 1st.|
+|Deloitte|✅|Deloitte Consulting and Deloitte Tax US - Two week optional virtual experience (Jul 13 - Jul 24). Payment of $4000. Full-time offer upon successful completion of degree. Deloitte in Canada is going virtual with a delayed start date of June 1st.|
+|Deutsche Bank|✅|Remote in India.|
 |Ditto PR|✅|Remote.|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
@@ -370,6 +376,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Goldman Sachs|✅|Start date revised to July 6. Duration of the program reduced to five weeks. Will honor the full financial commitment of original program duration. Not applicable to India. Hong Kong - Delayed by a month.|
 |GoldPoint Partners|✅|Moving to remote. Interns will be compensated fully.|
 |Google|✅|UX Internships, EMEA IT cancelled. SWE, research and business internships are remote. Hiring Freeze, intern candidates still in pipeline for host matching or interviews will not be moved forward. Interns for rest of 2020 (including Fall 2020) won't be considered|
+|HealthScape|✅|Start date pushed back by 3 weeks. Duration extended by 1 week.|
 |Hilton|✅|Rescinding offers for on property positions. Corporate intern program too.|
 |HP|✅|Remote. Won't be cancelled.|
 |HPE|✅|Remote|
@@ -441,7 +448,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
-|PlayStation|✅|Remote in the worst case|
+|PlayStation|✅|Remote. Start date moved to June 1st.|
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $2500 lump-sum payment and full-time 2021 offer.|
 |Procter & Gamble|✅|Online except for a few cases. On site possible for last 2 weeks.|
 |Proofpoint|✅|Actively hiring, remote or onsite depends on future situation.|
@@ -457,7 +464,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Royal Bank of Canada (RBC)|✅|Actively hiring - https://jobs.rbc.com/ca/en/students-grad-co-ops-internships|
 |Salesforce|✅|Remote internships for all locations. Changes to be communicated if the COVID-19 situation gets resolved in coming months|
 |Samsara|✅||
-|Samsung|✅|Remote internship. However, some positions may be cancelled where remote work is not possible.|
+|Samsung|✅|Remote internship. However, some positions may be cancelled where remote work is not possible. Samsung Research America internships cancelled.|
 |Santander CIB|✅||
 |SAP|✅|Internship onboarding moving to virtual|
 |SC Johnson|✅||
@@ -493,6 +500,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |UnitedHealth Group|✅|Still on. Considering remote.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
+|US Bank|✅|Remote|
 |Vanguard|✅|Decision by Mar 27|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
@@ -509,7 +517,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |WePay|✅|Won't be cancelling|
 |Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
 |Wish|✅|Hiring Freeze|
-|Xandr|✅|Considering Remote|
+|Xandr|✅|Fully remote.|
 |Xilinx|✅|Remote Internship|
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled|
