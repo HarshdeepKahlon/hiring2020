@@ -510,7 +510,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Twilio|✅ |Preparing for remote onboarding and remote internship|
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
-|Two Sigma|✅|NYC location is currently planning for in-person. Updates to come.|
+|Two Sigma|✅|Preparing for a virtual summer internship.|
 |Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
 |UnitedHealth Group|✅|Still on. Considering remote.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
