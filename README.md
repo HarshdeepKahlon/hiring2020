@@ -305,7 +305,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Black Rock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
-|Bloomberg|✅|Won't be cancelling. Considering remote. Details in the coming weeks.|
+|Bloomberg|✅|Remote.|
 |BNP Paribas|✅|Postponed start date to June 29. But will stick to original 10 week compensation.|
 |Boeing|✅|Will be going remote.|
 |BP|✅|Will be virtual.|
