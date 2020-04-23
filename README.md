@@ -106,7 +106,8 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dillards|❌||
 |Discovery Inc.|❌ ||
 |Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
-|DNAnexus|❌ ||
+|DNAnexus|❌||
+|Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
 |ExtraHop|❌||
