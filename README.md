@@ -268,7 +268,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Wagner Spraytech|❌||
 |Warner|❌||
 |Warner Music Group|❌||
-|Wayfair|❌||
+|Wayfair|❌|Some positions not cancelled. Notably E-Commerce.|
 |WeRide.ai|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
