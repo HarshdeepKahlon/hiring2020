@@ -381,7 +381,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Flexport|✅|Cancelling 60% of their summer internships and moving the rest to remote. Across Engineering, Data and Design.|
 |Ford Motor Company|✅|Remote. Delayed June start date. Duration reduced to 6-8 weeks.|
 |Gemography|✅|Remote Internship|
-|Genentech|✅|Evaluating the possibility of virtual internships with a final decision by April 10|
+|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled).|
 |General Atomics|✅|Considering remote.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
