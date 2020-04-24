@@ -163,7 +163,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |InterSystems|❌ |
 |Interbrand|❌ |
 |IPG MediaBrands|❌ |
-|JetBlue|❌||
+|JetBlue|❌|Deferred to Summer 2021.|
 |Kabbage|❌||
 |Kaiser Permanente|❌||
 |Kayak|❌ ||
