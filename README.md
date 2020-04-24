@@ -214,10 +214,11 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Norfolk Southern|❌ ||
 |Nordstrom |❌ |Cancelled all technology internships.|
 |NPR|❌ ||
+|Occidental Petroleum|❌||
 |Oliver Wyman|❌ |Replaced with full-time offers. Few students didn't receive full-time offers.|
 |OneWeb|❌ |Went bankrupt|
 |OpenTable|❌ ||
-|Occidental Petroleum|❌||
+|Owens Corning|❌ ||
 |Pariveda Solutions|❌||
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
