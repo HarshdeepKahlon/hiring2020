@@ -515,7 +515,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |T-Mobile|✅|Monitoring situation|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
-|Target|✅|Executive Leadership Interns are still scheduled to work in stores on location this summer.|
+|Target|✅|Software internships are virtual at Target, length reduced to 8 weeks. Executive Leadership Interns are still scheduled to work in stores on location this summer.|
 |Tesla|✅ |Hiring for summer, aiming for onsite, preparing for remote internships if possible|
 |The Aerospace Corporation|✅|Won't be cancelling. Considering remote. Details in coming weeks.|
 |The Motley Fool|✅|Fully remote.|
