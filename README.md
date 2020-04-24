@@ -283,7 +283,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Uponor|❌||
 |Urban Outfitters (URBN)|❌||
 |USTA 2020 D&I|❌|| 
-|Viasat|❌|Cancelled|
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -541,7 +540,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
 |ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
-|Viasat|✅|Some teams will be remote, some will be canceled. Individual update by April 24th.|
+|Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
 |VMware|✅|Will be remote|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
