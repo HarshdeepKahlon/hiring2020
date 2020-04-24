@@ -337,6 +337,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Capital One|✅|Remote Internships|
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
+|Charles Schwab|✅|Internships will be virtual for the duration of the program (9 weeks)|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
 |Chegg|✅ | Planning to proceed with most of our internship roles this summer, may be operating completely remotely, a handful of positions canceled|
 |Chevron|✅|Remote|
