@@ -17,13 +17,14 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Multiple](https://www.linkedin.com/posts/paul-seay-5b975a16b_equinix-applytoday-messageme-activity-6657328122595205120-74EE/)</li></ul>|
 |Amazon|US|Internship|<ul><li>[Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com)</li></ul>|
 |AMD|US|Internship|<ul><li>[Multiple](https://jobs.amd.com/go/Students/2567200/)</li></ul>|
 |Anyscale|US|Internship|<ul><li>[Software Engineering](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5)</li></ul>|
 |Blend|US|Internship|<ul><li>[Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Bloomberg|US/UK/HK|Full-time|<ul><li>[Software Engineering](https://www.bloomberg.com/company/engineering/)</li></ul>|
+|Citadel|US|Internship & Full-time|<ul><li>[Multiple](https://www.citadel.com/careers/open-positions/positions-for-students/)</li></ul>|
+|Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[Security Compliance Engineer - Intern](https://boards.greenhouse.io/cloudflare/jobs/2166487?gh_jid=2166487)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[People Data Analyst Internship](https://boards.greenhouse.io/cloudflare/jobs/2164748?gh_jid=2164748)</li></ul>|
@@ -31,13 +32,16 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Coinbase|US|Internship|<ul><li>[Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
 |Dataminr|US|Internship|<ul><li>[Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21)</li></ul>|
 |Dataminr|US|Internship|<ul><li>[Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
+|Equinix|US|Internship|<ul><li>[Multiple](https://equinix.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
+|Five Rings Capital|US|Internship & Full-time|<ul><li>[Multiple](https://fiverings.com/apply/)</li></ul>|
 |Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
 |Lockheed Martin|US|Internship|<ul><li>[Multiple](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1)</li></ul>|
 |Nvidia|US|Internship|<ul><li>[Compute Performance Developer Technology Intern - CUDA](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compute-Performance-Developer-Technology-Intern---CUDA_JR1918158)</li></ul>|
 |Nvidia|US|Internship|<ul><li>[Developer Technology Intern - AI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern---AI_JR1920532)</li></ul>|
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
+|Point72|US|Internship & Full-time|<ul><li>[Multiple](https://careers.point72.com/CSCareerSearch)</li></ul>|
 |PubNub|US|Internship|<ul><li>[Product Marketing Intern](https://www.pubnub.com/company/careers/?gh_jid=2154026)</li></ul>|
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
@@ -50,6 +54,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (Android)](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Web Developer Intern](https://www.shopify.com/careers/web-developer-intern-fall-2020-e27054)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Digital Product Design Intern](https://www.shopify.com/careers/digital-product-design-intern-fall-2020-868e44)</li></ul>|
+|SpaceX|US|Internship|<ul><li>[Summer 2020 Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/4383187002?gh_jid=4383187002)</li></ul>|
 |Stitch Fix|US|Internship|<ul><li>[Data Science Intern - AI Instruments](https://www.stitchfix.com/careers/jobs?gh_jid=2164030&gh_jid=2164030)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Production Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2115044)</li></ul>|
