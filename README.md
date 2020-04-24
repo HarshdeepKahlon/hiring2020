@@ -333,6 +333,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |BP|✅|Will be virtual.|
 |Braze|✅||
 |ByteDance|✅|Internship not cancelled. Global hiring expansion this year.|
+|Capital Group|✅|Committed to all intern offers and program will be fully remote.|
 |Capital One|✅|Remote Internships|
 |Caterpillar|✅|Delaying start date to June 15.|
 |Carvana|✅|Hiring Freeze|
