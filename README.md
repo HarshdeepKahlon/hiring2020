@@ -116,7 +116,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Continental|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
 |Custom Ink|❌ |Rescinded all internships and full time offers!
-|Dassault Systèmes|❌|Rescinding offers.|
+|Dassault Systems|❌|Rescinding offers in Waltham MA.|
 |DataScan|❌ |Need further verification if all roles cancelled|
 |Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
 |Delta Airline|❌|Rescinding offers.|
