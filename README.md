@@ -1,11 +1,11 @@
 # Hiring Status - COVID-19
-This document will be updated regularly as new information becomes available. 
+This document will be updated regularly as new information becomes available. If you are finding the document difficult to navigate through, you can use our website instead which has a search functionality - [www.hiring20.com](https://hiring20.com/)
+
+If you are on mobile, click "View all of README.md" below to expand the list.
 
 **You can also follow us on social media for regular job and status updates.**
 1. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)
 2. **Facebook** - [Hiring2020](https://www.facebook.com/pg/hiring20/) 
-
-If you are on mobile, click "View all of README.md" below to expand the list.
 
 **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
