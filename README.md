@@ -301,7 +301,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Adidas|✅|UX internship cancelled. Waiting for info on other positions.|
 |Adobe|✅|Fully remote. Personal computer for work. Hiring Freeze|
 |ADP|✅|Remote if needed|
-|Aflac|✅|Postponed start date to June 8. Hoping to start the internship onsite. If not possible, they will postpone it further or cancel this year's summer internship.|
+|Aflac|✅|Considering remote. Postponed start date to June 8.|
 |AIG|✅|Virtual. More details to come.|
 |Akamai Technologies|✅|Remote until further notice.|
 |Alarm.com|✅||
