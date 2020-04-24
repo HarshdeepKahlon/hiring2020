@@ -361,6 +361,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Databricks|✅|Remote/Virtual for all interns in US/Canada. More info to come|
 |Dataminr|✅||
 |D. E. Shaw & Co.|✅|Internships will be remote in India. Start date is April 20.|
+|DeepMap|✅|Not cancelled. Option to move to June onsite if situation gets better.|
 |Dell|✅|Remote. Shortened to June/July only|
 |Deloitte|✅|Deloitte Consulting and Deloitte Tax US - Two week optional virtual experience (Jul 13 - Jul 24). Payment of $4000. Full-time offer upon successful completion of degree. Deloitte in Canada is going virtual with a delayed start date of June 1st.|
 |Deutsche Bank|✅|Remote in India.|
