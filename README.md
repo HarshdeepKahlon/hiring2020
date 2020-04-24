@@ -296,6 +296,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
 |Workday|❌|5k stipend being provided to interns|
 |Yelp|❌||
+|ZS|❌|Cancelled their internship program but are offering full time positions to all of their interns.|
 ||||
 ||||
 ||||
@@ -554,7 +555,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled|
 |Zocdoc|✅|Fully remote.|
-|ZS|✅|Interviews being cancelled|
 |Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
