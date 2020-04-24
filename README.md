@@ -414,7 +414,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
 |Justworks|✅||
-|Koch Industries|✅|Decision by April 24th.|
+|Koch Industries|✅|Virtual. Laptops being shipped to interns.|
 |Kohl's|✅|Rescinded unaccepted offers. Waiting for information on whether the internship program is cancelled.|
 |KPMG|✅|US - Internship made virtual. Interns offered a full-time position in 2021.|
 |Kroger Digital|✅|100% remote.|
