@@ -478,7 +478,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
 |PlayStation|✅|Remote. Start date moved to June 1st.|
-|PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. $2500 lump-sum payment and full-time 2021 offer.|
+|PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. Lump-sum payment of $2500 for accounting (audit/tax) and $3500 for advisory. Additionally, full-time 2021 offer.|
 |Procter & Gamble|✅|Online except for a few cases. On site possible for last 2 weeks.|
 |Proofpoint|✅|Actively hiring, remote or onsite depends on future situation.|
 |Protiviti|✅|2-week fully remote internship, with full-time offers extended at the end.|
