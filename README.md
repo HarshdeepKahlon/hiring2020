@@ -374,6 +374,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅|Virtual|
 |Ebay|✅|Going virtual.|
+|Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
 |Electronic Arts|✅|Remote|
 |Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
