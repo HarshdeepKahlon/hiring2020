@@ -275,6 +275,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |TransUnion|❌|
 |Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
+|Ugam Solutions|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
 |Under Armour|❌|Rookie Program was canceled, no full time offers.|
 |United Airlines|❌|Cancelled.|
