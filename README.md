@@ -185,7 +185,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Manhattan Associates|❌||
 |Mattel|❌ |Cancelled MBA internships. Need information on others.|
 |Marriot|❌ ||
-|Marsh and Mclennan Agency|❌|Hearing contradictory reports. Needs confirmation.|
+|Marsh and Mclennan Agency|❌|Cancelled internships globally and graduate jobs are deferred until Jan 2021.|
 |Mayo Clinic|❌ |At least IT|
 |M Booth|❌ ||
 |McCann|❌|McCann Wolrldgroup and McCann NY cancelled their internships.|
