@@ -1,9 +1,7 @@
 # Hiring Status - COVID-19
-This document will be updated regularly as new information becomes available. 
+This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**If you are finding the document difficult to navigate through, you can use our website instead which has a search functionality** - [www.hiring20.com](https://hiring20.com/)
-
-If you are on mobile, click "View all of README.md" below to expand the list.
+If you're a **recruiter or a company representative**, we encourage you to verify your current internship status to avoid any false information floating around. Please email us from your official email - cr@hiring20.com . Also, if you are actively hiring, please drop us a mail and we can add/remove your positions here.
 
 **You can also follow us on social media for regular job and status updates.**
 1. **Twitter** - [@hiring2020](https://twitter.com/hiring2020)
@@ -11,7 +9,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 
 **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
-**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
+**Note**: If you are contributing to the actively hiring list, please don't add the entries in alphabetical order. New entries should be added at the top.
 
 ### Actively Hiring List
 
@@ -279,6 +277,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |TransUnion|❌|
 |Trexquant|❌|
 |TripAdvisor|❌|Rescinded full-time offers too.|
+|Ugam Solutions|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
 |Under Armour|❌|Rookie Program was canceled, no full time offers.|
 |United Airlines|❌|Cancelled.|
@@ -561,5 +560,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Zillow|✅|Interviews being cancelled|
 |Zocdoc|✅|Fully remote.|
 |Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
+
+**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
