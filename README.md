@@ -191,7 +191,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Lowe's|❌||
 |M&T Bank|❌||
 |Manhattan Associates|❌||
-|Mattel|❌ |Cancelled MBA internships. Need information on others.|
+|Mattel|❌||
 |Marriot|❌ ||
 |Marsh and Mclennan Agency|❌|Cancelled internships globally and graduate jobs are deferred until Jan 2021.|
 |Mayo Clinic|❌ |At least IT|
