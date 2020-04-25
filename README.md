@@ -482,6 +482,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Pegasystems|✅|Remote.|
 |Peloton|✅|Not cancelling. More details will be shared in coming weeks.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
+|Philips|✅|Going ahead with internships virtually. Students advised to not move for internships and laptops being shipped.|
 |Pioneer Natural Resources|✅|Remote.|
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
