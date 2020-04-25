@@ -143,7 +143,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Garmin|❌ ||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
-|GE Transportation|❌||
+|GE Transportation-Wabtec|❌||
 |Gildan|❌||
 |Globe Life|❌ ||
 |GoCanvas|❌ ||
@@ -403,6 +403,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled).|
 |General Atomics|✅|Considering remote.|
+|General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
 |GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
