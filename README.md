@@ -17,13 +17,12 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
-|Equinix|US|Internship|<ul><li>[Multiple](https://www.linkedin.com/posts/paul-seay-5b975a16b_equinix-applytoday-messageme-activity-6657328122595205120-74EE/)</li></ul>|
 |Amazon|US|Internship|<ul><li>[Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com)</li></ul>|
 |AMD|US|Internship|<ul><li>[Multiple](https://jobs.amd.com/go/Students/2567200/)</li></ul>|
 |Anyscale|US|Internship|<ul><li>[Software Engineering](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5)</li></ul>|
 |Blend|US|Internship|<ul><li>[Software Engineering](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)</li></ul>|
 |Bloomberg|US/UK/HK|Full-time|<ul><li>[Software Engineering](https://www.bloomberg.com/company/engineering/)</li></ul>|
+|Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[Security Compliance Engineer - Intern](https://boards.greenhouse.io/cloudflare/jobs/2166487?gh_jid=2166487)</li></ul>|
 |Cloudflare|US|Internship|<ul><li>[People Data Analyst Internship](https://boards.greenhouse.io/cloudflare/jobs/2164748?gh_jid=2164748)</li></ul>|
@@ -31,6 +30,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Coinbase|US|Internship|<ul><li>[Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
 |Dataminr|US|Internship|<ul><li>[Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21)</li></ul>|
 |Dataminr|US|Internship|<ul><li>[Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
+|Equinix|US|Internship|<ul><li>[Multiple](https://www.linkedin.com/posts/paul-seay-5b975a16b_equinix-applytoday-messageme-activity-6657328122595205120-74EE/)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
 |Frame.io|US|Full-time|<ul><li>[Multiple](https://careers.frame.io/#open-roles)</li></ul>|
@@ -42,6 +42,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Design Intern](https://corp.roblox.com/careers/listing/?gh_jid=1860571)</li></ul>|
+|Shopee|SG|Full-time|<ul><li>[Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (iOS)](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Backend Developer Intern](https://www.shopify.com/careers/backend-developer-intern-also-includes-roles-in-security-fall-2020-391b72)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[UX Developer Intern](https://www.shopify.com/careers/ux-developer-intern-fall-2020-7c2563)</li></ul>|
@@ -66,7 +67,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Software Engineer](https://www.zynga.com/job-listing/rotational-software-engineer-2/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Experience Designer](https://www.zynga.com/job-listing/rotational-experienced-designer/)</li></ul>|
 |Zynga|CA|Full-time|<ul><li>[New Grad Full-Time Rotational Software Engineer](https://www.zynga.com/job-listing/rotational-software-engineer/)</li></ul>|
-|Shopee|SG|Full-time|<ul><li>[Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
 
 ### COVID-19 Summer 2020 Internship Status List
 
@@ -74,159 +74,199 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |:-----------------------------------|:------------------:|:-------------------------------------------------------------------|
 |23andMe|❌||
 |A&E Network|❌|Cancelled their summer 2020 internship program. But extended the offer to summer 2021.|
+|ABB|❌||
 |ABC|❌|All internships now cancelled|
-|Accion Systems|❌ |Cancelled their whole internship program|
-|Ad Council|❌ ||
-|ADTRAN|❌ |Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
-|Airbnb|❌ |Cancelled this summer's internship program with an option to intern next summer.|
-|AKQA|❌ ||
-|Alaska Airlines|❌ ||
-|Alexander Group|❌ ||
-|AlphaSights|❌ |Cancelled. Interns offered full-time jobs.|
-|American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.||
-|Amtrak|❌ ||
+|Accion Systems|❌|Cancelled their whole internship program|
+|Ad Council|❌||
+|ADTRAN|❌|Summer 2020 co-op term canceled. Fall 2020 may also be canceled if full remote does not end by August 2020.|
+|AF Group|❌||
+|AGS Automotive|❌||
+|Airbnb|❌|Cancelled this summer's internship program with an option to intern next summer.|
+|AKQA|❌||
+|Alaska Airlines|❌||
+|Alexander Group|❌||
+|AlphaSights|❌|Cancelled. Interns offered full-time jobs.|
+|American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.|
+|Amtrak|❌||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
-|Apache Corporation|❌ ||
-|APCO Worldwide|❌ ||
-|Applied Medical|❌ ||
+|Apache Corporation|❌||
+|APCO Worldwide|❌||
+|Applied Materials|❌||
+|Applied Medical|❌||
 |ArcelorMittal|❌||
 |Argonne National Laboratory|❌||
-|Arista|❌ ||
+|Arista|❌||
 |Arthrex|❌||
-|AXS|❌ ||
-|Baker Hughes|❌ ||
-|Best Buy|❌ ||
-|Big Spaceship|❌ ||
-|Blackbaud|❌ |Open full time offers are also cancelled|
+|atVenu|❌||
+|AXS|❌||
+|Baker Hughes|❌||
+|Bartle Bogle Hegarty|❌||
+|BECU|❌||
+|Bently Systems|❌||
+|Best Buy|❌||
+|Big Spaceship|❌||
+|Blackbaud|❌|Open full time offers are also cancelled|
+|BluJay Solutions|❌||
 |Boar's Head Brand|❌||
-|Booz Allen Hamilton Summer Games|❌ ||
-|Boston Scientific|❌ |Cancelled all internships and co-ops for all of 2020.|
-|Bright Health|❌ ||
-|BuzzFeed|❌ ||
-|Calvin Klein|❌ ||
+|Booz Allen Hamilton|❌||
+|Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
+|Bright Health|❌||
+|British Airways|❌|Postponed to 2021|
+|Brookings Institution|❌||
+|BuzzFeed|❌||
+|Callaway Golf|❌||
+|Calvin Klein|❌||
 |Cantor Fitzgerald|❌||
+|Cannon|❌||
 |Capitol Music Group|❌||
 |Captify|❌||
 |Carfax|❌||
 |CB Insights|❌||
-|CF Industries|❌ ||
-|Chesapeake Energy|❌ ||
-|Checkr|❌ ||
+|CBIZ|❌||
+|CF Industries|❌||
+|Chesapeake Energy|❌||
+|Checkr|❌||
+|CH Robinson|❌||
+|Civis Analytics|❌||
+|Comcast|❌||
 |ConocoPhillips|❌|5 week pay offered and priority for 2021 internship|
 |Continental|❌||
+|Crayola|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
-|Custom Ink|❌ |Rescinded all internships and full time offers!
+|Custom Ink|❌|Rescinded all internships and full time offers!|
+|DAAD-WISE|❌||
 |Dassault Systems|❌|Rescinding offers in Waltham MA.|
-|DataScan|❌ |Need further verification if all roles cancelled|
+|DataScan|❌|Need further verification if all roles cancelled|
 |Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
+|Defense Counterintelligence and Security Agency|❌||
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
-|DigitalOcean|❌ |Cancelled summer internship program|
+|Diff|❌||
+|DigitalOcean|❌|Cancelled summer internship program|
 |Dillards|❌||
-|Discovery Inc.|❌ ||
-|Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
+|Discovery Inc.|❌||
+|Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.|
 |DNAnexus|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |Dropbox|❌||
-|Echostar|❌ ||
-|EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
-|EVERFI|❌ ||
+|Echostar|❌||
+|EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
+|EVERFI|❌||
+|Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
-|Flipp|❌ | Offers Rescinded|
-|Funding Circle|❌ ||
-|FX|❌ ||
+|Flipp|❌|Offers Rescinded|
+|Forbes|❌||
+|Funding Circle|❌||
+|FX|❌||
 |Gallagher|❌||
-|Gap Inc.|❌ |No compensation offered.|
-|Garmin|❌ ||
-|Gartner|❌ |Even full time offers are getting rescinded|
+|Gap Inc.|❌|No compensation offered.|
+|Garmin|❌||
+|Gartner|❌|Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
 |GE Transportation|❌||
 |Gildan|❌||
-|Globe Life|❌ ||
-|GoCanvas|❌ ||
-|Group Nine Media|❌ ||
-|Groupon|❌ ||
+|Globe Life|❌||
+|GoCanvas|❌||
+|Golden 1 Credit Union|❌||
+|Group Nine Media|❌||
+|Groupon|❌||
 |Guideline|❌||
 |Halff Associates|❌||
 |Halliburton|❌|Interns offered half of the pay for the summer as stipend.|
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
-|Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
-|HCA Healthcare|❌ ||
+|Hawaiian Airlines|❌|Internships and full time hirings cancelled.|
+|HCA Healthcare|❌||
 |Helen of Troy|❌||
+|Hendrickson|❌||
 |Hess Corporation|❌||
-|Hill Holliday|❌ ||
+|Hill Holliday|❌||
+|Hughes|❌||
 |Huhtamaki|❌||
-|iCIMS|❌ |
-|IDEMIA|❌ |
-|IDEO|❌ |Ideo.org too|
-|IGN|❌ ||
-|iHeartMedia|❌ ||
-|IHS Markit|❌ |Needs further confirmation.|
-|Indeed|❌ |Summer internships cancelled.|
-|InterSystems|❌ |
-|Interbrand|❌ |
-|IPG MediaBrands|❌ |
+|Husky Energy|❌||
+|iCIMS|❌||
+|IDEMIA|❌||
+|IDEO|❌|Ideo.org too|
+|IGN|❌||
+|iHeartMedia|❌||
+|IHS Markit|❌|Needs further confirmation.|
+|Indeed|❌|Summer internships cancelled.|
+|InterSystems|❌||
+|Interbrand|❌||
+|IPG MediaBrands|❌||
 |JetBlue|❌|Deferred to Summer 2021.|
+|John Deere|❌||
+|Jordan Blanchard Capital|❌||
 |Kabbage|❌||
 |Kaiser Permanente|❌||
-|Kayak|❌ ||
-|Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
-|Keen|❌ ||
-|Kepler Group|❌ |Cancelled summer 2020 internship program|
-|Kin and Carta|❌ ||
+|Kayak|❌||
+|Kearney|❌|MBA. London - Cancelled. Chicago - Virtual.|
+|Keen|❌||
+|Kepler Group|❌|Cancelled summer 2020 internship program|
+|Klick Health|❌||
+|Kin and Carta|❌||
 |Kitty Hawk|❌||
 |Kohler Engines|❌||
 |Lands' End|❌||
-|LLamasoft|❌ ||
-|LEK consulting|❌ |Cancelled their internship program but offered interns full time 2021 offers.|
-|LendingClub|❌ ||
-|Leo Burnett|❌ ||
+|L Brands|❌||
+|LEK consulting|❌|Cancelled their internship program but offered interns full time 2021 offers.|
+|LendingClub|❌||
+|Leo Burnett|❌||
 |Lifeway Christian Resources|❌||
-|Lime|❌ ||
-|L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
+|Lime|❌||
+|LLamasoft|❌||
+|L.L. Bean|❌||
+|L'Oréal|❌|Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
 |M&T Bank|❌||
 |Manhattan Associates|❌||
-|Mattel|❌ |Cancelled MBA internships. Need information on others.|
-|Marriot|❌ ||
+|Mattel|❌|Cancelled MBA internships. Need information on others.|
+|Marriot|❌||
 |Marsh and Mclennan Agency|❌|Cancelled internships globally and graduate jobs are deferred until Jan 2021.|
-|Mayo Clinic|❌ |At least IT|
-|M Booth|❌ ||
+|Mayo Clinic|❌|At least IT|
+|M Booth|❌||
 |McCann|❌|McCann Wolrldgroup and McCann NY cancelled their internships.|
 |Medicus Healthcare Solutions|❌||
 |Medline Industries|❌|Cancelled its internship program. Interns will get interview preference for full-time jobs after graduation.|
 |Mercedez Benz|❌||
 |Mercer|❌||
-|MIT Lincoln Laboratory|❌ |Cancelled summer research program for interns|
-|Mrytle Beach Pelicans|❌ ||
-|MullenLowe|❌ ||
-|National Geographic|❌ |
-|National Institutes of Health|❌ ||
-|National Security Agency|❌ |Cancelled all summer 2020 intternships|
-|Nationwide|❌ ||
+|Micron|❌||
+|MIT Lincoln Laboratory|❌|Cancelled summer research program for interns|
+|Mrytle Beach Pelicans|❌||
+|MullenLowe|❌||
+|National Geographic|❌|
+|National Institutes of Health|❌||
+|National Security Agency|❌|Cancelled all summer 2020 intternships|
+|Nationwide|❌||
 |Naval Research Enterprise Internship Program|❌|Cancelled all summer 2020 internships, but will still process SECRET clearances| 
 |NBC Olympic|❌||
 |Newell Brands|❌||
 |New York Air Brake|❌||
 |Nielsen|❌||
 |Nissan|❌||
-|No Kid Hungry|❌ |Suspended the Summer 2020 session of the John M. Green Internship Program|
-|Norfolk Southern|❌ ||
-|Nordstrom |❌ |Cancelled all technology internships.|
-|NPR|❌ ||
+|No Kid Hungry|❌|Suspended the Summer 2020 session of the John M. Green Internship Program|
+|Norfolk Southern|❌||
+|Nordstrom |❌|Cancelled all technology internships.|
+|Northwest Permanente|❌||
+|NPR|❌||
 |Occidental Petroleum|❌||
-|Oliver Wyman|❌ |Replaced with full-time offers. Few students didn't receive full-time offers.|
-|OneWeb|❌ |Went bankrupt|
-|OpenTable|❌ ||
+|Oliver Wyman|❌|Replaced with full-time offers. Few students didn't receive full-time offers.|
+|OneWeb|❌|Went bankrupt|
+|OpenTable|❌||
+|Outlier|❌||
 |Owens Corning|❌ ||
+|Paccar|❌||
 |Pariveda Solutions|❌||
+|Paycom|❌|Hiring freeze until at least July|
+|PBS|❌||
 |Pearson VUE|❌||
-|Paycom|❌ |Hiring freeze until at least July|
+|Phoenix Children's Hospital|❌||
+|Ping Identity|❌||
+|Pixar Animation Studios|❌||
 |PluralSight|❌||
 |Pratt & Whitney|❌||
-|Primer|❌ ||
+|Primer|❌||
 |PROCEPT BioRobotics|❌||
-|PSB|❌ |Need confirmation|
+|PSB|❌|Need confirmation|
 |Quantcast|❌|Summer internships cancelled.|
 |QuantumScope|❌ |Cancelled|
 |Quora|❌|Cancelled.|
@@ -234,16 +274,23 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Randa Accessories|❌||
 |Redfin|❌||
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
-|REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
-|Rent The Runway|❌ ||
-|R/GA|❌ ||
-|Roku|❌ ||
-|Saatchi & Saatchi|❌ ||
-|Salem Red Sox|❌ ||
-|Schlumberger|❌ |Internship and full-time offers rescinded|
-|Secret Mission Software|❌ ||
-|Seattle Genetics, Inc.|❌ ||
-|Simon Kucher & Partners|❌ ||
+|REI|❌|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
+|Rent The Runway|❌||
+|R/GA|❌||
+|Roche|❌||
+|Roku|❌||
+|Rolls Royce|❌||
+|Saatchi & Saatchi|❌||
+|Salem Red Sox|❌||
+|Schlumberger|❌|Internship and full-time offers rescinded|
+|Schneider Electric|❌||
+|Secret Mission Software|❌||
+|Seattle Genetics, Inc.|❌||
+|Shamrock Foods|❌||
+|Sherwin Williams|❌||
+|Showpass|❌||
+|Simon Kucher & Partners|❌||
+|Skip Hop|❌||
 |Sleep Number|❌||
 |Sling TV|❌|Cancelled their entire summer internship program for 2020, including MBAs and undergrads|
 |SnapTravel|❌||
@@ -255,25 +302,31 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Springbuk|❌||
 |Stanford Health Care|❌||
 |StitchFix|❌||
+|St. Jude Children's Research Hospital|❌||
+|Strategic Education|❌||
+|Strategy&|❌||
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
-|Sumo Logic|❌| Both Summer and Fall. Rescining full-time offers too.|
-|Sysco|❌| Cancelled all internships offers and some full time .||
+|Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
+|Sysco|❌|Cancelled all internships offers and some full time.|
+|T-Mobile|❌||
 |Team One|❌||
 |Tegna Inc.|❌||
 |Tenable|❌||
+|The Boston Globe|❌||
 |The Good Year Tire & Rubber Company|❌||
+|The Hut Group|❌||
 |Thermo Fisher Scientific|❌||
 |Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|❌|Canceled their summer internship program.|
 |TJX|❌||
-|Toast|❌| Internships in Boston cancelled. Full-time offers too.|
+|Toast|❌|Internships in Boston cancelled. Full-time offers too.|
 |Toyota Connected|❌||
 |TPRI|❌||
 |Transamerica|❌||
-|TransUnion|❌|
-|Trexquant|❌|
+|TransUnion|❌||
+|Trexquant|❌||
 |TripAdvisor|❌|Rescinded full-time offers too.|
 |Ultimate Software|❌|Offering deferment of internships to TBD future term(s)|
 |Under Armour|❌|Rookie Program was canceled, no full time offers.|
@@ -282,7 +335,11 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Uplift|❌||
 |Uponor|❌||
 |Urban Outfitters (URBN)|❌||
+|USLI|❌||
 |USTA 2020 D&I|❌|| 
+|Valkyrie Investments|❌||
+|Verily|❌||
+|Vergin Hyperloop One|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -292,10 +349,14 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Warner Music Group|❌||
 |Wayfair|❌|Some positions not cancelled. Notably E-Commerce.|
 |WeRide.ai|❌||
+|William Morris Endeavor|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
 |Workday|❌|5k stipend being provided to interns|
+|Xcel Energy|❌||
 |Yelp|❌||
+|Yubico|❌||
+|Zenith Insurance|❌||
 |ZS|❌|Cancelled their internship program but are offering full time positions to all of their interns.|
 ||||
 ||||
@@ -374,7 +435,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
-|Dropbox|✅|Virtual|
 |Ebay|✅|Going virtual.|
 |Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
 |Electronic Arts|✅|Remote|
@@ -396,7 +456,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Flexport|✅|Cancelling 60% of their summer internships and moving the rest to remote. Across Engineering, Data and Design.|
 |Ford Motor Company|✅|Remote. Delayed June start date. Duration reduced to 6-8 weeks.|
 |Gemography|✅|Remote Internship|
-|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled).|
+|Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled, manufacturing internships cancelled at Oceanside location).|
 |General Atomics|✅|Considering remote.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
@@ -515,7 +575,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
 |SurveyMonkey|✅|Fully virtual.|
-|T-Mobile|✅|Monitoring situation|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
 |Target|✅|Software internships are virtual at Target, length reduced to 8 weeks. Executive Leadership Interns are still scheduled to work in stores on location this summer.|
@@ -536,7 +595,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |USAA|✅|Fully remote|
 |US Bank|✅|Remote|
 |Vanguard|✅|Decision by Mar 27|
-|Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
 |ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
@@ -553,9 +611,9 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Wish|✅|Hiring Freeze|
 |Xandr|✅|Fully remote.|
 |Xilinx|✅|Remote Internship|
+|Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
 |Zebra Technology|✅||
 |Zillow|✅|Interviews being cancelled|
 |Zocdoc|✅|Fully remote.|
-|Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
