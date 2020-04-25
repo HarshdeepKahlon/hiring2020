@@ -129,6 +129,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
 |DNAnexus|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
+|DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
 |Dropbox|❌||
 |Echostar|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
