@@ -11,8 +11,6 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 
 **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
-**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
-
 ### Actively Hiring List
 
 |               Company              | Country |       Job Type      |                    Position
@@ -562,5 +560,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Zillow|✅|Interviews being cancelled|
 |Zocdoc|✅|Fully remote.|
 |Yahoo (Verizon Media)|✅||Remote possible. Hiring freeze at Verizon Media.|
+
+**Disclaimer** - This list is crowdsourced. Hence, it's possible some of the information here is not accurate. If you come across something that's incorrect, please bring it to our attention and we'll correct it. <br/>
 
 This list is based on the initial list compiled by [Alex Wallish](https://www.alexwallish.com/). You can find his repo [here](https://github.com/awallish/Internship-Status-2020)
