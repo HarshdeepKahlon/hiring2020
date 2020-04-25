@@ -477,7 +477,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Palo Alto Networks|✅ |Fully remote|
 |Pandora|✅||
 |PayPal|✅|Remote work for all North America interns|
-|Pegasystems|✅||
+|Pegasystems|✅|Remote.|
 |Peloton|✅|Not cancelling. More details will be shared in coming weeks.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
 |Pioneer Natural Resources|✅|Remote.|
