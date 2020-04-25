@@ -9,6 +9,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 **Contribute by making a pull request or drop us a message on Twitter at [@hiring2020](https://twitter.com/hiring2020)**
 
+**Note**: If you are contributing to the actively hiring list, please don't add the entries in alphabetical order. New entries should be added at the top.
+
 ### Actively Hiring List
 
 |               Company              | Country |       Job Type      |                    Position
