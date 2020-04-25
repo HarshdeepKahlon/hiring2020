@@ -146,6 +146,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Gildan|❌||
 |Globe Life|❌ ||
 |GoCanvas|❌ ||
+|Green Dot|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
