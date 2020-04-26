@@ -353,6 +353,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bloomberg|✅|Remote.|
 |BNP Paribas|✅|Postponed start date to June 29. But will stick to original 10 week compensation.|
 |Boeing|✅|Will be going remote.|
+|Boston Consulting Group (BCG)|✅|Gave interns full time offers. The internship (which is virtual now) is shortened to 7-10 weeks.|
 |BP|✅|Will be virtual.|
 |Braze|✅||
 |ByteDance|✅|Internship not cancelled. Global hiring expansion this year.|
