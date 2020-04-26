@@ -555,7 +555,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |US Bank|✅|Remote|
-|Vanguard|✅|Decision by Mar 27|
+|Vanguard|✅|Virtual Internships|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
