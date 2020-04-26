@@ -129,6 +129,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
 |DNAnexus|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
+|DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
 |Dropbox|❌||
 |Echostar|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
@@ -142,10 +143,11 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Garmin|❌ ||
 |Gartner|❌ |Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
-|GE Transportation|❌||
+|GE Transportation-Wabtec|❌||
 |Gildan|❌||
 |Globe Life|❌ ||
 |GoCanvas|❌ ||
+|Green Dot|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
 |Guideline|❌||
@@ -189,7 +191,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Lowe's|❌||
 |M&T Bank|❌||
 |Manhattan Associates|❌||
-|Mattel|❌ |Cancelled MBA internships. Need information on others.|
+|Mattel|❌||
 |Marriot|❌ ||
 |Marsh and Mclennan Agency|❌|Cancelled internships globally and graduate jobs are deferred until Jan 2021.|
 |Mayo Clinic|❌ |At least IT|
@@ -389,7 +391,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |ExxonMobil|✅|Pushed start dates to June 1st.|
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
-|Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided.|
+|Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided. Some internships cancelled due to reasons like interns moved out of US or remote work not possible for the job.|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
@@ -401,6 +403,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Gemography|✅|Remote Internship|
 |Genentech|✅|Moved majority of internships virtual (a portion of internships in R&D were cancelled).|
 |General Atomics|✅|Considering remote.|
+|General Electric|✅|Confirmed by company representative. No cancellations. Info by May 1.|
 |General Motors|✅|Delayed to beginning of June. Needs confirmation.|
 |Giphy|✅|Hiring Freeze|
 |GLAAD|✅|Hiring Freeze. Not planning to hire new interns until September.|
@@ -477,9 +480,10 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Palo Alto Networks|✅ |Fully remote|
 |Pandora|✅||
 |PayPal|✅|Remote work for all North America interns|
-|Pegasystems|✅||
+|Pegasystems|✅|Remote.|
 |Peloton|✅|Not cancelling. More details will be shared in coming weeks.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
+|Philips|✅|Going ahead with internships virtually. Students advised to not move for internships and laptops being shipped.|
 |Pioneer Natural Resources|✅|Remote.|
 |Piper Sandler|✅|Internship down to 6 weeks with start date now at the end of June.|
 |Plaid|✅|Interviews being cancelled|
