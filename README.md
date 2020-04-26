@@ -138,7 +138,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |DigitalOcean|❌ |Cancelled summer internship program|
 |Dillards|❌||
 |Discovery Inc.|❌ ||
-|Disney|❌|Cancelled Engineering/ IT roles. Not just diversity program. Also, some teams (Industrial engineering) haven't cancelled.||
+|Disney|❌|Cancelled some Engineering/IT roles. Not just diversity program. Also, some teams (Industrial and Software Engineering) haven't cancelled, but gone remote.||
 |DNAnexus|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
