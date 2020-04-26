@@ -203,6 +203,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |L'Oréal|❌ |Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
 |M&T Bank|❌||
+|Magnopus|❌||
 |Manhattan Associates|❌||
 |Mattel|❌||
 |Marriot|❌ ||
@@ -455,7 +456,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Lockheed Martin|✅||
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
-|Magnopus|✅|Slight possibility they might cancel.|
 |Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
 |MarketAxess|✅|Won't be cancelling. Moving remote.|
