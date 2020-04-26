@@ -109,6 +109,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Arthrex|❌||
 |AXS|❌ ||
 |Baker Hughes|❌ ||
+|Belvedere trading|❌|Cancelled their internship program for junior traders. The other roles are not cancelled yet. Full time new hires start date pushed back as well.|
 |Best Buy|❌ ||
 |Big Spaceship|❌ ||
 |Blackbaud|❌ |Open full time offers are also cancelled|
@@ -345,7 +346,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bank of America|✅||
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
-|Belvedere trading|✅||
 |BlackRock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
 |Blade|✅|Currently no plans to change anything|
 |Blend|✅|[Actively Hiring](https://blend.com/company/careers/opening/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)|
