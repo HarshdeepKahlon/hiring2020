@@ -15,6 +15,18 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Framework|US|Internship|<ul><li>[Electrical Engineering Intern](https://jobs.lever.co/framework/270a87d6-2c90-40f7-b467-535f62158cb1)</li></ul>|
+|Framework|US|Internship|<ul><li>[Firmware Intern](https://jobs.lever.co/framework/a4598a78-1c5f-4f77-8333-2f38e76744da)</li></ul>|
+|Mulberry|US|Internship|<ul><li>[Data Science & Analytics Internship](https://hire.withgoogle.com/public/jobs/getmulberrycom/view/P_AAAAAADAAHXDQ22ttRRRVq)</li></ul>|
+|RefleXion Medical|US|Internship|<ul><li>[Data Science Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2071981)</li></ul>|
+|RefleXion Medical|US|Internship|<ul><li>[Firmware Engineering Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2156083)</li></ul>|
+|RefleXion Medical|US|Internship|<ul><li>[Software Test Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2153933)</li></ul>|
+|Rivian|US|Internship|<ul><li>[Multiple](https://rivian.com/careers/)</li></ul>|
+|The Round|US|Internship|<ul><li>[Marketing Intern](https://www.notion.so/Marketing-Intern-The-Round-72c0eb64d4584abe80967bdc5e0dbcfc)</li></ul>|
+|The Round|US|Internship|<ul><li>[Intern - Full-stack Engineer](https://www.notion.so/Intern-Full-stack-Engineer-The-Round-746146bc54b94ba382ca06f7e460555e)</li></ul>|
+|Zipline|US|Internship|<ul><li>[Test Operations Internship](https://jobs.lever.co/flyzipline/530832fd-3fbc-40f1-ba4f-8d0cd7495493)</li></ul>|
+|Zipline|US|Co-op/Internship|<ul><li>[Electrical Engineer](https://jobs.lever.co/flyzipline/8d73b761-13bb-45a7-8c69-e793dfc28ddc)</li></ul>|
+|Databricks|US|Full-time|<ul><li>[Software Engineer - New Grad](https://databricks.com/company/careers/open-positions/job?gh_jid=4364076002)</li></ul>|
 |Amazon|US|Internship|<ul><li>[Amazon Science Internships](https://amazonscienceinternships2020.splashthat.com)</li></ul>|
 |AMD|US|Internship|<ul><li>[Multiple](https://jobs.amd.com/go/Students/2567200/)</li></ul>|
 |Anyscale|US|Internship|<ul><li>[Software Engineering](https://jobs.lever.co/anyscale/31505685-4719-44c5-b7d1-e8409b233da5)</li></ul>|
