@@ -276,6 +276,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
+|SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌| Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌| Cancelled all internships offers and some full time .||
 |Team One|❌||
