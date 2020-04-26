@@ -508,6 +508,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Protiviti|✅|2-week fully remote internship, with full-time offers extended at the end.|
 |Qualcomm|✅|Fully remote.|
 |Qualtrics|✅|Fully remote.|
+|Quicken Loans|✅|Start date moved to early June. Considering remote, decision by early May.|
 |Raytheon BBN|✅|Cancellation unlikely|
 |Reddit|✅|Remote. Needs confirmation.|
 |RedHat|✅|Remote. Needs confirmation.|
