@@ -338,6 +338,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |The Good Year Tire & Rubber Company|❌||
 |The Hut Group|❌||
 |Thermo Fisher Scientific|❌||
+|Thomson Reuters|❌||
 |Thumbtack|❌|Rescinded offers for summer internships and new grad roles.|
 |Ticketmaster|❌|Canceled their summer internship program.|
 |TJX|❌||
