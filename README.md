@@ -116,6 +116,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Baker Hughes|❌||
 |Bartle Bogle Hegarty|❌||
 |BECU|❌||
+|Belvedere trading|❌|Cancelled their internship program for junior traders. The other roles are not cancelled yet. Full time new hires start date pushed back as well.|
 |Bently Systems|❌||
 |Best Buy|❌||
 |Big Spaceship|❌||
@@ -234,6 +235,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |L'Oréal|❌|Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
 |M&T Bank|❌||
+|Magnopus|❌||
 |Manhattan Associates|❌||
 |Mattel|❌||
 |Marriot|❌||
@@ -325,6 +327,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
+|SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌|Cancelled all internships offers and some full time.|
 |T-Mobile|❌||
@@ -418,7 +421,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Becton Dickinson |✅|Remote|
-|Belvedere trading|✅||
 |Benevity|✅|Remote|
 |Bethesda|✅|Hiring Freeze|
 |BlackRock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
@@ -432,7 +434,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bobcat|✅||
 |Boeing|✅|Will be going remote.|
 |Bosch|✅|Remote|
-|Boston Consulting Group|✅||
+|Boston Consulting Group (BCG)|✅|Gave interns full time offers. The internship (which is virtual now) is shortened to 7-10 weeks.|
 |BP|✅|Will be virtual.|
 |Braze|✅||
 |Bristol Myers Squibb|✅||
@@ -587,7 +589,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Los Alamos National Labs|✅|Hiring Freeze|
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
-|Magnopus|✅|Slight possibility they might cancel.|
 |Manulife Canada|✅|Remote|
 |Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
@@ -663,6 +664,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Q2E Banking|✅|Remote|
 |Qualcomm|✅|Fully remote.|
 |Qualtrics|✅|Fully remote.|
+|Quicken Loans|✅|Start date moved to early June. Considering remote, decision by early May.|
 |Raytheon BBN|✅|Cancellation unlikely|
 |Raytheon Technologies|✅||
 |Reddit|✅|Remote. Needs confirmation.|
@@ -733,7 +735,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |US Bank|✅|Remote|
-|Vanguard|✅|Decision by Mar 27|
+|Vanguard|✅|Virtual Internships|
+|Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
 |Verizon|✅|Decision by Apr 30|
 |ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
