@@ -152,7 +152,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |DAAD-WISE|❌||
 |Dassault Systems|❌|Rescinding offers in Waltham MA.|
 |DataScan|❌|Need further verification if all roles cancelled|
-|Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
+|Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded, will be online.|
 |Defense Counterintelligence and Security Agency|❌||
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
@@ -164,7 +164,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |DNAnexus|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
-|Dropbox|❌||
 |Echostar|❌||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
 |EVERFI|❌||
@@ -492,6 +491,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
+|Dropbox|✅||
 |Ebay|✅|Going virtual.|
 |edX|✅||
 |Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
@@ -637,7 +637,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Optiver|✅|Won't cancel. Remote if needed.|
 |Oracle|✅|Confirmed to be virtual. Start date and duration will remain same.|
 |Orbis Investment|✅|Remote|
-|Oscar Health|✅|Not planning to cancel. Remote/In-person decision by mid-April|
+|Oscar Health|✅|Fully remote, same start date, full pay, no more housing stipend.|
 |OSIsoft|✅|Reduced to 10 weeks instead of 12, laptops will be mailed. Hire on bonus for relocation and transportation is reduced unless expenses have already been accrued.|
 |Pacific Lift|✅|Remote|
 |Pagerduty|✅|Fully remote.|
@@ -699,6 +699,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Snap|✅|Remote|
 |Snowflake|✅|Remote internship for now. US interns may move to on-site depending on the situation and International interns will work from home 100%.|
 |Sonos|✅| Remote work, internship date reduced from 12 to 8 weeks|
+|Sony Interactive Entertainment|✅|Internship program will be fully online for summer 2020.|
 |Southwestern Advantage|✅|Hiring|
 |Southwest Research Institute|✅||
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
