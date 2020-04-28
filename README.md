@@ -152,7 +152,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |DAAD-WISE|❌||
 |Dassault Systems|❌|Rescinding offers in Waltham MA.|
 |DataScan|❌|Need further verification if all roles cancelled|
-|Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded yet. Needs further confirmation.|
+|Datto|❌|Cybersecurity internships cancelled. No option to defer to next year. SWE internship offers not rescinded, will be online.|
 |Defense Counterintelligence and Security Agency|❌||
 |Delta Airline|❌|Rescinding offers.|
 |Designer Brands|❌||
