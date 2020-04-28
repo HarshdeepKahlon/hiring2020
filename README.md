@@ -699,6 +699,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Snap|✅|Remote|
 |Snowflake|✅|Remote internship for now. US interns may move to on-site depending on the situation and International interns will work from home 100%.|
 |Sonos|✅| Remote work, internship date reduced from 12 to 8 weeks|
+|Sony Interactive Entertainment|✅|Internship program will be fully online for summer 2020.|
 |Southwestern Advantage|✅|Hiring|
 |Southwest Research Institute|✅||
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
