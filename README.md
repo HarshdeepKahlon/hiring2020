@@ -15,6 +15,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Pogo|US|Internship|<ul><li>[Product Design Summer Intern](https://jumpstart.me/discover/jobs/pogo/product-design-summer-intern/b231a633-9736-43d5-a44b-8accd2f31452)</li></ul>|
+|Pogo|US|Full-time|<ul><li>[Fullstack Software Engineer](https://jumpstart.me/discover/jobs/pogo/fullstack-software-engineer/bb940d77-f148-4a9d-896e-3dd2a9a2a3ca)</li></ul>|
 |Framework|US|Internship|<ul><li>[Electrical Engineering Intern](https://jobs.lever.co/framework/270a87d6-2c90-40f7-b467-535f62158cb1)</li></ul>|
 |Framework|US|Internship|<ul><li>[Firmware Intern](https://jobs.lever.co/framework/a4598a78-1c5f-4f77-8333-2f38e76744da)</li></ul>|
 |Mulberry|US|Internship|<ul><li>[Data Science & Analytics Internship](https://hire.withgoogle.com/public/jobs/getmulberrycom/view/P_AAAAAADAAHXDQ22ttRRRVq)</li></ul>|
