@@ -637,7 +637,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Optiver|✅|Won't cancel. Remote if needed.|
 |Oracle|✅|Confirmed to be virtual. Start date and duration will remain same.|
 |Orbis Investment|✅|Remote|
-|Oscar Health|✅|Not planning to cancel. Remote/In-person decision by mid-April|
+|Oscar Health|✅|Fully remote, same start date, full pay, no more housing stipend.|
 |OSIsoft|✅|Reduced to 10 weeks instead of 12, laptops will be mailed. Hire on bonus for relocation and transportation is reduced unless expenses have already been accrued.|
 |Pacific Lift|✅|Remote|
 |Pagerduty|✅|Fully remote.|
