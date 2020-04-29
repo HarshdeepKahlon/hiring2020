@@ -573,7 +573,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |JumpTrading|✅||
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
-|Justworks|✅||
+|Justworks|✅|Virtual. Same start date.|
 |Ketsight Technologies|✅||
 |Khan Academy|✅|remote or on-site by end of April|
 |Kiewit|✅|Start date moved later|
