@@ -514,7 +514,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
-|Fiat/FCA|✅|Made internship virtual. Laptops being shipped. FCA intends for a end of internship summit at HQ to present work of the interns. Ten week program startimng from June 1.|
+|Fiat/FCA|✅|Made internship virtual. Laptops being shipped. FCA intends for an end of internship summit at HQ to present work of the interns. Ten week program startimng from June 1.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |FINRA|✅|Remote|
