@@ -15,6 +15,22 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Piano|US|Internship|<ul><li>[Project Manager Summer Internship](https://hire.withgoogle.com/public/jobs/pianoio/view/P_AAAAAACAAEeN66xIkCJpcx)</li></ul>|
+|Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
+|Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
+|Power Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
+|Power Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
+|Power Storage|US|Internship|<ul><li>[Marketing Intern, Competitive Intelligence](https://boards.greenhouse.io/purestorage/jobs/2124599)</li></ul>|
+|Power Storage|US|Internship|<ul><li>[Marketing Intern, Project Management](https://boards.greenhouse.io/purestorage/jobs/2125670)</li></ul>|
+|Power Storage|US|Full-time|<ul><li>[Software Engineer Grad](https://boards.greenhouse.io/purestorage/jobs/1834451)</li></ul>|
+|SunPower|US|Internship|<ul><li>[Project Development Intern](https://careers.sunpower.com/job/Boston-Project-Development-Intern-MA-02108/647069100/)</li></ul>|
+|Vouch Insurance|US|Internship|<ul><li>[Insurance Operations Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059835003?gh_jid=4059835003)</li></ul>|
+|Vouch Insurance|US|Internship|<ul><li>[Summer MBA Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059816003?gh_jid=4059816003)</li></ul>|
+|Argo AI|US|Internship|<ul><li>[Hardware Technical Program Manager Intern](https://www.argo.ai/join-us/#j1857895)</li></ul>|
+|Argo AI|US|Internship|<ul><li>[Lidar Processing](https://www.argo.ai/join-us/#j1939540)</li></ul>|
+|Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Analytics](https://www.argo.ai/join-us/#j2129448)</li></ul>|
+|Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Autonomy](https://www.argo.ai/join-us/#j1870403)</li></ul>|
+|Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Onboard Infrastructure, C++](https://www.argo.ai/join-us/#j1862007)</li></ul>|
 |Pogo|US|Internship|<ul><li>[Product Design Summer Intern](https://jumpstart.me/discover/jobs/pogo/product-design-summer-intern/b231a633-9736-43d5-a44b-8accd2f31452)</li></ul>|
 |Pogo|US|Full-time|<ul><li>[Fullstack Software Engineer](https://jumpstart.me/discover/jobs/pogo/fullstack-software-engineer/bb940d77-f148-4a9d-896e-3dd2a9a2a3ca)</li></ul>|
 |Framework|US|Internship|<ul><li>[Electrical Engineering Intern](https://jobs.lever.co/framework/270a87d6-2c90-40f7-b467-535f62158cb1)</li></ul>|
