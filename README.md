@@ -118,7 +118,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Baker Hughes|❌||
 |Bartle Bogle Hegarty|❌||
 |BECU|❌||
-|Belvedere trading|❌|Cancelled their internship program for junior traders. The other roles are not cancelled yet. Full time new hires start date pushed back as well.|
+|Belvedere trading|❌|Cancelled their internship program for junior traders. Hybrid trader intern and software engineering intern roles will be moved to remote. Full time new hires start date pushed back as well.|
 |Bently Systems|❌||
 |Best Buy|❌||
 |Big Spaceship|❌||
