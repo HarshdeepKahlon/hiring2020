@@ -509,6 +509,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided. Some internships cancelled due to reasons like interns moved out of US or remote work not possible for the job.|
+|FactSet|✅|For client solutions interns, virtual for 7 weeks from June 15 to July 31st.|
 |Fandago|✅|Hiring Freeze|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
