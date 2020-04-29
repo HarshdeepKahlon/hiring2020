@@ -708,6 +708,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
+|SPS Commerce|✅|Remote.|
 |Square|✅|Remote|
 |Starbucks|✅|Remote.|
 |State Farm|✅|Moving to virtual|
