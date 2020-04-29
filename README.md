@@ -212,7 +212,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Interbrand|❌||
 |IPG MediaBrands|❌||
 |JetBlue|❌|Deferred to Summer 2021.|
-|John Deere|❌||
 |Jordan Blanchard Capital|❌||
 |Kabbage|❌||
 |Kaiser Permanente|❌||
@@ -569,7 +568,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Intuitive Surgical|✅|Still paying me a lump sum of half of the wage we would have received while working there|
 |Jane Street|✅|Planning for remote.|
 |JDA Software|✅||
-|John Deere|✅|Not cancelling.|
+|John Deere|✅|Start date for all has been pushed back to June 15.|
 |Johnson and Johnson|✅|Providence RI branch is going through with their co-op program|
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |JumpTrading|✅||
