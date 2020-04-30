@@ -765,7 +765,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Talend|✅|Remote Internship|
 |Target|✅|Software internships are virtual at Target, length reduced to 8 weeks. Executive Leadership Interns are still scheduled to work in stores on location this summer.|
 |Tesla|✅|Hiring for summer, aiming for onsite, preparing for remote internships if possible|
-|Texas Instruments|✅|Hiring|
+|Texas Instruments|✅||
 |Textron Aviation|✅|Start date pushed to June 29th. Changes in location.|
 |The Aerospace Corporation|✅|Won't be cancelling. Considering remote. Details in coming weeks.|
 |The Hartford|✅|Remote|
