@@ -68,8 +68,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Mulberry|US|Internship|<ul><li>[Data Science & Analytics Internship](https://hire.withgoogle.com/public/jobs/getmulberrycom/view/P_AAAAAADAAHXDQ22ttRRRVq)</li></ul>|
 |RefleXion Medical|US|Internship|<ul><li>[Data Science Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2071981)</li></ul>|
 |RefleXion Medical|US|Internship|<ul><li>[Firmware Engineering Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2156083)</li></ul>|
-|RefleXion Medical|US|Internship|<ul><li>[Software Test Intern](https://boards.greenhouse.io/reflexionmedical/jobs/2153933)</li></ul>|
-|Rivian|US|Internship|<ul><li>[Multiple](https://rivian.com/careers/)</li></ul>|
 |The Round|US|Internship|<ul><li>[Marketing Intern](https://www.notion.so/Marketing-Intern-The-Round-72c0eb64d4584abe80967bdc5e0dbcfc)</li></ul>|
 |The Round|US|Internship|<ul><li>[Intern - Full-stack Engineer](https://www.notion.so/Intern-Full-stack-Engineer-The-Round-746146bc54b94ba382ca06f7e460555e)</li></ul>|
 |Zipline|US|Internship|<ul><li>[Test Operations Internship](https://jobs.lever.co/flyzipline/530832fd-3fbc-40f1-ba4f-8d0cd7495493)</li></ul>|
@@ -82,9 +80,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bloomberg|US/UK/HK|Full-time|<ul><li>[Software Engineering](https://www.bloomberg.com/company/engineering/)</li></ul>|
 |Citadel|US|Internship & Full-time|<ul><li>[Multiple](https://www.citadel.com/careers/open-positions/positions-for-students/)</li></ul>|
 |Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
-|Dataminr|US|Internship|<ul><li>[Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21)</li></ul>|
-|Dataminr|US|Internship|<ul><li>[Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
 |Equinix|US|Internship|<ul><li>[Multiple](https://equinix.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[MBA Product Management Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4040724003)</li></ul>|
 |EverQuote|US|Internship|<ul><li>[Quantitative Analyst Intern, Summer 2020](https://careers.everquote.com/?url=job&gh_jid=4022013003)</li></ul>|
@@ -95,7 +90,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Nvidia|US|Internship|<ul><li>[Developer Technology Intern - AI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern---AI_JR1920532)</li></ul>|
 |PagerDuty|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/pagerduty)</li></ul>|
 |Point72|US|Internship & Full-time|<ul><li>[Multiple](https://careers.point72.com/CSCareerSearch)</li></ul>|
-|PubNub|US|Internship|<ul><li>[Product Marketing Intern](https://www.pubnub.com/company/careers/?gh_jid=2154026)</li></ul>|
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Design Intern](https://corp.roblox.com/careers/listing/?gh_jid=1860571)</li></ul>|
@@ -108,19 +102,14 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (Android)](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Web Developer Intern](https://www.shopify.com/careers/web-developer-intern-fall-2020-e27054)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Digital Product Design Intern](https://www.shopify.com/careers/digital-product-design-intern-fall-2020-868e44)</li></ul>|
-|SpaceX|US|Internship|<ul><li>[Summer 2020 Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/4383187002?gh_jid=4383187002)</li></ul>|
-|Stitch Fix|US|Internship|<ul><li>[Data Science Intern - AI Instruments](https://www.stitchfix.com/careers/jobs?gh_jid=2164030&gh_jid=2164030)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Production Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2115044)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Third Party Risk Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2054899)</li></ul>|
-|Zippity Cars|US|Internship|<ul><li>[Software Development Intern](http://zippitycars.com/jobs/sw-intern) (Summer 2020)</li></ul>|
 |Zippity Cars|US|Full-time|<ul><li>[Full-Stack Software Engineer](https://zippitycars.com/jobs/sweng)</li></ul>|
 |Zoom|US|Internship|<ul><li>[SDK Engineer Intern](https://jobs.lever.co/zoom/8a76f470-da4d-4e90-a341-8efd7de62878)</li></ul>|
 |Zoom|US|Full-time|<ul><li>[Multiple](https://jobs.lever.co/zoom)</li></ul>|
 |Zscaler|US|Internship|<ul><li>[Product Management Security Intern](https://jobs.jobvite.com/zscaler/job/oXYucfwl)</li></ul>|
 |Zscaler|US|Internship|<ul><li>[Product Management Data Protection Intern](https://jobs.jobvite.com/zscaler/job/oVYucfwj)</li></ul>|
-|Zynga|US|Internship|<ul><li>[Project Management Intern](https://www.zynga.com/job-listing/project-management-intern-summer-2020/)</li></ul>|
-|Zynga|US|Internship|<ul><li>[UI/UX Intern](https://www.zynga.com/job-listing/ui-ux-intern-summer-2020/)</li></ul>|
 |Zynga|US|Internship|<ul><li>[Software Engineering Intern](https://www.zynga.com/job-listing/software-engineering-intern-summer-2020/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Software Engineer](https://www.zynga.com/job-listing/rotational-software-engineer-2/)</li></ul>|
 |Zynga|US|Full-time|<ul><li>[New Grad Full-Time Rotational Experience Designer](https://www.zynga.com/job-listing/rotational-experienced-designer/)</li></ul>|
