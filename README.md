@@ -15,6 +15,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
+|Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
 |TerraClear|US|Internship|<ul><li>[AI Software Engineering Intern](https://docs.google.com/document/d/e/2PACX-1vSwaiZwhy8dA-PjzE_fz_bLOcUE2J-PrQRO-PcjeHdtZwfDdPOenvIq3KkQfKAGghyXnO1-lCrwoOC7/pub)</li></ul>|
 |TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern (Co-Op)](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
 |UserTesting|US|Internship|<ul><li>[Sales Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4046479003)</li></ul>|
@@ -80,10 +82,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bloomberg|US/UK/HK|Full-time|<ul><li>[Software Engineering](https://www.bloomberg.com/company/engineering/)</li></ul>|
 |Citadel|US|Internship & Full-time|<ul><li>[Multiple](https://www.citadel.com/careers/open-positions/positions-for-students/)</li></ul>|
 |Cisco Meraki|US|Full-time|<ul><li>[Multiple](https://meraki.cisco.com/jobs)</li></ul>|
-|Cloudflare|US|Internship|<ul><li>[Software Engineering, Product Strategy, Product Management and Security](https://boards.greenhouse.io/cloudflare/jobs/2156436?gh_jid=2156436#app)</li></ul>|
-|Cloudflare|US|Internship|<ul><li>[Security Compliance Engineer - Intern](https://boards.greenhouse.io/cloudflare/jobs/2166487?gh_jid=2166487)</li></ul>|
-|Cloudflare|US|Internship|<ul><li>[People Data Analyst Internship](https://boards.greenhouse.io/cloudflare/jobs/2164748?gh_jid=2164748)</li></ul>|
-|Cloudflare|US|Internship|<ul><li>[Growth Marketing 2020 - Internship](https://boards.greenhouse.io/cloudflare/jobs/2151026?gh_jid=2151026)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Summer 2020 Customer Experience Data Analyst Intern (MBA)](https://www.coinbase.com/careers/positions/2165657)</li></ul>|
 |Dataminr|US|Internship|<ul><li>[Product Intern, Content Platform](https://boards.greenhouse.io/dataminr/jobs/2157265?t=q3lcj21)</li></ul>|
 |Dataminr|US|Internship|<ul><li>[Research & Operations Development Intern, Summer 2020](https://boards.greenhouse.io/dataminr/jobs/2142272?t=q3lcj21)</li></ul>|
