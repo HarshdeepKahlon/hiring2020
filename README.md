@@ -224,6 +224,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |iCIMS|❌||
 |IDEMIA|❌||
 |IDEO|❌|Ideo.org too|
+|Idexx Laboratories|❌||
 |IGN|❌||
 |iHeartMedia|❌||
 |IHS Markit|❌|Needs further confirmation.|
