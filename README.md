@@ -147,6 +147,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |American Airlines|❌|Decisions are on a department by department basis. Some positions weren't cancelled.|
 |Amtrak|❌||
 |Anaplan|❌ |MBA internship rescinded. Need confirmation on this.|
+|Ancestry|❌||
 |Apache Corporation|❌||
 |APCO Worldwide|❌||
 |Applied Materials|❌||
@@ -188,6 +189,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |CH Robinson|❌||
 |Civis Analytics|❌||
 |Comcast|❌|Rescinded offers|
+|Commonwealth Care Alliance|❌||
 |ConocoPhillips|❌|5 week pay offered and priority for 2021 internship|
 |Continental|❌||
 |Crayola|❌||
@@ -210,11 +212,13 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
 |Echostar|❌||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
+|Esri|❌||
 |EVERFI|❌||
 |Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
+|Formlabs|❌||
 |Funding Circle|❌||
 |FX|❌||
 |Gallagher|❌||
@@ -493,6 +497,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Carvana|✅|Hiring Freeze|
 |CBS Interactive|✅||
 |Cedar Fair Amusement|✅||
+|CenturyLink|✅||
 |Cerner Corporation|✅||
 |Charles Schwab|✅|Internships will be virtual for the duration of the program (9 weeks)|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
@@ -537,6 +542,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅||
+|DRW|✅||
 |Ebay|✅|Going virtual.|
 |edX|✅||
 |Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
@@ -544,7 +550,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |ERCOT (Energy Reliability Council of Texas)|✅|Remote.|
-|Esri|✅||
 |Etsy|✅||
 |EverQuote|✅||
 |Expedia|✅|Moved to virtual. Shortened to 10 weeks, June 15 - August 21. Revised offer letter will be sent out.|
@@ -721,6 +726,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |RingCentral|✅|Remote for summer|
 |Ripcord|✅|Pending. Mid-April Decision.|
 |Robinhood|✅|Exploring a hybrid of remote and onsite depending on shelter in place restrictions|
+|Rexnord|✅|Some positions will be moving to virtual and start date is postponed however there are no plans to cancel internships|
 |Royal Bank of Canada (RBC)|✅|Actively hiring - https://jobs.rbc.com/ca/en/students-grad-co-ops-internships|
 |RSM|✅|Remote|
 |Rubrik|✅|Remote|
@@ -753,6 +759,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Sprout Social|✅|Stopped hiring.|
 |SPS Commerce|✅|Remote.|
 |Square|✅|Remote|
+|Standard Chartered Bank GBS|✅||
 |Starbucks|✅|Remote.|
 |State Farm|✅|Moving to virtual|
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
