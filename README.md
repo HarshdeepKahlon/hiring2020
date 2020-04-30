@@ -726,7 +726,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Ripcord|✅|Pending. Mid-April Decision.|
 |Robinhood|✅|Exploring a hybrid of remote and onsite depending on shelter in place restrictions|
 |Rexnord|✅|Some positions will be moving to virtual and start date is postponed however there are no plans to cancel internships|
-|Rolls-Royce|✅|Few positions cancelled. Continuing with others.|
+|Rolls-Royce|✅|Some positions deferred to summer 2021. Continuing with others.|
 |Royal Bank of Canada (RBC)|✅|Actively hiring - https://jobs.rbc.com/ca/en/students-grad-co-ops-internships|
 |RSM|✅|Remote|
 |Rubrik|✅|Remote|
