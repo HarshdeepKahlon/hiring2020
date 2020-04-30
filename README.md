@@ -421,6 +421,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |William Morris Endeavor|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
+|WME/Endeavor|❌|Cancelled their summer internships and summer impact fellowship.|
 |Workday|❌|5k stipend being provided to interns|
 |Xcel Energy|❌||
 |Yelp|❌||
