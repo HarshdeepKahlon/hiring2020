@@ -22,7 +22,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Piano|US|Internship|<ul><li>[Project Manager Summer Internship](https://hire.withgoogle.com/public/jobs/pianoio/view/P_AAAAAACAAEeN66xIkCJpcx)</li></ul>|
 |Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
-|Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
+|Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2160168)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Marketing Intern, Competitive Intelligence](https://boards.greenhouse.io/purestorage/jobs/2124599)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Marketing Intern, Project Management](https://boards.greenhouse.io/purestorage/jobs/2125670)</li></ul>|
