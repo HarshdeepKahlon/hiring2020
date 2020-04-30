@@ -15,6 +15,23 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Software Engineering](http://jobs.jobvite.com/beyondlimitsai/job/o9vNafwl)</li></ul>|
+|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - MBA](http://jobs.jobvite.com/beyondlimitsai/job/oQBpcfwM)</li></ul>|
+|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Marketing Intern](http://jobs.jobvite.com/beyondlimitsai/job/otflcfwZ)</li></ul>|
+|Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Data Science](http://jobs.jobvite.com/beyondlimitsai/job/oSyNafw7)</li></ul>|
+|Trusaic|US|Internship|<ul><li>[Data Operations Intern](https://boards.greenhouse.io/trusaic/jobs/4010445003)</li></ul>|
+|Trusaic|US|Internship|<ul><li>[Technical Product Associate Intern](https://boards.greenhouse.io/trusaic/jobs/4044284003)</li></ul>|
+|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - (Internship)](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
+|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - (Internship)](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
+|Dexcom|US|Internship|<ul><li>[Intern - Software Development](https://careers.dexcom.com/job/DEXCUS4977/Intern-Software-Development)</li></ul>|
+|Masimo|US|Internship|<ul><li>[MBA Product Marketing Intern Summer 2020](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4296)</li></ul>|
+|Masimo|US|Internship|<ul><li>[IT Helpdesk Intern](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4232)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship (Fall 2020)](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Systems Software Engineer Intern Fall 2020 - Autopilot](https://www.tesla.com/careers/job/systems-softwareengineerinternfall2020-autopilot-62886)</li></ul>|
+|Tesla|US|Internship|<ul><li>[Summer 2020 Internship, Data Platforms](https://www.tesla.com/careers/job/summer-2020internshipdataplatforms-62974)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Service Engineering Fall 2020 Intern – Charging Systems](https://www.tesla.com/careers/job/service-engineeringfall2020internchargingsystems-62977)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Perception Internship (Fall 2020)](https://www.tesla.com/careers/job/autopilot-perceptioninternshipfall2020-63017)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Motion Planning Engineer Intern (Fall 2020)](https://www.tesla.com/careers/job/autopilot-motionplanningengineerinternfall2020-63023)</li></ul>|
 |mongoDB|US|Internship|<ul><li>[Technical Writer Intern - Summer 2020](https://www.mongodb.com/careers/jobs/2090083)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern - Software Engineer (AI)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
