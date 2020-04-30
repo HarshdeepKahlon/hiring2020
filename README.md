@@ -165,7 +165,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Checkr|❌||
 |CH Robinson|❌||
 |Civis Analytics|❌||
-|Comcast|❌||
+|Comcast|❌|Rescinded offers|
 |ConocoPhillips|❌|5 week pay offered and priority for 2021 internship|
 |Continental|❌||
 |Crayola|❌||
