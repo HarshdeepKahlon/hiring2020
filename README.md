@@ -775,7 +775,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Wattpad|✅|Remote|
 |Wells Fargo|✅|Going virtual. New dates: July 6th to August 7th. All financial terms on original offer letters will be honored.|
 |WePay|✅|Won't be cancelling|
-|Western Digital|✅|Making their internship program virtual. Next week, updates will be shared with candidates if their position can be made virtual or not.|
+|Western Digital|✅|Virtual Internship. Duration shortened to 10 weeks and Start date isn't cahnged|
 |WGBH|✅|Remote|
 |Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual.|
 |Wish|✅|Remote. Hiring Freeze|
