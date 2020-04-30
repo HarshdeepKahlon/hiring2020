@@ -709,7 +709,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |PricewaterhouseCoopers|✅|Internship changed to two-week digital upskilling experience. Lump-sum payment of $2500 for accounting (audit/tax) and $3500 for advisory. Additionally, full-time 2021 offer.|
 |Procore|✅|Hiring Freeze.|
 |Procter & Gamble (P&G)|✅|Online except for a few cases. On site possible for last 2 weeks.|
-|Proofpoint|✅|Actively hiring, remote or onsite depends on future situation.|
+|Proofpoint|✅|Remote or onsite depends on future situation.|
 |Protiviti|✅|2-week fully remote internship, with full-time offers extended at the end.|
 |Q2E Banking|✅|Remote|
 |Qualcomm|✅|Fully remote.|
