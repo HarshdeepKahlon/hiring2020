@@ -695,7 +695,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Parker Hannifinn|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅|Remote.|
-|Peloton|✅|Not cancelling. More details will be shared in coming weeks.|
+|Peloton|✅|Virtual. Same duration. Providing housing stipend. Pay would remain same. And $200 being provided for a home desk setup.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
 |Philips|✅|Going ahead with internships virtually. Students advised to not move for internships and laptops being shipped.|
 |PIMCO|✅||
