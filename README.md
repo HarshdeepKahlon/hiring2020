@@ -203,6 +203,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Disney|❌|Cancelled some Engineering/IT roles. Not just diversity program. Also, some teams (Industrial and Software Engineering) haven't cancelled, but gone remote.|
 |DNAnexus|❌||
 |Dow Jones|❌||
+|Downtown|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
 |Echostar|❌||
@@ -400,6 +401,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Under Armour|❌|Rookie Program was canceled, no full time offers.|
 |United Airlines|❌|Cancelled.|
 |Universal McCann|❌||
+|Universal Music Group|❌||
 |Uplift|❌||
 |Uponor|❌||
 |Urban Outfitters (URBN)|❌||
