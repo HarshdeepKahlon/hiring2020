@@ -168,10 +168,12 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Blackbaud|❌|Open full time offers are also cancelled|
 |BluJay Solutions|❌||
 |Boar's Head Brand|❌||
+|Boom Supersonic|❌||
 |Booz Allen Hamilton|❌||
 |Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|❌||
 |British Airways|❌|Postponed to 2021|
+|Broadsign|❌||
 |Brookings Institution|❌||
 |BuzzFeed|❌||
 |Callaway Golf|❌||
@@ -183,7 +185,9 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Carfax|❌||
 |CB Insights|❌||
 |CBIZ|❌||
+|CenturyLink|❌||
 |CF Industries|❌||
+|CGI|❌||
 |Chesapeake Energy|❌||
 |Checkr|❌||
 |CH Robinson|❌||
@@ -193,7 +197,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |ConocoPhillips|❌|5 week pay offered and priority for 2021 internship|
 |Continental|❌||
 |Crayola|❌||
-|Cruise Automation|❌ |Rescinded all internship offers.|
+|Cruise Automation|❌|Rescinded all internship offers.|
+|Cummins|❌||
 |Custom Ink|❌|Rescinded all internships and full time offers!|
 |DAAD-WISE|❌||
 |Dassault Systems|❌|Rescinding offers in Waltham MA.|
@@ -208,6 +213,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Discovery Inc.|❌||
 |Disney|❌|Cancelled some Engineering/IT roles. Not just diversity program. Also, some teams (Industrial and Software Engineering) haven't cancelled, but gone remote.|
 |DNAnexus|❌||
+|Dow Jones|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
 |Echostar|❌||
@@ -219,6 +225,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
 |Formlabs|❌||
+|Freeport-McMoRan|❌||
 |Funding Circle|❌||
 |FX|❌||
 |Gallagher|❌||
@@ -226,6 +233,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Garmin|❌||
 |Gartner|❌|Even full time offers are getting rescinded|
 |Genuine Parts Company|❌||
+|Georgia Pacific|❌||
 |GE Transportation-Wabtec|❌||
 |Gildan|❌||
 |Globe Life|❌||
@@ -343,6 +351,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |REI|❌|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌||
 |R/GA|❌||
+|Robert Half|❌||
 |Roche|❌||
 |Roku|❌||
 |Rolls Royce|❌||
@@ -497,7 +506,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Carvana|✅|Hiring Freeze|
 |CBS Interactive|✅||
 |Cedar Fair Amusement|✅||
-|CenturyLink|✅||
 |Cerner Corporation|✅||
 |Charles Schwab|✅|Internships will be virtual for the duration of the program (9 weeks)|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
