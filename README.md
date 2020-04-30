@@ -15,14 +15,18 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|mongoDB|US|Internship|<ul><li>[Technical Writer Intern - Summer 2020](https://www.mongodb.com/careers/jobs/2090083)</li></ul>|
+|UiPath|US|Internship|<ul><li>[Intern - Software Engineer (AI)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
+|UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
+|UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
 |Piano|US|Internship|<ul><li>[Project Manager Summer Internship](https://hire.withgoogle.com/public/jobs/pianoio/view/P_AAAAAACAAEeN66xIkCJpcx)</li></ul>|
 |Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
-|Power Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
-|Power Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
-|Power Storage|US|Internship|<ul><li>[Marketing Intern, Competitive Intelligence](https://boards.greenhouse.io/purestorage/jobs/2124599)</li></ul>|
-|Power Storage|US|Internship|<ul><li>[Marketing Intern, Project Management](https://boards.greenhouse.io/purestorage/jobs/2125670)</li></ul>|
-|Power Storage|US|Full-time|<ul><li>[Software Engineer Grad](https://boards.greenhouse.io/purestorage/jobs/1834451)</li></ul>|
+|Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
+|Pure Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
+|Pure Storage|US|Internship|<ul><li>[Marketing Intern, Competitive Intelligence](https://boards.greenhouse.io/purestorage/jobs/2124599)</li></ul>|
+|Pure Storage|US|Internship|<ul><li>[Marketing Intern, Project Management](https://boards.greenhouse.io/purestorage/jobs/2125670)</li></ul>|
+|Pure Storage|US|Full-time|<ul><li>[Software Engineer Grad](https://boards.greenhouse.io/purestorage/jobs/1834451)</li></ul>|
 |SunPower|US|Internship|<ul><li>[Project Development Intern](https://careers.sunpower.com/job/Boston-Project-Development-Intern-MA-02108/647069100/)</li></ul>|
 |Vouch Insurance|US|Internship|<ul><li>[Insurance Operations Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059835003?gh_jid=4059835003)</li></ul>|
 |Vouch Insurance|US|Internship|<ul><li>[Summer MBA Intern](https://boards.greenhouse.io/vouchinsurance/jobs/4059816003?gh_jid=4059816003)</li></ul>|
@@ -134,7 +138,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Baker Hughes|❌||
 |Bartle Bogle Hegarty|❌||
 |BECU|❌||
-|Belvedere trading|❌|Cancelled their internship program for junior traders. The other roles are not cancelled yet. Full time new hires start date pushed back as well.|
+|Belvedere trading|❌|Cancelled their internship program for junior traders. Hybrid trader intern and software engineering intern roles will be moved to remote. Full time new hires start date pushed back as well.|
 |Bently Systems|❌||
 |Best Buy|❌||
 |Big Spaceship|❌||
@@ -255,6 +259,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Magnopus|❌||
 |Manhattan Associates|❌||
 |Mattel|❌||
+|Marathon Oil|❌||
 |Marriot|❌||
 |Marsh and Mclennan Agency|❌|Cancelled internships globally and graduate jobs are deferred until Jan 2021.|
 |Mayo Clinic|❌|At least IT|
@@ -525,11 +530,12 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EY-Parthenon|✅|| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided. Some internships cancelled due to reasons like interns moved out of US or remote work not possible for the job.|
+|FactSet|✅|For client solutions interns, virtual for 7 weeks from June 15 to July 31st.|
 |Fandago|✅|Hiring Freeze|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
 |Fedex|✅|Update by Mid-April|
-|Fiat Chrysler|✅|Remote likely. Further updates by April 24.|
+|Fiat/FCA|✅|Made internship virtual. Laptops being shipped. FCA intends for an end of internship summit at HQ to present work of the interns. Ten week program startimng from June 1.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
 |FINRA|✅|Remote|
@@ -588,7 +594,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |JumpTrading|✅||
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
-|Justworks|✅||
+|Justworks|✅|Virtual. Same start date.|
 |Ketsight Technologies|✅||
 |Khan Academy|✅|remote or on-site by end of April|
 |Kiewit|✅|Start date moved later|
@@ -619,7 +625,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |MathWorks|✅|There may be adjustments to the internship model, such as initially working remotely and later in the office.|
 |McAfee|✅||
 |McKinsey & Company|✅|Made their internships optional. If you choose to do it, it will be remote for a duration of 6-10 weeks. Full pay regardless of whether one chooses to do the internship or not. Full-time offers offered too.|
-|Medtronic|✅|Remote|
+|Medtronic|✅|Remote. Cancelled for mechanical engineering.|
 |Micron|✅|Virtual Internship program for 90% of interns.|
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments or those that are currently located outside the US or Canada, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
@@ -723,6 +729,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |SpaceX|✅|Planning on going ahead with the internship program on-site, but they are considering moving start dates.|
 |Splunk|✅|Internship hiring put on hold. Accepted offers to be honored. Fully remote.|
 |Sprout Social|✅|Stopped hiring.|
+|SPS Commerce|✅|Remote.|
 |Square|✅|Remote|
 |Starbucks|✅|Remote.|
 |State Farm|✅|Moving to virtual|
