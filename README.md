@@ -15,6 +15,11 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|TerraClear|US|Internship|<ul><li>[AI Software Engineering Intern](https://docs.google.com/document/d/e/2PACX-1vSwaiZwhy8dA-PjzE_fz_bLOcUE2J-PrQRO-PcjeHdtZwfDdPOenvIq3KkQfKAGghyXnO1-lCrwoOC7/pub)</li></ul>|
+|TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern (Co-Op)](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
+|UserTesting|US|Internship|<ul><li>[Sales Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4046479003)</li></ul>|
+|UserTesting|US|Internship|<ul><li>[Sales Strategy Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4045833003)</li></ul>|
+|Y Combinator|US|Internship|<ul><li>[Y Combinator Summer Internship Program](https://www.workatastartup.com/internships)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Software Engineering](http://jobs.jobvite.com/beyondlimitsai/job/o9vNafwl)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - MBA](http://jobs.jobvite.com/beyondlimitsai/job/oQBpcfwM)</li></ul>|
 |Beyond Limits|US|Internship|<ul><li>[Beyonders 2020 Summer Program - Marketing Intern](http://jobs.jobvite.com/beyondlimitsai/job/otflcfwZ)</li></ul>|
