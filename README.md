@@ -451,7 +451,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Anheuser-Busch InBev|✅||
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
 |Aon|✅|Will be remote. New start date will be June 22.|
-|AppFolio|✅|Hiring|
+|AppFolio|✅||
 |Apple|✅|Remote start for some. Start date pushed back for others. Depends on the team. More details to come.|
 |Appian|✅|Remote. Exact details still forthcoming, but they've committed to having it in some form thus far|
 |Ares Management|✅|Considering remote. Updates to follow.|
@@ -511,7 +511,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Clairvoyant LLC|✅|Hiring Freeze|
 |Clorox|✅||
 |Cloudflare|✅|Internships reopened and internship class size doubled, remote work if needed|
-|Coding Blocks|✅|Hiring|
 |Coinbase|✅|Fully remote. Housing stipend if applicable.|
 |College Board|✅|Hiring freeze.|
 |Collins Aerospace|✅|Remote|
@@ -603,7 +602,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |IBM|✅|Won't be cancelling. All internships will be remote.|
 |IBM Research|✅|Hiring Freeze|
 |IDX Broker|✅||
-|IMC Trading|✅|Potentially remote. Hiring|
+|IMC Trading|✅|Potentially remote.|
 |Improbable|✅|Remote|
 |Indigo Ag|✅||
 |Informatica|✅|Hiring Freeze. But offers not being rescinded. People in between in the interview process have to wait.|
@@ -635,7 +634,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |LinkedIn|✅|Fully remote. Interviews are on hold. Hiring Freeze.|
 |LiveRamp|✅||
 |Lockheed Martin|✅||
-|Lori Friedman-Revolution Financial Management|✅|Hiring|
+|Lori Friedman-Revolution Financial Management|✅||
 |Los Alamos National Labs|✅|Hiring Freeze|
 |Los Angeles Rams|✅|Hiring Freeze|
 |Lyft|✅|Fully virtual|
@@ -674,7 +673,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Nokia|✅|Remote internships for all roles|
 |Nopeblis|✅||
 |Northrop Grumman|✅||
-|Northwestern Mutual|✅|Hiring|
+|Northwestern Mutual|✅||
 |Nutanix|✅|Remote Internship|
 |NVIDIA|✅|Canada remote, stil deciding if partial/total remote (sent out survey to gauge locations). Not cancelling.|
 |Oakland Athletes|✅|Hiring Freeze|
