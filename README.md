@@ -15,6 +15,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|UiPath|US|Internship|<ul><li>[Intern - Software Engineer (AI)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
+|UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
 |Piano|US|Internship|<ul><li>[Project Manager Summer Internship](https://hire.withgoogle.com/public/jobs/pianoio/view/P_AAAAAACAAEeN66xIkCJpcx)</li></ul>|
 |Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
