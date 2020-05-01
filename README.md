@@ -376,6 +376,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
+|STV Inc|❌|Cancelled due to concerns about reopening and inability to proivde a hands-on experience|
 |SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌|Cancelled all internships offers and some full time.|
@@ -798,8 +799,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Vanguard|✅|Virtual Internships|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
-|Verizon|✅|Decision by Apr 30|
-|ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
+|Verizon|✅||
+|ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
 |VMware|✅|Remote. Housing stipend won't be provided|
