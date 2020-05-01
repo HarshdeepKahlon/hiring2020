@@ -15,6 +15,9 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Atlassian|US|Full-time|<ul><li>[Online Marketing Associate - 2020 Graduate](https://www.atlassian.com/company/careers/detail/55d4a13a-1b90-4436-a0fd-2b95fbd44902)</li></ul>|
+|Atlassian|US|Full-time|<ul><li>[Business Systems Analyst, 2020 Graduate](https://www.atlassian.com/company/careers/detail/8ecdc0dc-79e4-4f2f-9d1a-6b0a3076fcf9)</li></ul>|
+|Asana|US|Full-time|<ul><li>[New Graduate: Software Engineering](https://asana.com/jobs/apply/1793586/new-graduate--software-engineering)</li></ul>|
 |JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
 |Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
 |TerraClear|US|Internship|<ul><li>[AI Software Engineering Intern](https://docs.google.com/document/d/e/2PACX-1vSwaiZwhy8dA-PjzE_fz_bLOcUE2J-PrQRO-PcjeHdtZwfDdPOenvIq3KkQfKAGghyXnO1-lCrwoOC7/pub)</li></ul>|
@@ -560,7 +563,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Fandago|✅|Hiring Freeze|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
-|Fedex|✅|Update by Mid-April|
+|Fedex|✅|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
 |Fiat/FCA|✅|Made internship virtual. Laptops being shipped. FCA intends for an end of internship summit at HQ to present work of the interns. Ten week program startimng from June 1.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
@@ -616,7 +619,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Jane Street|✅|Planning for remote.|
 |JDA Software|✅||
 |John Deere|✅|Virtual Internship. Start date for all has been pushed back to June 15.|
-|Johnson and Johnson|✅|Providence RI branch is going through with their co-op program|
+|Johnson and Johnson|✅|Made their internship virtual. Start date to remain same.|
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |JumpTrading|✅||
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
@@ -651,7 +654,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |MathWorks|✅|There may be adjustments to the internship model, such as initially working remotely and later in the office.|
 |McAfee|✅||
 |McKinsey & Company|✅|Made their internships optional. If you choose to do it, it will be remote for a duration of 6-10 weeks. Full pay regardless of whether one chooses to do the internship or not. Full-time offers offered too.|
-|Medtronic|✅|Remote. Cancelled for mechanical engineering.|
+|Medtronic|✅|Remote.|
 |Micron|✅|Virtual Internship program for 90% of interns.|
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments or those that are currently located outside the US or Canada, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
@@ -788,7 +791,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Two Sigma|✅|Preparing for a virtual summer internship.|
 |Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
 |UBS|✅|Program start date moved to July 6th. Completely virtual and still paid for 10 weeks.|
-|UnitedHealth Group|✅|Still on. Considering remote.|
+|UnitedHealth Group|✅|Virtual. Starting on June 15. Duration will remain same.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |US Bank|✅|Remote|
@@ -798,7 +801,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Verizon|✅|Decision by Apr 30|
 |ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
-|Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
+|Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
 |VMware|✅|Remote. Housing stipend won't be provided|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Voya Financial|✅||
