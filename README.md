@@ -344,7 +344,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Robert Half|❌||
 |Roche|❌||
 |Roku|❌||
-|Rolls Royce|❌||
 |Saatchi & Saatchi|❌||
 |Salem Red Sox|❌||
 |Samsung Research America|❌||
@@ -422,6 +421,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |William Morris Endeavor|❌||
 |Wisk|❌||
 |WillowTree|❌|Interns guaranteed interview in the fall for internship or full-time.|
+|WME/Endeavor|❌|Cancelled their summer internships and summer impact fellowship.|
 |Workday|❌|5k stipend being provided to interns|
 |Xcel Energy|❌||
 |Yelp|❌||
@@ -726,6 +726,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Ripcord|✅|Pending. Mid-April Decision.|
 |Robinhood|✅|Exploring a hybrid of remote and onsite depending on shelter in place restrictions|
 |Rexnord|✅|Some positions will be moving to virtual and start date is postponed however there are no plans to cancel internships|
+|Rolls-Royce|✅|Some positions deferred to summer 2021. Continuing with others.|
 |Royal Bank of Canada (RBC)|✅|Actively hiring - https://jobs.rbc.com/ca/en/students-grad-co-ops-internships|
 |RSM|✅|Remote|
 |Rubrik|✅|Remote|
@@ -786,6 +787,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|Preparing for a virtual summer internship.|
 |Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
+|UBS|✅|Program start date moved to July 6th. Completely virtual and still paid for 10 weeks.|
 |UnitedHealth Group|✅|Still on. Considering remote.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
