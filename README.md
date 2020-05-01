@@ -651,7 +651,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |MathWorks|✅|There may be adjustments to the internship model, such as initially working remotely and later in the office.|
 |McAfee|✅||
 |McKinsey & Company|✅|Made their internships optional. If you choose to do it, it will be remote for a duration of 6-10 weeks. Full pay regardless of whether one chooses to do the internship or not. Full-time offers offered too.|
-|Medtronic|✅|Remote. Cancelled for mechanical engineering.|
+|Medtronic|✅|Remote.|
 |Micron|✅|Virtual Internship program for 90% of interns.|
 |Microsoft|✅|Fully virtual. For interns who can't join virtually due to the nature of their assigned departments or those that are currently located outside the US or Canada, they can defer it to 2021 summer or for graduating class, get a chance to have expedited interviews for a full-time role.|
 |Mindbody|✅|Interviews being cancelled|
