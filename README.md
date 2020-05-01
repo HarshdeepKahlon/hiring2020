@@ -15,6 +15,8 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Atlassian|US|Full-time|<ul><li>[Online Marketing Associate - 2020 Graduate](https://www.atlassian.com/company/careers/detail/55d4a13a-1b90-4436-a0fd-2b95fbd44902)</li></ul>|
+|Atlassian|US|Full-time|<ul><li>[Business Systems Analyst, 2020 Graduate](https://www.atlassian.com/company/careers/detail/8ecdc0dc-79e4-4f2f-9d1a-6b0a3076fcf9)</li></ul>|
 |Asana|US|Full-time|<ul><li>[New Graduate: Software Engineering](https://asana.com/jobs/apply/1793586/new-graduate--software-engineering)</li></ul>|
 |JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
 |Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
