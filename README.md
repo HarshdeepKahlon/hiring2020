@@ -146,7 +146,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Applied Medical|❌||
 |ArcelorMittal|❌||
 |Argonne National Laboratory|❌||
-|Arista|❌||
+|Arista Networks|❌|Entire internship program of 2020 cancelled|
 |Arthrex|❌||
 |atVenu|❌||
 |AXS|❌||
@@ -209,6 +209,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Downtown|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
+|Duff & Phelps|❌|2 weeks virtual; $3000 stipend|
 |Echostar|❌||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
 |Esri|❌||
@@ -412,6 +413,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Valkyrie Investments|❌||
 |Verily|❌||
 |Vergin Hyperloop One|❌||
+|Verso Booksv|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -670,6 +672,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |NationWide|✅||
 |NBCUniversal|✅|Internship planned to begin on June 1, asked to remain flexible with more information after April 17|
 |Nelnet|✅|Determining remote, delayed start, or no change on April 16th|
+|Nestle USA|✅|Remote|
 |New York Times|✅|Remote.|
 |Nextdoor|✅|100% Virtual.|
 |Nike|✅|Remote.|
@@ -702,6 +705,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Pegasystems|✅|Remote.|
 |Peloton|✅|Virtual. Same duration. Providing housing stipend. Pay would remain same. And $200 being provided for a home desk setup.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
+|PGT Trucking|✅||
 |Philips|✅|Going ahead with internships virtually. Students advised to not move for internships and laptops being shipped.|
 |PIMCO|✅||
 |Pinterest|✅|Remote|
@@ -821,6 +825,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Xilinx|✅|Remote Internship|
 |Yahoo (Verizon Media)|✅|Remote possible. Hiring freeze at Verizon Media.|
 |Zebra Technology|✅||
+|Zymergen|✅|Remote|
 |Zillow|✅|Interviews being cancelled. Hiring Freeze.|
 |Zippity Cars|✅|Hiring|
 |Zocdoc|✅|Fully remote.|
