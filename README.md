@@ -798,7 +798,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Verizon|✅|Decision by Apr 30|
 |ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
-|Visa|✅|Remote Internship. Duration shortened to 8 weeks.|
+|Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
 |VMware|✅|Remote. Housing stipend won't be provided|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Voya Financial|✅||
