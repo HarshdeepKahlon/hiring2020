@@ -619,7 +619,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Jane Street|✅|Planning for remote.|
 |JDA Software|✅||
 |John Deere|✅|Virtual Internship. Start date for all has been pushed back to June 15.|
-|Johnson and Johnson|✅|Moved their internship virtual. Start date to remain same.|
+|Johnson and Johnson|✅|Made their internship virtual. Start date to remain same.|
 |JP Morgan|✅|Virtual internship. July 6th to mid-August. Compensation will remain same.|
 |JumpTrading|✅||
 |Juniper Networks|✅|Still hiring for tech roles. Planning for in-person summer internship, remote if needed|
