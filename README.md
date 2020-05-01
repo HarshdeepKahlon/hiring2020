@@ -788,7 +788,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Two Sigma|✅|Preparing for a virtual summer internship.|
 |Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
 |UBS|✅|Program start date moved to July 6th. Completely virtual and still paid for 10 weeks.|
-|UnitedHealth Group|✅|Still on. Considering remote.|
+|UnitedHealth Group|✅|Virtual. Starting on June 15. Duration will remain same.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
 |US Bank|✅|Remote|
