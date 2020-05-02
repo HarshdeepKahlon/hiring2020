@@ -646,7 +646,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Lori Friedman-Revolution Financial Management|✅||
 |Los Alamos National Labs|✅|Hiring Freeze|
 |Los Angeles Rams|✅|Hiring Freeze|
-|Lyft|✅|Fully virtual|
+|Lyft|✅|Fully virtual. Reduced intern pay to 50%, cut internship short to 8 weeks.|
 |Manulife Canada|✅|Remote|
 |Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
