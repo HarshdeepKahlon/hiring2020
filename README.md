@@ -147,7 +147,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Applied Medical|❌||
 |ArcelorMittal|❌||
 |Argonne National Laboratory|❌||
-|Arista|❌||
+|Arista Networks|❌|Entire internship program of 2020 cancelled|
 |Arthrex|❌||
 |atVenu|❌||
 |AXS|❌||
@@ -210,6 +210,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Downtown|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
+|Duff & Phelps|❌|2 weeks virtual; $3000 stipend|
 |Echostar|❌||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
 |Esri|❌||
@@ -377,6 +378,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Stryker|❌|Rising juniors will get the same internship for summer 2021, and rising seniors will get “preference” for entry level job.|
 |Stubhub|❌||
 |Stuller|❌||
+|STV Inc|❌|Offers rescinded due to concerns about reopening and inability to proivde a hands-on experience. |
 |SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌|Cancelled all internships offers and some full time.|
@@ -413,6 +415,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Valkyrie Investments|❌||
 |Verily|❌||
 |Vergin Hyperloop One|❌||
+|Verso Booksv|❌||
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
 |Volvo|❌|Offers got Rescinded|
@@ -671,6 +674,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |NationWide|✅||
 |NBCUniversal|✅|Internship planned to begin on June 1, asked to remain flexible with more information after April 17|
 |Nelnet|✅|Determining remote, delayed start, or no change on April 16th|
+|Nestle USA|✅|Remote|
 |New York Times|✅|Remote.|
 |Nextdoor|✅|100% Virtual.|
 |Nike|✅|Remote.|
@@ -703,6 +707,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Pegasystems|✅|Remote.|
 |Peloton|✅|Virtual. Same duration. Providing housing stipend. Pay would remain same. And $200 being provided for a home desk setup.|
 |PepsiCo|✅|Moved to remote and reduced to 6 weeks. Providing full pay.|
+|PGT Trucking|✅||
 |Philips|✅|Going ahead with internships virtually. Students advised to not move for internships and laptops being shipped.|
 |PIMCO|✅||
 |Pinterest|✅|Remote|
@@ -799,11 +804,11 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Vanguard|✅|Virtual Internships|
 |Verily|✅|Hiring freeze|
 |Verisign|✅|Remote|
-|Verizon|✅|Decision by Apr 30|
-|ViacomCBS|✅|Hoping for in-person, preparing for virtual or shortened options. Update by Apr 30th or sooner.|
+|Verizon|✅||
+|ViacomCBS|✅|Still evaluating plans for the summer 2020 internship program. We anticipate a decision very shortly so we can share next steps with you and your supervisors. |
 |Viasat|✅|Number of positions was significantly reduced. Many were cancelled.|
 |Visa|✅|Remote Internship. Duration shortened to 8 weeks. May 26 to July 17.|
-|VMware|✅|Remote. Housing stipend won't be provided|
+|VMware|✅|Remote. Housing stipend provided for some|
 |Volvo|✅|Hiring freeze. Cancelling interviews. Cancelled mechanical/electrical engineering interns.|
 |Voya Financial|✅||
 |Waymo|✅|Moved their internship program virtual.|
@@ -822,6 +827,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Xilinx|✅|Remote Internship|
 |Yahoo (Verizon Media)|✅|Remote possible. Hiring freeze at Verizon Media.|
 |Zebra Technology|✅||
+|Zymergen|✅|Remote|
 |Zillow|✅|Interviews being cancelled. Hiring Freeze.|
 |Zippity Cars|✅|Hiring|
 |Zocdoc|✅|Fully remote.|
