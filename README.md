@@ -545,6 +545,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Dish Netowrks|✅|Hiring Freeze|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
+|DoorDash|✅|Remote.|
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅||
