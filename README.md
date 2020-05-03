@@ -254,6 +254,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |iCIMS|❌||
 |IDEMIA|❌||
 |IDEO|❌|Ideo.org too|
+|IDEX|❌||
 |Idexx Laboratories|❌||
 |IGN|❌||
 |iHeartMedia|❌||
@@ -262,6 +263,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |InterSystems|❌||
 |Interbrand|❌||
 |IPG MediaBrands|❌||
+|IQVIA|❌||
 |JetBlue|❌|Deferred to Summer 2021.|
 |Jordan Blanchard Capital|❌||
 |Kabbage|❌||
@@ -465,6 +467,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Apple|✅|Remote start for some. Start date pushed back for others. Depends on the team. More details to come.|
 |Appian|✅|Remote. Exact details still forthcoming, but they've committed to having it in some form thus far|
 |Ares Management|✅|Considering remote. Updates to follow.|
+|ARM|✅|Remote|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
 |ASRC Federal|✅||
