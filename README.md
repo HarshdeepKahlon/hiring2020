@@ -163,6 +163,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Boar's Head Brand|❌||
 |Boom Supersonic|❌||
 |Booz Allen Hamilton|❌||
+|Bosch|❌|Decided to rescind offers after originally considering virtual internships.|
 |Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|❌||
 |British Airways|❌|Postponed to 2021|
@@ -495,7 +496,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |BNP Paribas|✅|Postponed start date to June 29. But will stick to original 10 week compensation.|
 |Bobcat|✅||
 |Boeing|✅|Will be going remote.|
-|Bosch|✅|Remote|
 |Boston Consulting Group (BCG)|✅|Gave interns full time offers. The internship (which is virtual now) is shortened to 7-10 weeks.|
 |BP|✅|Will be virtual.|
 |Braze|✅||
