@@ -27,7 +27,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
 |Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
 |TerraClear|US|Internship|<ul><li>[AI Software Engineering Intern](https://docs.google.com/document/d/e/2PACX-1vSwaiZwhy8dA-PjzE_fz_bLOcUE2J-PrQRO-PcjeHdtZwfDdPOenvIq3KkQfKAGghyXnO1-lCrwoOC7/pub)</li></ul>|
-|TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern (Co-Op)](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
+|TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
 |UserTesting|US|Internship|<ul><li>[Sales Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4046479003)</li></ul>|
 |UserTesting|US|Internship|<ul><li>[Sales Strategy Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4045833003)</li></ul>|
 |Y Combinator|US|Internship|<ul><li>[Y Combinator Summer Internship Program](https://www.workatastartup.com/internships)</li></ul>|
@@ -39,22 +39,22 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Trusaic|US|Internship|<ul><li>[Technical Product Associate Intern](https://boards.greenhouse.io/trusaic/jobs/4044284003)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Software Engineering](https://www.paclintra.com/careers/software-engineering-intern/)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Medical Affairs and Marketing](http://www.paclintra.com/careers/medical-affairs-marketing-intern/)</li></ul>|
-|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - (Internship)](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
-|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - (Internship)](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
+|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
+|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
 |Dexcom|US|Internship|<ul><li>[Intern - Software Development](https://careers.dexcom.com/job/DEXCUS4977/Intern-Software-Development)</li></ul>|
 |Masimo|US|Internship|<ul><li>[MBA Product Marketing Intern Summer 2020](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4296)</li></ul>|
 |Masimo|US|Internship|<ul><li>[IT Helpdesk Intern](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4232)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship (Fall 2020)](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship, Fall 2020](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Systems Software Engineer Intern Fall 2020 - Autopilot](https://www.tesla.com/careers/job/systems-softwareengineerinternfall2020-autopilot-62886)</li></ul>|
 |Tesla|US|Internship|<ul><li>[Summer 2020 Internship, Data Platforms](https://www.tesla.com/careers/job/summer-2020internshipdataplatforms-62974)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Service Engineering Fall 2020 Intern – Charging Systems](https://www.tesla.com/careers/job/service-engineeringfall2020internchargingsystems-62977)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Perception Internship (Fall 2020)](https://www.tesla.com/careers/job/autopilot-perceptioninternshipfall2020-63017)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Motion Planning Engineer Intern (Fall 2020)](https://www.tesla.com/careers/job/autopilot-motionplanningengineerinternfall2020-63023)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Perception Internship, Fall 2020](https://www.tesla.com/careers/job/autopilot-perceptioninternshipfall2020-63017)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Motion Planning Engineer Intern, Fall 2020](https://www.tesla.com/careers/job/autopilot-motionplanningengineerinternfall2020-63023)</li></ul>|
 |mongoDB|US|Internship|<ul><li>[Technical Writer Intern - Summer 2020](https://www.mongodb.com/careers/jobs/2090083)</li></ul>|
-|UiPath|US|Internship|<ul><li>[Intern - Software Engineer (AI)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
+|UiPath|US|Internship|<ul><li>[Intern - Software Engineer, AI](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
-|Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
+|Malwarebytes|US|Internship|<ul><li>[Summer Associate MBA Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2160168)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
@@ -100,13 +100,13 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Design Intern](https://corp.roblox.com/careers/listing/?gh_jid=1860571)</li></ul>|
-|Shopee|SG|Full-time|<ul><li>[Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (iOS)](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
+|Shopee|SG|Full-time|<ul><li>[Engineering role - esp. Backend and Server](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
+|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern - iOS](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Backend Developer Intern](https://www.shopify.com/careers/backend-developer-intern-also-includes-roles-in-security-fall-2020-391b72)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[UX Developer Intern](https://www.shopify.com/careers/ux-developer-intern-fall-2020-7c2563)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Production Engineering/Site Reliability Intern](https://www.shopify.com/careers/production-engineering-site-reliability-intern-fall-2020-1169c2)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Data Science Intern](https://www.shopify.com/careers/data-science-intern-fall-2020-6ff515)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (Android)](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
+|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern - Android](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Web Developer Intern](https://www.shopify.com/careers/web-developer-intern-fall-2020-e27054)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Digital Product Design Intern](https://www.shopify.com/careers/digital-product-design-intern-fall-2020-868e44)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
