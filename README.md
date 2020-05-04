@@ -17,6 +17,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
 |Twilio|US|Internship|<ul><li>[Marketing Intern - Foundry](https://boards.greenhouse.io/twilio/jobs/2177824)</li></ul>|
 |Paytm|IN|Internship|<ul><li>[Internship - General Application](https://jobs.lever.co/paytm/44b96240-d12a-4e26-81d3-1f8e2eec49e1)</li></ul>|
+|Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
 |Cognizant|US|Full-time|<ul><li>[Multiple](https://careers.cognizant.com/studentandinterns/na/en/campus-jobs)</li></ul>|
 |Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
 |Earnest|US|Internship|<ul><li>[Data & Analytics Internship](https://www.earnest.com/careers?gh_jid=2145353)</li></ul>|
