@@ -15,6 +15,24 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Cognizant|US|Full-time|<ul><li>[Multiple](https://careers.cognizant.com/studentandinterns/na/en/campus-jobs)</li></ul>|
+|Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
+|Earnest|US|Internship|<ul><li>[Data & Analytics Internship](https://www.earnest.com/careers?gh_jid=2145353)</li></ul>|
+|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern (MBA), San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
+|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern (MBA), Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
+|Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
+|Salesforce|US|Co-op|<ul><li>[Fall 2020 Co-op - Business Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Business-Analyst_JR63152-1)</li></ul>|
+|Salesforce|US|Co-op|<ul><li>[Fall 2020 Co-op - Data and Automation Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Data-and-Automation-Analyst_JR63156-1)</li></ul>|
+|Salesforce|US|Internship|<ul><li>[User Research Intern - Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/User-Research-Intern_JR64729-1)</li></ul>|
+|FIS|US|Internship|<ul><li>[Intern Technology](https://careers.fisglobal.com/us/en/job/JR0110329/Intern-Technology)</li></ul>|
+|FIS|US|Internship|<ul><li>[Technical Analyst Intern - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR92762/Technical-Analyst-Intern-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
+|FIS|US|Internship|<ul><li>[Global eCommerce - Strategic Accounts Intern](https://careers.fisglobal.com/us/en/job/JR0108712/Global-eCommerce-Strategic-Accounts-Intern)</li></ul>|
+|FIS|US|Internship|<ul><li>[Product Manager Associate - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR90588/Product-Manager-Associate-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
+|FIS|US|Internship|<ul><li>[Risk Analyst - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR89841/Risk-Analyst-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
+|FIS|US|Internship|<ul><li>[Business Analyst - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR89995/Business-Analyst-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
+|ServiceNow|US|Internship|<ul><li>[UX Interaction Design Intern](https://jobs.jobvite.com/servicenow/job/oSklcfwt)</li></ul>|
+|ServiceNow|US|Internship|<ul><li>[Field Security Intern](https://jobs.jobvite.com/servicenow/job/oVhrcfwz)</li></ul>|
+|Apple|US|Internship|<ul><li>[Computer Vision Intern, CVPR 2020](https://jobs.apple.com/en-us/details/200168156/computer-vision-intern-cvpr-2020?team=SFTWR)</li></ul>|
 |Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern, Summer 2020](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
 |Paradox|US|Internship|<ul><li>[Software Product Management Intern](https://careers.paradox.ai/software-product-management-intern/job/12670134)</li></ul>|
 |Jam City|US|Internship|<ul><li>[Multiple](https://jobs.lever.co/jamcity?commitment=Internship)</li></ul>|
