@@ -20,8 +20,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Earnest|US|Internship|<ul><li>[Data & Analytics Internship](https://www.earnest.com/careers?gh_jid=2145353)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern (MBA), San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern (MBA), Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern
-](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
+|Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
 |Salesforce|US|Co-op|<ul><li>[Fall 2020 Co-op - Business Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Business-Analyst_JR63152-1)</li></ul>|
 |Salesforce|US|Co-op|<ul><li>[Fall 2020 Co-op - Data and Automation Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Data-and-Automation-Analyst_JR63156-1)</li></ul>|
 |Salesforce|US|Internship|<ul><li>[User Research Intern - Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/User-Research-Intern_JR64729-1)</li></ul>|
