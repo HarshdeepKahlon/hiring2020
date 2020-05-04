@@ -288,6 +288,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |L'Oréal|❌|Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
 |M&T Bank|❌||
+|Macy's|❌||
 |Magnopus|❌||
 |Manhattan Associates|❌||
 |Mattel|❌||
