@@ -511,7 +511,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Cerner Corporation|✅||
 |Charles Schwab|✅|Internships will be virtual for the duration of the program (9 weeks)|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
-|Chegg|✅ |Planning to proceed with most of our internship roles this summer, may be operating completely remotely, a handful of positions canceled|
+|Chegg|✅|Remote, a handful of positions canceled|
 |Chevron|✅|Remote|
 |Chewy|✅|Remote onboarding, will make decision at later time as to whether or not to stay remote|
 |Chick-Fill-A|✅|Option to participate in a virtual internship or defer internship to next summer.|
@@ -672,6 +672,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes. Start date pushed to June 29.|
 |Moss Adams|✅|In person, but preparing for remote if necessary|
 |Motorola Solutions|✅|Considering remote|
+|MousePaw Media|✅|Hiring|
 |Mozilla|✅|Remote Internship|
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15. Many offers however are being rescinded or left unfilled|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
@@ -753,6 +754,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |SAS|✅|Remote|
 |SC Johnson|✅||
 |Scholastic|✅|Remote until NYC opens.|
+|Seagate|✅|Remote|
 |ServiceNow|✅|Internship moved to remote|
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
@@ -800,7 +802,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|Preparing for a virtual summer internship.|
-|Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
+|Uber|✅|Fully virtual for interns joining teams based in US and Canada. Some new grad and intern offers rescinded|
 |UBS|✅|Program start date moved to July 6th. Completely virtual and still paid for 10 weeks.|
 |UnitedHealth Group|✅|Virtual. Starting on June 15. Duration will remain same.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
