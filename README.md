@@ -387,7 +387,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌|Cancelled all internships offers and some full time.|
-|T-Mobile|❌||
 |Team One|❌||
 |Tegna Inc.|❌||
 |Tenable|❌||
@@ -779,6 +778,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
 |SurveyMonkey|✅|Fully virtual.|
 |Susquehanna International Group|✅|Remote|
+|T-Mobile|✅|Conflicting reports. Need confirmation.|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
 |Target|✅|Software internships are virtual at Target, length reduced to 8 weeks. Executive Leadership Interns are still scheduled to work in stores on location this summer.|
