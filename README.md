@@ -15,14 +15,17 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Twilio|US|Internship|<ul><li>[Marketing Intern - Foundry](https://boards.greenhouse.io/twilio/jobs/2177824)</li></ul>|
+|Paytm|IN|Internship|<ul><li>[Internship - General Application](https://jobs.lever.co/paytm/44b96240-d12a-4e26-81d3-1f8e2eec49e1)</li></ul>|
+|Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
 |Cognizant|US|Full-time|<ul><li>[Multiple](https://careers.cognizant.com/studentandinterns/na/en/campus-jobs)</li></ul>|
 |Snowflake|US|Internship|<ul><li>[IT Compliance Intern](https://boards.greenhouse.io/snowflakecomputing/jobs/4721973002?t=ed5543a62)</li></ul>|
 |Earnest|US|Internship|<ul><li>[Data & Analytics Internship](https://www.earnest.com/careers?gh_jid=2145353)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern (MBA), San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
-|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern (MBA), Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
+|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, San Francisco, CA](https://www.coinbase.com/careers/positions/2173648)</li></ul>|
+|Coinbase|US|Internship|<ul><li>[Customer Experience Operations Intern - MBA, Portland, OR](https://www.coinbase.com/careers/positions/2173652)</li></ul>|
 |Coinbase|US|Internship|<ul><li>[Summer 2020 Compliance Tools and Strategic Initiatives Intern](https://www.coinbase.com/careers/positions/2178790)</li></ul>|
-|Salesforce|US|Co-op|<ul><li>[Fall 2020 Co-op - Business Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Business-Analyst_JR63152-1)</li></ul>|
-|Salesforce|US|Co-op|<ul><li>[Fall 2020 Co-op - Data and Automation Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Data-and-Automation-Analyst_JR63156-1)</li></ul>|
+|Salesforce|US|Internship|<ul><li>[Fall 2020 Co-op - Business Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Business-Analyst_JR63152-1)</li></ul>|
+|Salesforce|US|Internship|<ul><li>[Fall 2020 Co-op - Data and Automation Analyst](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Massachusetts---Boston/Fall-2020-Co-op---Data-and-Automation-Analyst_JR63156-1)</li></ul>|
 |Salesforce|US|Internship|<ul><li>[User Research Intern - Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/User-Research-Intern_JR64729-1)</li></ul>|
 |FIS|US|Internship|<ul><li>[Intern Technology](https://careers.fisglobal.com/us/en/job/JR0110329/Intern-Technology)</li></ul>|
 |FIS|US|Internship|<ul><li>[Technical Analyst Intern - Summer Intern Associate Development Program 2020](https://careers.fisglobal.com/us/en/job/JR92762/Technical-Analyst-Intern-Summer-Intern-Associate-Development-Program-2020)</li></ul>|
@@ -822,6 +825,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Two Sigma|✅|Preparing for a virtual summer internship.|
 |Uber|✅|Fully virtual for interns joining teams based in US and Canada. Some new grad and intern offers rescinded|
 |UBS|✅|Program start date moved to July 6th. Completely virtual and still paid for 10 weeks.|
+|Udemy|✅|Honoring all internships. Fully virtual. Shared by company representative.|
 |UnitedHealth Group|✅|Virtual. Starting on June 15. Duration will remain same.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
 |USAA|✅|Fully remote|
