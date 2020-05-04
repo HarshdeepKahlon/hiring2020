@@ -15,7 +15,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern (Summer 2020)](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
+|Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern, Summer 2020](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
 |Paradox|US|Internship|<ul><li>[Software Product Management Intern](https://careers.paradox.ai/software-product-management-intern/job/12670134)</li></ul>|
 |Jam City|US|Internship|<ul><li>[Multiple](https://jobs.lever.co/jamcity?commitment=Internship)</li></ul>|
 |athenahealth|US|Internship|<ul><li>[MBA Internship](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Watertown-MA/MBA-Internship_R946)</li></ul>|
