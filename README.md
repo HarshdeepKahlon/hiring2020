@@ -15,7 +15,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern (Summer 2020)](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
+|Zscaler|US|Internship|<ul><li>[Business Value Analyst Intern, Summer 2020](https://jobs.jobvite.com/zscaler/job/oTqtcfwI)</li></ul>|
 |Paradox|US|Internship|<ul><li>[Software Product Management Intern](https://careers.paradox.ai/software-product-management-intern/job/12670134)</li></ul>|
 |Jam City|US|Internship|<ul><li>[Multiple](https://jobs.lever.co/jamcity?commitment=Internship)</li></ul>|
 |athenahealth|US|Internship|<ul><li>[MBA Internship](https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Watertown-MA/MBA-Internship_R946)</li></ul>|
@@ -27,7 +27,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |JPMorgan|US|Internship|<ul><li>[Software Engineering Virtual Internship](https://careers.jpmorgan.com/US/en/students/campaign/virtual-internship?jp_cmp=en%20/employerbrand/programmatic/FB_InsideSherpa_1200x628/namr&search=&tags=location__Americas__UnitedStatesofAmerica)</li></ul>|
 |Open Water Accelerator|US|Internship|<ul><li>[Software Engineering Intern](https://openwatervc.com/intern.html)</li></ul>|
 |TerraClear|US|Internship|<ul><li>[AI Software Engineering Intern](https://docs.google.com/document/d/e/2PACX-1vSwaiZwhy8dA-PjzE_fz_bLOcUE2J-PrQRO-PcjeHdtZwfDdPOenvIq3KkQfKAGghyXnO1-lCrwoOC7/pub)</li></ul>|
-|TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern (Co-Op)](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
+|TwinStrand Biosciences|US|Internship|<ul><li>[Bioinformatics Science Intern](https://twinstrandbio.hrmdirect.com/employment/job-opening.php?req=1273938&&&nohd#job)</li></ul>|
 |UserTesting|US|Internship|<ul><li>[Sales Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4046479003)</li></ul>|
 |UserTesting|US|Internship|<ul><li>[Sales Strategy Intern](https://www.usertesting.com/about-us/jobs?gh_jid=4045833003)</li></ul>|
 |Y Combinator|US|Internship|<ul><li>[Y Combinator Summer Internship Program](https://www.workatastartup.com/internships)</li></ul>|
@@ -39,22 +39,22 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Trusaic|US|Internship|<ul><li>[Technical Product Associate Intern](https://boards.greenhouse.io/trusaic/jobs/4044284003)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Software Engineering](https://www.paclintra.com/careers/software-engineering-intern/)</li></ul>|
 |Paclintra|US|Internship|<ul><li>[2020 Summer Intern – Medical Affairs and Marketing](http://www.paclintra.com/careers/medical-affairs-marketing-intern/)</li></ul>|
-|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - (Internship)](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
-|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - (Internship)](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
+|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Business Analyst - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Jeffersonville-IN/Promising-Entrepreneur---Business-Analyst---Internship_R9965)</li></ul>|
+|Heartland Payment Systems|US|Internship|<ul><li>[Promising Entrepreneur - Product Manager - Internship](https://globalpay.wd1.myworkdayjobs.com/en-US/HeartlandCorporateCareers/job/Pearl-River-NY/Promising-Entrepreneur---Product-Manager---Internship_R9963)</li></ul>|
 |Dexcom|US|Internship|<ul><li>[Intern - Software Development](https://careers.dexcom.com/job/DEXCUS4977/Intern-Software-Development)</li></ul>|
 |Masimo|US|Internship|<ul><li>[MBA Product Marketing Intern Summer 2020](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4296)</li></ul>|
 |Masimo|US|Internship|<ul><li>[IT Helpdesk Intern](https://chu.tbe.taleo.net/chu02/ats/careers/v2/viewRequisition?org=MASIMO&cws=41&rid=4232)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship (Fall 2020)](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Software - Video Games Engineering Internship, Fall 2020](https://www.tesla.com/careers/job/software-videogamesengineeringinternshipfall2020-62784)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Systems Software Engineer Intern Fall 2020 - Autopilot](https://www.tesla.com/careers/job/systems-softwareengineerinternfall2020-autopilot-62886)</li></ul>|
 |Tesla|US|Internship|<ul><li>[Summer 2020 Internship, Data Platforms](https://www.tesla.com/careers/job/summer-2020internshipdataplatforms-62974)</li></ul>|
 |Tesla|US|Fall 2020 Internship|<ul><li>[Service Engineering Fall 2020 Intern – Charging Systems](https://www.tesla.com/careers/job/service-engineeringfall2020internchargingsystems-62977)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Perception Internship (Fall 2020)](https://www.tesla.com/careers/job/autopilot-perceptioninternshipfall2020-63017)</li></ul>|
-|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Motion Planning Engineer Intern (Fall 2020)](https://www.tesla.com/careers/job/autopilot-motionplanningengineerinternfall2020-63023)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Perception Internship, Fall 2020](https://www.tesla.com/careers/job/autopilot-perceptioninternshipfall2020-63017)</li></ul>|
+|Tesla|US|Fall 2020 Internship|<ul><li>[Autopilot - Motion Planning Engineer Intern, Fall 2020](https://www.tesla.com/careers/job/autopilot-motionplanningengineerinternfall2020-63023)</li></ul>|
 |mongoDB|US|Internship|<ul><li>[Technical Writer Intern - Summer 2020](https://www.mongodb.com/careers/jobs/2090083)</li></ul>|
-|UiPath|US|Internship|<ul><li>[Intern - Software Engineer (AI)](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
+|UiPath|US|Internship|<ul><li>[Intern - Software Engineer, AI](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-software-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer](https://www.uipath.com/company/careers/americas/bellevue/engineering-development/intern-ml-research-engineer/apply)</li></ul>|
 |UiPath|US|Internship|<ul><li>[Intern ML Research Engineer II](https://jobs.lever.co/uipath/0ed92faf-f138-4229-83c8-e8a8b5fdad72)</li></ul>|
-|Malwarebytes|US|Internship|<ul><li>[Summer Associate (MBA) Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
+|Malwarebytes|US|Internship|<ul><li>[Summer Associate MBA Intern](https://jobs.malwarebytes.com/job/2141999)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[Cost Analyst Intern, Global Operations](https://boards.greenhouse.io/purestorage/jobs/2108236)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Data Services](https://boards.greenhouse.io/purestorage/jobs/2160168)</li></ul>|
 |Pure Storage|US|Internship|<ul><li>[IT Intern, Software Automation](https://boards.greenhouse.io/purestorage/jobs/2160147)</li></ul>|
@@ -100,13 +100,13 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Ribbon Health|US|Internship|<ul><li>[Software Engineer - Internship](https://jobs.lever.co/ribbonhealth/79823d89-798e-48c1-a4df-711a8f28a1d8/apply)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Engineering](https://corp.roblox.com/careers/listing/?gh_jid=1860562)</li></ul>|
 |Roblox|US|Internship|<ul><li>[Design Intern](https://corp.roblox.com/careers/listing/?gh_jid=1860571)</li></ul>|
-|Shopee|SG|Full-time|<ul><li>[Engineering role (esp. Backend and Server)](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (iOS)](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
+|Shopee|SG|Full-time|<ul><li>[Engineering role - esp. Backend and Server](https://docs.google.com/forms/d/e/1FAIpQLSf3YL4kYQSrGj8r7SpWmWKPB3xmuLzot7OLQg_-VTM4RFn6eQ/viewform)</li></ul>|
+|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern - iOS](https://www.shopify.com/careers/mobile-developer-intern-ios-fall-2020-b0eb1f)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Backend Developer Intern](https://www.shopify.com/careers/backend-developer-intern-also-includes-roles-in-security-fall-2020-391b72)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[UX Developer Intern](https://www.shopify.com/careers/ux-developer-intern-fall-2020-7c2563)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Production Engineering/Site Reliability Intern](https://www.shopify.com/careers/production-engineering-site-reliability-intern-fall-2020-1169c2)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Data Science Intern](https://www.shopify.com/careers/data-science-intern-fall-2020-6ff515)</li></ul>|
-|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern (Android)](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
+|Shopify|CA|Fall 2020 Internship|<ul><li>[Mobile Developer Intern - Android](https://www.shopify.com/careers/mobile-developer-intern-android-fall-2020-fbf7d9)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Web Developer Intern](https://www.shopify.com/careers/web-developer-intern-fall-2020-e27054)</li></ul>|
 |Shopify|CA|Fall 2020 Internship|<ul><li>[Digital Product Design Intern](https://www.shopify.com/careers/digital-product-design-intern-fall-2020-868e44)</li></ul>|
 |Take-Two Interactive|US|Internship|<ul><li>[Digital Product Management MBA Summer Intern](https://boards.greenhouse.io/taketwo/jobs/2034978)</li></ul>|
@@ -163,6 +163,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Boar's Head Brand|❌||
 |Boom Supersonic|❌||
 |Booz Allen Hamilton|❌||
+|Bosch|❌|Decided to rescind offers after originally considering virtual internships.|
 |Boston Scientific|❌|Cancelled all internships and co-ops for all of 2020.|
 |Bright Health|❌||
 |British Airways|❌|Postponed to 2021|
@@ -217,6 +218,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EVERFI|❌||
 |Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
+|Fedex|❌|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
 |Formlabs|❌||
@@ -253,6 +255,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |iCIMS|❌||
 |IDEMIA|❌||
 |IDEO|❌|Ideo.org too|
+|IDEX|❌||
 |Idexx Laboratories|❌||
 |IGN|❌||
 |iHeartMedia|❌||
@@ -261,6 +264,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |InterSystems|❌||
 |Interbrand|❌||
 |IPG MediaBrands|❌||
+|IQVIA|❌||
 |JetBlue|❌|Deferred to Summer 2021.|
 |Jordan Blanchard Capital|❌||
 |Kabbage|❌||
@@ -285,6 +289,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |L'Oréal|❌|Guaranteed internship for summer 2021. Guaranteed first round interview for full-time.|
 |Lowe's|❌||
 |M&T Bank|❌||
+|Macy's|❌||
 |Magnopus|❌||
 |Manhattan Associates|❌||
 |Mattel|❌||
@@ -382,7 +387,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |SUEZ Water Technologies & Solutions|❌||
 |Sumo Logic|❌|Both Summer and Fall. Rescining full-time offers too.|
 |Sysco|❌|Cancelled all internships offers and some full time.|
-|T-Mobile|❌||
 |Team One|❌||
 |Tegna Inc.|❌||
 |Tenable|❌||
@@ -464,6 +468,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Apple|✅|Remote start for some. Start date pushed back for others. Depends on the team. More details to come.|
 |Appian|✅|Remote. Exact details still forthcoming, but they've committed to having it in some form thus far|
 |Ares Management|✅|Considering remote. Updates to follow.|
+|ARM|✅|Remote|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
 |ASRC Federal|✅||
@@ -490,8 +495,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |BNP Paribas|✅|Postponed start date to June 29. But will stick to original 10 week compensation.|
 |Bobcat|✅||
 |Boeing|✅|Will be going remote.|
-|Bosch|✅|Remote|
-|Boston Consulting Group (BCG)|✅|Gave interns full time offers. The internship (which is virtual now) is shortened to 7-10 weeks.|
+|Boston Consulting Group (BCG)|✅|Gave interns full time offers. The internship (which is virtual now) is shortened to 7-10 weeks. Also, incoming full-time employee start dates in North America are being delayed by 1-4 months.|
 |BP|✅|Will be virtual.|
 |Braze|✅||
 |Bristol Myers Squibb|✅||
@@ -507,7 +511,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Cerner Corporation|✅||
 |Charles Schwab|✅|Internships will be virtual for the duration of the program (9 weeks)|
 |Chartbeat|✅|Honoring all of its internships and all of its offers to former interns. If WFH on the "start date" new interns and employees will start working on that day, just remotely.|
-|Chegg|✅ |Planning to proceed with most of our internship roles this summer, may be operating completely remotely, a handful of positions canceled|
+|Chegg|✅|Remote, a handful of positions canceled|
 |Chevron|✅|Remote|
 |Chewy|✅|Remote onboarding, will make decision at later time as to whether or not to stay remote|
 |Chick-Fill-A|✅|Option to participate in a virtual internship or defer internship to next summer.|
@@ -545,6 +549,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Dish Netowrks|✅|Hiring Freeze|
 |DocuSign|✅||
 |Dolby|✅|PM role cancelled. No info about other roles.|
+|DoorDash|✅|Remote.|
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
 |Dropbox|✅||
@@ -567,7 +572,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Fandago|✅|Hiring Freeze|
 |Fannie Mae|✅|Remote Internship. Program start date remains June 1. Program duration will be 6 weeks. All internship and full-time offers honored.|
 |FBI|✅|Reports that some internships are getting cancelled.|
-|Fedex|✅|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
 |Fiat/FCA|✅|Made internship virtual. Laptops being shipped. FCA intends for an end of internship summit at HQ to present work of the interns. Ten week program startimng from June 1.|
 |FireEye|✅|Internship program will proceed. Moving to 100% virtual.|
 |Fidelity Investments|✅|Moved to virtual setting. Duration has been cut to 9 weeks.|
@@ -646,7 +650,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Lori Friedman-Revolution Financial Management|✅||
 |Los Alamos National Labs|✅|Hiring Freeze|
 |Los Angeles Rams|✅|Hiring Freeze|
-|Lyft|✅|Fully virtual|
+|Lyft|✅|Fully virtual. Reduced intern pay to 50%, cut internship short to 8 weeks.|
 |Manulife Canada|✅|Remote|
 |Marathon Petroleum|✅|Continues to plan for their summer 2020 internships.|
 |Mark Cuban Companies|✅|Still determining the status if it will be fully remote or not|
@@ -668,6 +672,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Morgan Stanley|✅|Most programs will be virtual. Interns will receive full compensation even if length of the program changes. Start date pushed to June 29.|
 |Moss Adams|✅|In person, but preparing for remote if necessary|
 |Motorola Solutions|✅|Considering remote|
+|MousePaw Media|✅|Hiring|
 |Mozilla|✅|Remote Internship|
 |NASA|✅|Internships will be held remotely. However some internships cannot be done remotely, in which case they will be rescinding some offers. Interns will be hearing the decision no later than May 15. Many offers however are being rescinded or left unfilled|
 |Nasdaq|✅|Hosting a Virtual Program instead of an on-site internship for North America.|
@@ -749,6 +754,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |SAS|✅|Remote|
 |SC Johnson|✅||
 |Scholastic|✅|Remote until NYC opens.|
+|Seagate|✅|Remote|
 |ServiceNow|✅|Internship moved to remote|
 |Shiseido|✅|Hiring put on hold.|
 |Shopify|✅|Internships will be remote until further notice|
@@ -774,6 +780,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Stripe|✅|Fully remote. New grad onboarding remote too.|
 |SurveyMonkey|✅|Fully virtual.|
 |Susquehanna International Group|✅|Remote|
+|T-Mobile|✅|Conflicting reports. Need confirmation.|
 |Tableau|✅|Won't be cancelled. Remote if necessary.|
 |Talend|✅|Remote Internship|
 |Target|✅|Software internships are virtual at Target, length reduced to 8 weeks. Executive Leadership Interns are still scheduled to work in stores on location this summer.|
@@ -795,7 +802,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Twitch|✅|Remote Internship. Hiring freeze.|
 |Twitter|✅|100% Virtual. Interns will still get the same compensation, and start dates will be June 8th or June 22nd. All May start dates will be moved to the June 8th start date.|
 |Two Sigma|✅|Preparing for a virtual summer internship.|
-|Uber|✅|Fully virtual for interns joining teams based in US and Canada.|
+|Uber|✅|Fully virtual for interns joining teams based in US and Canada. Some new grad and intern offers rescinded|
 |UBS|✅|Program start date moved to July 6th. Completely virtual and still paid for 10 weeks.|
 |UnitedHealth Group|✅|Virtual. Starting on June 15. Duration will remain same.|
 |Unity|✅|Software Developer positions will be remote until safe to re-enter offices.|
