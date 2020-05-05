@@ -1,4 +1,4 @@
-# Hiring Status - COVID-19
+# Internships and New Grad Jobs
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
 If you're a **recruiter or a company representative**, we encourage you to verify your current internship status to avoid any false information floating around. Please email us from your official email - cr@hiring20.com . Also, if you are actively hiring, please drop us a mail and we can add/remove your positions here.
@@ -239,7 +239,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EVERFI|❌||
 |Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
-|Fedex|❌|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
+|Fedex|❌|Not cancelled for SWE and Data Science in Fedex Services. All other roles in Fedex Freight, FedEx Express, and Fedex services cancelled.|
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
 |Formlabs|❌||
@@ -300,7 +300,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Kohler Engines|❌||
 |Lands' End|❌||
 |L Brands|❌||
-|LEK consulting|❌|Cancelled their internship program but offered interns full time 2021 offers.|
+|LEK consulting|❌|Cancelled their internship program but offered interns full time 2021 offers. Not applicable to London office.|
 |LendingClub|❌||
 |Leo Burnett|❌||
 |Lifeway Christian Resources|❌||
@@ -503,7 +503,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Barclays|✅|Start date changed to July 6. Total compensation will remain same.|
-|Becton Dickinson |✅|Remote|
+|Becton Dickinson |✅|Remote. Cancelled R&D roles.|
 |Benevity|✅|Remote|
 |Bethesda|✅|Hiring Freeze|
 |BlackRock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
@@ -586,7 +586,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EverQuote|✅||
 |Expedia|✅|Moved to virtual. Shortened to 10 weeks, June 15 - August 21. Revised offer letter will be sent out.|
 |ExxonMobil|✅|Pushed start dates to June 1st.|
-|EY-Parthenon|✅|| 
+|EY-Parthenon|✅|Cancelled for London office.| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided. Some internships cancelled due to reasons like interns moved out of US or remote work not possible for the job.|
 |FactSet|✅|For client solutions interns, virtual for 7 weeks from June 15 to July 31st.|
