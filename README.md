@@ -503,7 +503,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Bank of Montreal|✅|Remote for time being. Start date unchanged.|
 |Bank of the West|✅|Remote internship for 10 weeks.|
 |Barclays|✅|Start date changed to July 6. Total compensation will remain same.|
-|Becton Dickinson |✅|Remote|
+|Becton Dickinson |✅|Remote. Cancelled R&D roles.|
 |Benevity|✅|Remote|
 |Bethesda|✅|Hiring Freeze|
 |BlackRock|✅|Converted to virtual. Honoring full compensation agreement. Start date may change.|
