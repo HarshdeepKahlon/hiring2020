@@ -300,7 +300,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Kohler Engines|❌||
 |Lands' End|❌||
 |L Brands|❌||
-|LEK consulting|❌|Cancelled their internship program but offered interns full time 2021 offers.|
+|LEK consulting|❌|Cancelled their internship program but offered interns full time 2021 offers. Not applicable to London office.|
 |LendingClub|❌||
 |Leo Burnett|❌||
 |Lifeway Christian Resources|❌||
@@ -586,7 +586,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EverQuote|✅||
 |Expedia|✅|Moved to virtual. Shortened to 10 weeks, June 15 - August 21. Revised offer letter will be sent out.|
 |ExxonMobil|✅|Pushed start dates to June 1st.|
-|EY-Parthenon|✅|| 
+|EY-Parthenon|✅|Cancelled for London office.| 
 |F5 Networks|✅|Won't be cancelling. Remote or In-person decision by April 17th|
 |Facebook|✅|Remote. Corporate housing will be available for those who would like to take it or a housing stipend will be provided. Some internships cancelled due to reasons like interns moved out of US or remote work not possible for the job.|
 |FactSet|✅|For client solutions interns, virtual for 7 weeks from June 15 to July 31st.|
