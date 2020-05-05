@@ -1,4 +1,4 @@
-# Hiring Status - COVID-19
+# Hiring - COVID-19
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
 If you're a **recruiter or a company representative**, we encourage you to verify your current internship status to avoid any false information floating around. Please email us from your official email - cr@hiring20.com . Also, if you are actively hiring, please drop us a mail and we can add/remove your positions here.
