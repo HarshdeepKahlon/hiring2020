@@ -239,7 +239,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |EVERFI|❌||
 |Excellus Blue Cross Blue Shield|❌||
 |ExtraHop|❌||
-|Fedex|❌|FedEx Freight cancelled. FedEx Services postponed until Fall/Spring. Interns have option to pick either.|
+|Fedex|❌|Not cancelled for SWE and Data Science in Fedex Services. All other roles in Fedex Freight, FedEx Express, and Fedex services cancelled.|
 |Flipp|❌|Offers Rescinded|
 |Forbes|❌||
 |Formlabs|❌||
