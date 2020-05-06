@@ -15,6 +15,21 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Vatic Labs|US|Internship|<ul><li>[Quantitative Research Intern](http://www.vaticlabs.ai/careers/1751323/?gh_jid=1751323)</li></ul>|
+|Vatic Labs|US|Full-time|<ul><li>[Algorithmic Trader](http://www.vaticlabs.ai/careers/72038/?gh_jid=72038)</li></ul>|
+|Vatic Labs|US|Full-time|<ul><li>[Quantitative Researcher](http://www.vaticlabs.ai/careers/53549/?gh_jid=53549)</li></ul>|
+|Vatic Labs|US|Full-time|<ul><li>[Software Engineer](http://www.vaticlabs.ai/careers/53508/?gh_jid=53508)</li></ul>|
+|ROI·DNA|US|Internship|<ul><li>[Visual Design Intern](https://boards.greenhouse.io/roidna/jobs/4727817002?gh_src=215a75432us)</li></ul>|
+|Dematic|US|Internship|<ul><li>[Product Management Intern](https://jobus-dematic.icims.com/jobs/12184/product-management-intern/job)</li></ul>|
+|Micro Focus|US|Internship|<ul><li>[Corporate Marketing Intern](https://jobs.microfocus.com/global/en/job/7015095/Corporate-Marketing-Intern)</li></ul>|
+|Micro Focus|US|Internship|<ul><li>[Product Technology Engineering Intern - Vertica](https://jobs.microfocus.com/global/en/job/7011757/Product-Technology-Engineering-Intern-Vertica)</li></ul>|
+|Micro Focus|US|Internship|<ul><li>[Product Technology Engineering Intern](https://jobs.microfocus.com/global/en/job/7011751/Product-Technology-Engineering-Intern)</li></ul>|
+|Micro Focus|US|Internship|<ul><li>[Technical Writer Intern - Vertica](https://jobs.microfocus.com/global/en/job/7011692/Technical-Writer-Intern-Vertica)</li></ul>|
+|CrowdStrike|US|Internship|<ul><li>[Web Service Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Web-Service-Intern--Remote-_R944-1?source=tmp_link)</li></ul>|
+|CrowdStrike|US|Internship|<ul><li>[Marketing Intern](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Marketing-Intern--Remote-_R943?source=tmp_link)</li></ul>|
+|Equinix|US|Internship|<ul><li>[Intern: Strategic Alliances & Global Accounts](https://jumpstart.me/discover/jobs/equinix/intern-strategic-alliances-global-accounts/924a3531-4497-4a3e-bf30-2fe821ed9a78)</li></ul>|
+|Akamai Technologies|US|Full-time|<ul><li>[Associate Technical Project Manager - e-commerce travel and hospitality](https://akamaicareers.inflightcloud.com/app/ui/jobdetails/aka_ext/020927)</li></ul>|
+|Akamai Technologies|US|Full-time|<ul><li>[Q/A Engineer](https://akamaicareers.inflightcloud.com/app/ui/jobdetails/aka_ext/021032?searchable=%255B%255D)</li></ul>|
 |Twilio|US|Internship|<ul><li>[Marketing Intern - Foundry](https://boards.greenhouse.io/twilio/jobs/2177824)</li></ul>|
 |Paytm|IN|Internship|<ul><li>[Internship - General Application](https://jobs.lever.co/paytm/44b96240-d12a-4e26-81d3-1f8e2eec49e1)</li></ul>|
 |Shuffle|US|Internship|<ul><li>[Software Engineering Intern](https://www.notion.so/Software-Engineer-Intern-Shuffle-a69575e72c4344cda41abc214df71112)</li></ul>|
