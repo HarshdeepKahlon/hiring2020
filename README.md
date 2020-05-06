@@ -1,4 +1,4 @@
-# Internships and New Grad Jobs
+# Hiring
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
 If you're a **recruiter or a company representative**, we encourage you to verify your current internship status to avoid any false information floating around. Please email us from your official email - cr@hiring20.com . Also, if you are actively hiring, please drop us a mail and we can add/remove your positions here.
@@ -483,6 +483,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |American Express|✅|Fully virtual. Hiring Freeze. Certain positions being cancelled.|
 |Amgen|✅|Remote|
 |Anheuser-Busch InBev|✅||
+|Ankura|✅|Virtual. Reduced to 5 weeks and 20 hours per week minimum. Confirmed by company representative.|
 |Anyscale|✅|[Actively Hiring](https://jobs.lever.co/anyscale)|
 |Aon|✅|Will be remote. New start date will be June 22.|
 |AppFolio|✅||
@@ -550,6 +551,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Collins Aerospace|✅|Remote|
 |CommScope|✅|Honoring all offers made. Virtual if needed. Hiring freeze.|
 |Constant Contact|✅||
+|Converse|✅|Will be hosting a remote summer internship program. Confirmed by company representative.|
 |Coveo|✅|Remote work, if needed|
 |Cox Enterpise|✅| Cox Communications is honoring all offers for 2rd and 3rd rotation returning interns. Only Cox Automotive and Cox Media Cancelled.|
 |Creative Artists Agency|✅||
@@ -579,6 +581,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |edX|✅||
 |Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
 |Electronic Arts|✅|Remote|
+|Eli Lilly|✅|For Indianapolis HQ location - Virtual, continuing their IDS (information and digital solutions) internships with full pay and length.|
 |Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |ERCOT (Energy Reliability Council of Texas)|✅|Remote.|
@@ -848,7 +851,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |WePay|✅|Won't be cancelling|
 |Western Digital|✅|Virtual Internship. Duration shortened to 10 weeks and start date isn't changed. Applies to India too.|
 |WGBH|✅|Remote|
-|Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual.|
+|Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual. Start date to remain same.|
 |Wish|✅|Remote. Hiring Freeze|
 |Wolfram|✅|Remote|
 |WSP|✅|Start date postponed to June 15th|
