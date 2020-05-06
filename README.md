@@ -850,7 +850,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |WePay|✅|Won't be cancelling|
 |Western Digital|✅|Virtual Internship. Duration shortened to 10 weeks and start date isn't changed. Applies to India too.|
 |WGBH|✅|Remote|
-|Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual.|
+|Willis Towers Watson|✅|Internship shortened from 10 weeks to 8 weeks and will be virtual. Start date to remain same.|
 |Wish|✅|Remote. Hiring Freeze|
 |Wolfram|✅|Remote|
 |WSP|✅|Start date postponed to June 15th|
