@@ -581,7 +581,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |edX|✅||
 |Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
 |Electronic Arts|✅|Remote|
-|Eli Lilly|✅|Virtual for Indianapolis HQ location. Continuing their IDS (information and digital solutions) internships with full pay and length.|
+|Eli Lilly|✅|For Indianapolis HQ location - Virtual, continuing their IDS (information and digital solutions) internships with full pay and length.|
 |Ernst & Young (EY)|✅|Completely remote. Changed internship duration - July 6 to August 7 now (cut short from 8 weeks to 5 weeks)| 
 |Epsilon|✅|Considering remote. Decision by mid-April.| 
 |ERCOT (Energy Reliability Council of Texas)|✅|Remote.|
