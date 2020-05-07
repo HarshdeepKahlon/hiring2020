@@ -442,6 +442,7 @@ This document will be updated regularly as new information becomes available. **
 |Ticketmaster|❌|Canceled their summer internship program.|
 |TJX|❌||
 |Toast|❌|Internships in Boston cancelled. Full-time offers too.|
+|Tower Research Capital|❌|Internships in India cancelled.|
 |Toyota Connected|❌||
 |TPRI|❌||
 |Transamerica|❌||
