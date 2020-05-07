@@ -276,6 +276,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Group Nine Media|❌||
 |Groupon|❌||
 |Guideline|❌||
+|Gulfstream Aerospace|❌|Canceled their summer Co-op and internship programs.|
 |Halff Associates|❌||
 |Halliburton|❌|Interns offered half of the pay for the summer as stipend.|
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
