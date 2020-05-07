@@ -16,6 +16,11 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
+|Ashoka|US|Internship|<ul><li>[Onboarding and Engagement Intern](https://jobs.jobvite.com/ashoka/job/ob4dcfwo)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Product Management Intern](https://jobs.jobvite.com/ashoka/job/oUNCbfwe)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Executive Office Intern](https://jobs.jobvite.com/ashoka/job/oLiD9fwz)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Strategic Entrepreneur Relationships - MBA Intern](https://jobs.jobvite.com/ashoka/job/oGfDcfwu)</li></ul>|
+|Ashoka|US|Internship|<ul><li>[Ashoka - US Team - Intern](https://jobs.jobvite.com/ashoka/job/oMyCcfwS)</li></ul>|
 |Vatic Labs|US|Internship|<ul><li>[Quantitative Research Intern](http://www.vaticlabs.ai/careers/1751323/?gh_jid=1751323)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Algorithmic Trader](http://www.vaticlabs.ai/careers/72038/?gh_jid=72038)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Quantitative Researcher](http://www.vaticlabs.ai/careers/53549/?gh_jid=53549)</li></ul>|
@@ -510,6 +515,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |ARM|✅|Remote|
 |AT&T|✅|Going remote.|
 |Atlassian|✅|Going fully remote|
+|Ashoka|✅|Remote for internships with teams operating from the Ashoka Global office in Arlington, Virginia.|
 |ASRC Federal|✅||
 |Audible|✅|On track to begin June 1|
 |Aurora|✅|Hiring freeze. Considering remote. Considering winter internship.|
