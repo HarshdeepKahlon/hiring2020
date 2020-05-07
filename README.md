@@ -1,7 +1,7 @@
 # HIRING
 This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-If you're a **recruiter or a company representative**, we encourage you to verify your current internship status to avoid any false information floating around. Please email us from your official email - cr@hiring20.com . Also, if you are actively hiring, please drop us a mail and we can add/remove your positions here.
+**If you are actively hiring or know of companies actively hiring, please fill this [form](https://forms.gle/PM7rdswc4Cx716WWA) to add your job to the actively hiring list.**
 
 **You can also follow us on social media for regular job and status updates.**
 1. [Linkedin](https://www.linkedin.com/company/hiring20)
