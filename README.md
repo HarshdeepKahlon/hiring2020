@@ -25,6 +25,7 @@ This document will be updated regularly as new information becomes available. **
 |Vatic Labs|US|Full-time|<ul><li>[Algorithmic Trader](http://www.vaticlabs.ai/careers/72038/?gh_jid=72038)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Quantitative Researcher](http://www.vaticlabs.ai/careers/53549/?gh_jid=53549)</li></ul>|
 |Vatic Labs|US|Full-time|<ul><li>[Software Engineer](http://www.vaticlabs.ai/careers/53508/?gh_jid=53508)</li></ul>|
+|POWER KICK|KR|Internship|<ul><li>[Software Engineering Intern](https://forms.gle/b7iEFHAs6oA64Pfm8)</li></ul>|
 |ROI·DNA|US|Internship|<ul><li>[Visual Design Intern](https://boards.greenhouse.io/roidna/jobs/4727817002?gh_src=215a75432us)</li></ul>|
 |Dematic|US|Internship|<ul><li>[Product Management Intern](https://jobus-dematic.icims.com/jobs/12184/product-management-intern/job)</li></ul>|
 |Micro Focus|US|Internship|<ul><li>[Corporate Marketing Intern](https://jobs.microfocus.com/global/en/job/7015095/Corporate-Marketing-Intern)</li></ul>|
