@@ -755,7 +755,7 @@ This document will be updated regularly as new information becomes available. **
 |Pagerduty|✅|Fully remote.|
 |Palantir|✅||
 |Palo Alto Networks|✅ |Fully remote|
-|Pandora|✅||
+|Pandora|✅|Virtual Internship|
 |Parker Hannifinn|✅||
 |PayPal|✅|Remote work for all North America interns|
 |Pegasystems|✅|Remote.|
